@@ -2663,13 +2663,211 @@ footwear:
         - winklepickers
 
 head:
-  business:
   casual:
-  cocktail:
+    summer:
+      - head bandana
+      - baseball cap
+      - beanie
+      - beret
+      - boater hat
+      - bucket hat
+      - cloche hat
+      - fedora
+      - flat cap
+      - newsboy cap
+      - snapback cap
+      - straw fedora
+      - straw hat
+      - sun hat
+      - sun visor
+      - trucker hat
+      - safari hat
+      - visor
+      - wide brim hat
+      - wide-brimmed sun hat
+    winter:
+      - aviator hat
+      - balaclava
+      - beanie
+      - ear muffs
+      - earmuffs
+      - fedora
+      - flat cap
+      - flat cap
+      - fur lined trapper hat
+      - knit hat
+      - newsboy cap
+      - pom pom beanie
+      - ski cap
+      - snapback cap
+      - trapper hat
+      - trilby hat
+      - wide brim hat
+      - wool fedora
+      - wool hat
   formal:
-  military:
+    female:
+      - ascot cap
+      - balmoral bonnet
+      - birdcage veil
+      - bobby pins
+      - bumper brim hat
+      - cartwheel hat
+      - cloche hat
+      - fascinator
+      - flower fascinator
+      - headband
+      - headpiece
+      - headscarf
+      - headwrap
+      - juliet cap
+      - pillbox hat
+      - tiara
+      - veil
+    male:
+      - black tie hat
+      - bowler hat
+      - derby hat
+      - ascot cap
+      - balmoral bonnet
+      - flat cap
+      - feathered cavalier hat
+      - fedora
+      - homburg hat
+      - pork pie hat
+      - top hat
+      - trilby hat
   active:
+    caps:
+      - baseball cap
+      - snapback cap
+      - trucker cap
+      - dad cap
+      - fitted cap
+      - curved brim cap
+      - flat brim cap
+      - flexfit cap
+      - five-panel cap
+    beanies:
+      - knit beanie
+      - slouchy beanie
+      - cuffed beanie
+      - pom-pom beanie
+      - fisherman beanie
+      - fleece beanie
+      - running beanie
+    headbands:
+      - athletic headband
+      - sweatband
+      - head wrap bandana
+    visors:
+      - tennis visor
+      - golf visor
+    sun:
+      - wide-brim sun hat
+      - bucket hat
+      - boonie hat
+      - safari hat
+    winter:
+      - ski hat
+      - snowboard hat
+      - snowmobile hat
+    cycling:
+      - cycling cap
+      - skull cap helmet liner
+    running:
+      - lightweight running cap
+      - running visor
+    tennis:
+      - tennis cap
+      - tennis visor
+    golf:
+      - golf cap
+      - golf visor
   sleepwear:
+    - sleep cap
+    - sleep bonnet
+    - sleep hat with pompom
+  regional:
+    african:
+      - abeti-aja hat
+      - aso oke hat
+      - dogon hat
+      - fez
+      - fulani hat
+      - gele
+      - herero headdress
+      - isocholo hat
+      - kofiya
+      - kufi
+      - makrapa hat
+      - misango cap
+      - mpaan cap
+    asia:
+      - conical hat
+      - dhaka topi hat
+      - elechek hat
+      - gat hat
+      - gaung baung hat
+      - jaapi hat
+      - jingasa hat
+      - karakil hat
+      - non la hat
+      - pakol hat
+    central_american:
+      - sombrero
+      - panama hat
+      - angisa hat
+      - straw hat
+    south_american:
+      - bororo headpiece
+      - vueltiao hat
+      - chullo
+      - gaucho hat
+      - chupalla hat
+    european:
+      - bearskin hat
+      - beret
+      - bicorne hat
+      - cacuila hat
+      - chichak helmet
+      - cordovan hat
+      - custodian helmet
+      - deerstalker hat
+      - fisherman cap
+      - flat cap
+      - hennin hat
+      - kepi hat
+      - krakowiak hat
+      - montera hat
+      - newsboy cap
+      - sajkaca hat
+      - sibenik cap
+      - tam o'shanter
+      - tricorn hat
+      - tyrolean hat
+      - ushanka hat
+    middle_eastern:
+      - agal
+      - keffiyeh
+      - pakol
+      - shemagh
+      - taqiyah
+      - tembel hat
+      - turban
+    north_american:
+      - campaign hat
+      - cloche hat
+      - coonskin cap
+      - cowboy hat
+      - event hat
+      - garrison cap
+      - maryland eightpoint cap
+      - peaked cap
+      - rasta hat
+      - stetson
+      - ten gallon hat
+      - tricorne hat
   occupational:
     academic:
       - academic beret
@@ -2682,12 +2880,87 @@ head:
       - tudor bonnet
       - velvet pileus
     construction:
+      - hard hat
+      - safety helmet
+      - bump cap
     firefighting:
+      - firefighter helmet
+      - firefighter hood
     food_service:
+      - chef hat
+      - toque
     law_enforcement:
+      - campaign hat
+      - police hat
+      - police helmet
+      - police cap
+      - police beret
+      - police helmet
+      - police cap
+      - police beret
     medical:
+      - scrub cap
+      - surgical cap
+      - surgical hood
     military:
+      - balmoral bonnet
+      - bearskin hat
+      - beret
+      - biretta hat
+      - boonie hat
+      - busby
+      - campaign hat
+      - cap with ear flaps
+      - chako
+      - cocked hat
+      - fatigue cap
+      - field cap
+      - forage cap
+      - garrison cap
+      - kasket cap
+      - kepi
+      - officer's hat
+      - patrol cap
+      - peaked cap
+      - pith helmet
+      - service cap
+      - shako
+      - side cap
+      - slouch hat
+      - tam o'shanter
+      - tricorn hat
+      - zucchetto hat
     performer:
+      - beret
+      - bowler hat
+      - cap
+      - cloche hat
+      - coif
+      - crown
+      - derby hat
+      - fedora
+      - fez
+      - flat cap
+      - garrison cap
+      - hat
+      - helmet
+      - hood
+      - kepi
+      - mitre
+      - mortarboard
+      - newsboy cap
+      - peaked cap
+      - pillbox hat
+      - shako
+      - slouch hat
+      - sombrero
+      - stetson
+      - ten gallon hat
+      - top hat
+      - tricorne hat
+      - turban
+      - ushanka
+      - zucchetto
     religious:
       - biretta
       - bonnet
@@ -2701,6 +2974,11 @@ head:
       - tam
       - zucchetto
     transportation:
+      - cap
+      - hat
+      - helmet
+      - hood
+      - visor
 
 tops:
   business:
