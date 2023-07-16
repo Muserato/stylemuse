@@ -682,23 +682,40 @@ accessory:
 
   wrist:
     business:
+      - cufflinks
+      - watch
+      - wristwatch
     casual:
-    cocktail:
+      - Bracelet
+      - Bangles
+      - Beaded wristband
+      - Leather cuffs
+      - Silicone wristband
+      - Friendship bracelet
+      - Charm bracelet
+      - Stretch bracelet
+      - Handmade wristband
+      - Fabric wristband
     formal:
-    military:
+      female:
+        - gemstone bracelet
+        - fine metal bangle
+        - beaded wristband
+        - dress watch
+        - gold bracelet
+      male:
+        - luxury watch
+        - wristwatch
+        - cufflinks
+        - gold bracelet
     active:
-    sleepwear:
-    occupational:
-      academic:
-      construction:
-      firefighting:
-      food_service:
-      law_enforcement:
-      medical:
-      military:
-      performer:
-      religious:
-      transportation:
+      - fitness tracker
+      - fitness watch
+      - smartwatch
+      - sports watch
+      - step counter
+      - sweatbands
+
 
 bottoms:
   bohemian:
@@ -2665,26 +2682,45 @@ footwear:
 head:
   casual:
     summer:
-      - head bandana
-      - baseball cap
-      - beanie
-      - beret
-      - boater hat
-      - bucket hat
-      - cloche hat
-      - fedora
-      - flat cap
-      - newsboy cap
-      - snapback cap
-      - straw fedora
-      - straw hat
-      - sun hat
-      - sun visor
-      - trucker hat
-      - safari hat
-      - visor
-      - wide brim hat
-      - wide-brimmed sun hat
+      female:
+        - head bandana
+        - baseball cap
+        - beanie
+        - beret
+        - boater hat
+        - bucket hat
+        - cloche hat
+        - fedora
+        - flat cap
+        - newsboy cap
+        - snapback cap
+        - straw fedora
+        - straw hat
+        - sun hat
+        - sun visor
+        - trucker hat
+        - safari hat
+        - visor
+        - wide brim hat
+        - wide-brimmed sun hat
+      male:
+        - baseball cap
+        - beanie
+        - beret
+        - boater hat
+        - bucket hat
+        - fedora
+        - flat cap
+        - newsboy cap
+        - snapback cap
+        - straw fedora
+        - straw hat
+        - sun visor
+        - trucker hat
+        - safari hat
+        - visor
+        - wide brim hat
+        - wide-brimmed sun hat
     winter:
       - aviator hat
       - balaclava
