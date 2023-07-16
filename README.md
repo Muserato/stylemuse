@@ -23,19 +23,19 @@ The premade promtps include folders for males and females.  These will only pull
 ## VARIABLES 
 To use all items in a category in your prompt, copy any of the sub-options in the Wildcards, and replace the category with an asteriks as shown in the examples below.  This will add all items in that category to your prompt.  The first example below will add all colors hues to your prompt.  The second example will add all colors to your prompt.
 
-> \_\_stylemuse/lib/color/hues/*\_\_  
+> \_\_stylemuse/_lib/color/hues/*\_\_  
 
-> \_\_stylemuse/lib/color/*\_\_  
+> \_\_stylemuse/_lib/color/*\_\_  
 
 To create matching outfits, you can use the variables function in Dynamic Prompts, create a prompt with the following format by using the dollar sign and curly brackets.  Setting the variable is done using the equal sign, then setting the variable.  To use the variable in your prompt, use the dollar sign and curly brackets.  
 
 The example below will create a variable called motif and set it to a random egyptian animal motif, what follows is the use of the motif variable.  The result will be a random egyptian animal motif and a random royal chest accessory.  Adding an exclamation point(!) after the variable will ensure that the variable is only set once per prompt, resulting in a matching outfit.
 
-> ${motif!=\_\_stylemuse/lib/motifs/ancient/egyptian/animals\_\_} ${motif} \_\_stylemuse/apparel/ancient/egyptian/accessory/chest/royal\_\_ {motif} \_\_stylemuse/apparel/ancient/egyptian/head/royal/*\_\_  
+> ${motif!=\_\_stylemuse/_lib/motifs/ancient/egyptian/animals\_\_} ${motif} \_\_stylemuse/ancient/egyptian/accessory/chest/royal\_\_ {motif} \_\_stylemuse/ancient/egyptian/head/royal/*\_\_  
 
 To randomize the variables, remove the exclamation point from the variable declaration as shown below.  This will randomize the variable every time it is used in the prompt, resulting in a random egyptian animal motif for the chest accessory and a different motif for the headwear. 
 
-> ${motif=\_\_stylemuse/lib/motifs/ancient/egyptian/animals\_\_} $ \_\_stylemuse/apparel/ancient/egyptian/accessory/chest/royal\_\_ {motif} \_\_stylemuse/apparel/ancient/egyptian/head/royal/*\_\_  
+> ${motif=\_\_stylemuse/_lib/motifs/ancient/egyptian/animals\_\_} $ \_\_stylemuse/ancient/egyptian/accessory/chest/royal\_\_ {motif} \_\_stylemuse/ancient/egyptian/head/royal/*\_\_  
 
 Keep in mind that token bleed is possible.  E.g. when prompting animal motifs the actual animal might appear in the image, or when prompting a color additional things in the image might take on the color.  In some situations using the BREAK keyword in between uses of the variables might help.  Also extensions such as regional prompt might help keep things in their place.
 

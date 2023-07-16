@@ -1,0 +1,11 @@
+####################################
+###        PROMPT SAMPLES        ###
+####################################
+
+### The following are examples of prompts using bottom wear only. ###
+
+#  Casual male summer prompts
+
+${mat=__stylemuse/_lib/materials/fabrics/modern/casual_summer__} ${col=__stylemuse/_lib/color/hues/all__} shirtless, wearing __stylemuse/modern/footwear/casual/male/summer__ ${mat} ${col} colored __stylemuse/modern/bottoms/casual/male/shorts__, __stylemuse/modern/accessory/face/sunglasses__ BREAK ${col} __stylemuse/modern/head/casual/summer/male__, __stylemuse/modern/accessory/wrist/casual__
+
+${mat=__stylemuse/_lib/materials/fabrics/modern/casual_summer__} ${col=__stylemuse/_lib/color/hues/all__} open shirt, wearing __stylemuse/modern/footwear/casual/male/fabric__ ${mat} ${col} colored __stylemuse/modern/bottoms/casual/male/shorts__, __stylemuse/modern/accessory/face/sunglasses__ BREAK ${col} __stylemuse/modern/head/casual/summer/male__, __stylemuse/modern/accessory/wrist/casual__
