@@ -1,0 +1,92 @@
+all:
+  - anubis
+  - aten
+  - bastet
+  - bes
+  - horus
+  - isis
+  - khepri
+  - maat
+  - nefertiti
+  - osiris
+  - sekhmet
+  - shu
+  - thoth
+  - ankh
+  - cartouche
+  - djed
+  - eye of horus
+  - eye of ra
+  - feather of maat
+  - lotus flower
+  - scarab beetle
+  - sekhem
+  - shen
+  - sphinx
+  - wadjet
+  - winged disk
+  - winged sun
+  - baboon
+  - bull
+  - cat
+  - crocodile
+  - cobra
+  - falcon
+  - fish
+  - hippopotamus
+  - ibex
+  - ibis
+  - jackal
+  - lion
+  - ostrich
+  - scorpion
+  - serpent
+  - snake
+  - vulture
+deity:
+  - anubis
+  - aten
+  - bastet
+  - bes
+  - horus
+  - isis
+  - khepri
+  - maat
+  - nefertiti
+  - osiris
+  - sekhmet
+  - shu
+  - thoth
+symbols:
+  - ankh
+  - cartouche
+  - djed
+  - eye of horus
+  - eye of ra
+  - feather of maat
+  - lotus flower
+  - scarab beetle
+  - sekhem
+  - shen
+  - sphinx
+  - wadjet
+  - winged disk
+  - winged sun
+animals:
+  - baboon
+  - bull
+  - cat
+  - crocodile
+  - cobra
+  - falcon
+  - fish
+  - hippopotamus
+  - ibex
+  - ibis
+  - jackal
+  - lion
+  - ostrich
+  - scorpion
+  - serpent
+  - snake
+  - vulture

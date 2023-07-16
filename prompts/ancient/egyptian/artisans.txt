@@ -1,0 +1,36 @@
+# Ancient Egyptian styles for artisan males
+# tops, bottoms, footwear, and headwear
+
+# topless, bottoms, footwear, and headwear
+
+# fullbody, footwear, and headwear
+ 
+# tops, bottoms, barefoot, and headwear
+
+# bottoms, barefoot, barechest, and headwear
+
+# fullbody, barefoot, and headwear
+
+# tops, bottoms, and headwear
+
+# bottoms, barechest, and headwear
+
+# fullbody, and headwear
+
+# tops, bottoms, footwear, no headwear
+
+# topless, bottoms, footwear, no headwear
+
+# fullbody, footwear, no headwear
+ 
+# tops, bottoms, barefoot, no headwear
+
+# bottoms, barefoot, barechest, no headwear
+
+# fullbody, barefoot, no headwear
+
+# tops, bottoms, no headwear
+
+# bottoms, barechest, anond headwear
+
+# fullbody, no headwear

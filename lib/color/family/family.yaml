@@ -1,0 +1,198 @@
+bright:
+  - red
+  - orange
+  - yellow
+  - lime
+  - cyan
+  - fuchsia
+  - magenta
+  - electric blue
+  - chartreuse
+  - hot pink
+cool:
+  - blue
+  - green
+  - purple
+  - cyan
+  - teal
+  - aquamarine
+  - turquoise
+  - mint
+  - lavender
+  - indigo
+  - slate
+  - steel
+  - periwinkle
+  - ice blue
+  - arctic blue
+dark:
+  - black
+  - charcoal
+  - graphite
+  - navy
+  - midnight blue
+  - burgundy
+  - dark brown
+  - chocolate
+  - olive
+  - forest green
+  - deep purple
+  - slate gray
+  - gunmetal
+  - ebony
+  - jet black
+earth:
+  - sienna
+  - raw umber
+  - burnt sienna
+  - raw sienna
+  - burnt umber
+  - ochre
+  - sepia
+  - caramel
+  - terracotta
+  - chestnut
+  - beige
+  - taupe
+  - sand
+  - khaki
+  - tan
+  - buff
+  - mocha
+  - coffee
+  - chocolate
+  - mahogany
+jewel:
+  - emerald
+  - sapphire
+  - ruby
+  - amethyst
+  - topaz
+  - garnet
+  - peridot
+  - aquamarine
+  - opal
+  - tanzanite
+  - citrine
+  - tourmaline
+mettalic:
+  - gold
+  - silver
+  - bronze
+  - copper
+  - brass
+  - pewter
+  - rose gold
+  - platinum
+  - titanium
+  - gunmetal
+  - chrome
+  - nickel
+  - aluminum
+  - iron
+  - steel
+muted:
+  - dusty rose
+  - faded blue
+  - muted green
+  - soft lavender
+  - pale yellow
+  - desert sand
+  - ash gray
+  - dull teal
+  - subdued mauve
+  - washed-out coral
+  - foggy gray
+  - driftwood brown
+  - hazy blue
+  - faded pink
+  - pale sage
+  - muted turquoise
+  - dusty purple
+  - faded olive
+  - worn-out denim
+  - pale peach
+neons:
+  - cosmic orange
+  - electric indigo
+  - laser lemon
+  - neon blue
+  - neon chartreuse
+  - neon cyan
+  - neon gold
+  - neon green
+  - neon lime
+  - neon magenta
+  - neon orange
+  - neon orange 
+  - neon pink
+  - neon purple
+  - neon red
+  - neon silver
+  - neon turquoise
+  - neon yellow
+  - phantom blue
+  - plasma pink  
+  - radioactive green
+neutral:
+  - white
+  - black
+  - gray
+  - ivory
+  - cream
+  - taupe
+  - beige
+  - tan
+  - brown
+  - charcoal
+pastel:
+  - lavender
+  - baby blue
+  - mint green
+  - peach
+  - rose pink
+  - pale yellow
+  - light coral
+  - powder blue
+  - blush pink
+  - pale green
+  - soft lavender
+  - light peach
+  - sky blue
+  - pale pink
+  - pale purple
+  - light mint
+  - cream
+  - pale orange
+  - pale turquoise
+  - light yellow
+primaries:
+  - red
+  - blue
+  - yellow
+secondary:
+  - orange
+  - green
+  - purple
+vivid:
+  - red
+  - orange
+  - yellow
+  - lime
+  - green
+  - cyan
+  - blue
+  - purple
+  - magenta
+  - pink
+warm:
+  - red
+  - orange
+  - yellow
+  - pink
+  - coral
+  - peach
+  - apricot
+  - terracotta
+  - amber
+  - gold

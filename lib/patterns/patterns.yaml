@@ -1,0 +1,592 @@
+abstract:
+  - abstract brushstrokes pattern
+  - abstract collage pattern
+  - abstract color blocks pattern
+  - abstract digital art pattern
+  - abstract floral pattern
+  - abstract geometric pattern
+  - abstract line art pattern
+  - abstract organic shapes pattern
+  - abstract watercolor pattern
+  - surrealistic abstract pattern
+animalprints:
+  - alligator print
+  - cheetah print
+  - cowhide print
+  - crocodile print
+  - croc-effect print
+  - dalmatian print
+  - elephant hide print
+  - giraffe hide print
+  - equestrian print
+  - leopard print
+  - lizard print
+  - lion hide print
+  - ostrich print
+  - python print
+  - reptile print
+  - safari print
+  - serpent print
+  - snake print
+  - tiger stripe pattern
+  - zebra stripe pattern
+argyle:
+  - abstract argyle
+  - checkered argyle
+  - classic argyle
+  - colorblock argyle
+  - contrast argyle
+  - contrasting argyle
+  - diamond argyle
+  - diamond-print argyle
+  - dotted argyle
+  - embroidered argyle
+  - faded argyle
+  - geometric argyle
+  - gradient argyle
+  - graphic argyle
+  - herringbone argyle
+  - houndstooth argyle
+  - intarsia argyle
+  - knitted argyle
+  - metallic argyle
+  - monochrome argyle
+  - multicolor argyle
+  - patterned argyle
+  - plaid argyle
+  - printed argyle
+  - repeating argyle
+  - retro argyle
+  - solid argyle
+  - striped argyle
+  - textured argyle
+  - thick argyle
+  - thin argyle
+  - tonal argyle
+  - two-tone argyle
+  - vintage argyle
+  - woven argyle
+  - zigzag argyle
+camouflage:
+  - blue camo
+  - brown camo
+  - classic camo
+  - desert camo
+  - digital camo
+  - green camo
+  - grey camo
+  - jungle camo
+  - marine camo
+  - marpat camo
+  - mossy oak camo
+  - multicam
+  - realtree camo
+  - snow camo
+  - tiger stripe camo
+  - urban camo
+  - woodland camo
+chevron:
+  - bold chevron
+  - classic chevron
+  - diamond chevron
+  - gradient chevron
+  - herringbone chevron
+  - metallic chevron
+  - multi-color chevron
+  - pastel chevron
+  - two-tone chevron
+  - zigzag chevron
+damask:
+  - abstract damask
+  - baroque damask
+  - brocade damask
+  - classic damask
+  - contemporary damask
+  - flocked damask
+  - floral damask
+  - geometric damask
+  - jacquard damask
+  - lace damask
+  - modern damask
+  - medallion damask
+  - ogee damask
+  - ornate damask
+  - paisley damask
+  - patterned damask
+  - printed damask
+  - repeating damask
+  - retro damask
+  - scroll damask
+  - solid damask
+  - striped damask
+  - tapestry damask
+  - textured damask
+  - tonal damask
+  - vintage damask
+  - woven damask
+  - zigzag damask
+floral:
+  - amaryllis floral pattern
+  - anemones floral pattern
+  - azaleas floral pattern
+  - begonias floral pattern
+  - bougainvilleas floral pattern
+  - buttercups floral pattern
+  - carnations floral pattern
+  - cherry blossoms floral pattern
+  - daffodils floral pattern
+  - daisies floral pattern
+  - dandelions floral pattern
+  - hibiscus floral pattern
+  - hydrangeas floral pattern
+  - irises floral pattern
+  - lavender floral pattern
+  - lilies floral pattern
+  - lotuses floral pattern
+  - magnolias floral pattern
+  - marigolds floral pattern
+  - orchids floral pattern
+  - peonies floral pattern
+  - poppies floral pattern
+  - roses floral pattern
+  - sunflowers floral pattern
+  - tulips floral pattern
+  - violets floral pattern
+  - wildflowers floral pattern
+general:
+  - abstract
+  - animal print
+  - argyle
+  - camouflage
+  - chevron
+  - damask
+  - floral
+  - geometric
+  - gingham
+  - herringbone
+  - houndstooth
+  - ikat
+  - paisley
+  - plaid
+  - polka dots
+  - stripes
+  - tartan
+  - tie-dye
+  - zigzag
+geometric:
+  - chevrons geometric pattern
+  - circles geometric pattern
+  - cubes geometric pattern
+  - diamonds geometric pattern
+  - dots geometric pattern
+  - hexagons geometric pattern
+  - interlocking geometric pattern
+  - lattice geometric pattern
+  - lines geometric pattern
+  - maze geometric pattern
+  - octagons geometric pattern
+  - ovals geometric pattern
+  - plaid geometric pattern
+  - rectangles geometric pattern
+  - rhombuses geometric pattern
+  - spirals geometric pattern
+  - squares geometric pattern
+  - stars geometric pattern
+  - triangles geometric pattern
+  - waves geometric pattern
+  - zigzag geometric pattern
+gingham:
+  - blackwatch gingham
+  - buffalo check gingham
+  - classic gingham
+  - gingham check
+  - gingham floral
+  - gingham plaid
+  - embroidered gingham
+  - gingham floral
+  - gingham plaid
+  - large check gingham
+  - madras gingham
+  - micro gingham
+  - mini gingham
+  - multi-color gingham
+  - pastel gingham
+  - plaid gingham
+  - printed gingham
+  - repeating gingham
+  - retro gingham
+  - small check gingham
+  - solid gingham
+  - striped gingham
+  - tartan gingham
+  - textured gingham
+  - tonal gingham
+  - two-tone gingham
+  - ticking gingham
+  - vintage gingham
+  - windowpane gingham
+  - woven gingham
+  - zigzag gingham
+herringbone:
+  - bold herringbone
+  - chevron herringbone
+  - classic herringbone
+  - cotton herringbone
+  - diagonal herringbone
+  - diamond herringbone
+  - double herringbone
+  - gradient herringbone
+  - linework herringbone
+  - metallic herringbone
+  - multi-color herringbone
+  - pastel herringbone
+  - silk herringbone
+  - tweed herringbone
+  - two-tone herringbone
+  - wool herringbone
+  - zigzag herringbone
+houndstooth:
+  - bold houndstooth
+  - checked houndstooth
+  - classic houndstooth
+  - double houndstooth
+  - giant houndstooth
+  - houndstooth check
+  - houndstooth grid
+  - houndstooth plaid
+  - houndstooth windowpane
+  - large houndstooth
+  - micro houndstooth
+  - mini houndstooth
+  - overcheck houndstooth
+  - repeating houndstooth
+  - retro houndstooth
+  - shaded houndstooth
+  - sharkstooth houndstooth
+  - small houndstooth
+  - solid houndstooth
+  - striped houndstooth
+  - tartan houndstooth
+  - textured houndstooth
+  - ticking houndstooth
+  - tonal houndstooth
+  - two-tone houndstooth
+  - vintage houndstooth
+  - windowpane houndstooth
+ikat:
+  - abstract ikat
+  - bold ikat
+  - classic ikat
+  - contemporary ikat
+  - diamond ikat
+  - double ikat
+  - dyed ikat
+  - embroidered ikat
+  - floral ikat
+  - geometric ikat
+  - graphic ikat
+  - handwoven ikat
+  - ikat check
+  - ikat diamond
+  - ikat floral
+  - ikat plaid
+  - ikat stripe
+  - ikat windowpane
+  - kasuri ikat
+  - large ikat
+  - micro ikat
+  - mini ikat
+  - multi-color ikat
+  - overcheck ikat
+  - pastel ikat
+  - printed ikat
+  - rainbow ikat
+  - repeating ikat
+  - retro ikat
+  - shaded ikat
+  - shadow ikat
+  - small ikat
+  - solid ikat
+  - striped ikat
+  - tartan ikat
+  - textured ikat
+  - ticking ikat
+  - tie-dye ikat
+  - tonal ikat
+  - traditional ikat
+  - two-tone ikat
+  - vintage ikat
+  - windowpane ikat
+  - woven ikat
+  - zigzag ikat
+paisley:
+  - abstract paisley
+  - bandana paisley
+  - bold paisley
+  - buta paisley
+  - classic paisley
+  - contemporary paisley
+  - ditsy paisley
+  - double paisley
+  - embroidered paisley
+  - floral paisley
+  - geometric paisley
+  - graphic paisley
+  - handwoven paisley
+  - ikat paisley
+  - kashmiri paisley
+  - large paisley
+  - micro paisley
+  - mini paisley
+  - multi-color paisley
+  - ombre paisley
+  - overcheck paisley
+  - pastel paisley
+  - printed paisley
+  - rainbow paisley
+  - repeating paisley
+  - retro paisley
+  - shaded paisley
+  - shadow paisley
+  - small paisley
+  - solid paisley
+  - striped paisley
+  - tartan paisley
+  - teardrop paisley
+  - textured paisley
+  - ticking paisley
+  - tie-dye paisley
+  - tonal paisley
+  - traditional paisley
+  - two-tone paisley
+  - vintage paisley
+  - watercolor paisley
+  - windowpane paisley
+  - woven paisley
+plaid:
+  - argyle plaid
+  - buffalo check plaid
+  - gingham plaid
+  - glen plaid
+  - graph check plaid
+  - graph plaid
+  - graph windowpane plaid
+  - houndstooth plaid
+  - madras plaid
+  - overcheck plaid
+  - pin check plaid
+  - pin plaid
+  - pin windowpane plaid
+  - prince of wales plaid
+  - shadow plaid
+  - shepherd's check plaid
+  - tartan plaid
+  - tattersall plaid
+  - tweed plaid
+  - windowpane check plaid
+  - windowpane plaid
+polkadots:
+  - abstract polka dots
+  - animal polka dots
+  - beaded polka dots
+  - bleached polka dots
+  - bordered polka dots
+  - bouclé polka dots
+  - bullseye polka dots
+  - candy polka dots
+  - chiffon polka dots
+  - circle polka dots
+  - colorful polka dots
+  - dotted polka dots
+  - dotted swiss polka dots
+  - dye polka dots
+  - embroidered polka dots
+  - felt polka dots
+  - flocked polka dots
+  - foil polka dots
+  - glitter polka dots
+  - gold polka dots
+  - irregular polka dots
+  - large polka dots
+  - micro polka dots
+  - paisley polka dots
+  - pin polka dots
+  - regular polka dots
+  - scattered polka dots
+  - swiss polka dots
+  - watercolor dots
+stripes:
+  - awning stripes
+  - barber pole stripes
+  - bayadere stripes
+  - bengal stripes
+  - bengaline stripes
+  - bouclé stripes
+  - candy stripes
+  - chalk stripes
+  - chevron stripes
+  - circus stripes
+  - deckchair stripes
+  - diagonal stripes
+  - drop stripes
+  - engineer stripes
+  - faded stripes
+  - felt stripes
+  - flocked stripes
+  - foil stripes
+  - glitter stripes
+  - herringbone stripes
+  - horizontal stripes
+  - houndstooth stripes
+  - irregular stripes
+  - lamé stripes
+  - lurex stripes
+  - micro stripes
+  - multicolor stripes
+  - narrow stripes
+  - pencil stripes
+  - pin stripes
+  - pinstripes
+  - pleated stripes
+  - racing stripes
+  - railroad stripes
+  - rugby stripes
+  - satin stripes
+  - seersucker stripes
+  - shadow stripes
+  - sheer stripes
+  - silk stripes
+  - ticking stripes
+  - tiger stripes
+  - tonal stripes
+  - tuxedo stripes
+  - vertical stripes
+  - woven stripes
+tartan:
+  - anderson tartan
+  - black stewart tartan
+  - black watch dress tartan
+  - black watch tartan
+  - buchanan tartan
+  - camel thomson tartan
+  - cameron tartan
+  - campbell tartan
+  - cornish tartan
+  - davidson tartan
+  - douglas tartan
+  - dress gordon tartan
+  - dress stewart tartan
+  - earl of st. andrews tartan
+  - farquharson tartan
+  - ferguson tartan
+  - forbes tartan
+  - fraser tartan
+  - gordon tartan
+  - graham tartan
+  - grant tartan
+  - gunn tartan
+  - hamilton tartan
+  - innes tartan
+  - johnston tartan
+  - lamont tartan
+  - lindsay tartan
+  - macdonald tartan
+  - macfarlane tartan
+  - macgregor tartan
+  - macinnes tartan
+  - mackay tartan
+  - mackenzie tartan
+  - mackintosh tartan
+  - maclaren tartan
+  - maclean tartan
+  - macleod tartan
+  - macmillan tartan
+  - macnab tartan
+  - macneil tartan
+  - macpherson tartan
+  - macqueen tartan
+  - macrae tartan
+  - macthomas tartan
+  - munro tartan
+  - murray tartan
+  - rob roy tartan
+  - robertson tartan
+  - ross tartan
+  - royal stewart tartan
+  - scottish national tartan
+  - shaw tartan
+  - simpson tartan
+  - sinclair tartan
+  - st. patrick tartan
+  - stewart of appin tartan
+  - sutherland tartan
+  - thomson tartan
+  - turnbull tartan
+  - urquhart tartan
+  - wallace tartan
+tie-dye:
+  - banded tie-dye
+  - bleach tie-dye
+  - bullseye tie-dye
+  - circle tie-dye
+  - crinkle tie-dye
+  - diamond tie-dye
+  - double spiral tie-dye
+  - firecracker tie-dye
+  - heart tie-dye
+  - ice tie-dye
+  - marble tie-dye
+  - ombre tie-dye
+  - peace sign tie-dye
+  - reverse tie-dye
+  - ripple tie-dye
+  - spiral tie-dye
+  - star tie-dye
+  - striped tie-dye
+  - sunburst tie-dye
+  - sunset tie-dye
+  - swirl tie-dye
+  - tiger tie-dye
+  - tulip tie-dye
+  - v-shape tie-dye
+zigzag:
+  - abstract zigzag
+  - arrow zigzag
+  - beaded zigzag
+  - bordered zigzag
+  - chevron zigzag
+  - colorful zigzag
+  - curved zigzag
+  - diamond zigzag
+  - dotted zigzag
+  - double zigzag
+  - embroidered zigzag
+  - faded zigzag
+  - felt zigzag
+  - flocked zigzag
+  - geometric zigzag
+  - herringbone zigzag
+  - irregular zigzag
+  - lamé zigzag
+  - lurex zigzag
+  - metallic zigzag
+  - micro zigzag
+  - multi-color zigzag
+  - narrow zigzag
+  - pin zigzag
+  - pinstripe zigzag
+  - pleated zigzag
+  - rainbow zigzag
+  - retro zigzag
+  - ribbon zigzag
+  - seersucker zigzag
+  - shadow zigzag
+  - sheer zigzag
+  - sparkle zigzag
+  - striped zigzag
+  - sawtooth zigzag
+  - ticking zigzag
+  - tiger zigzag
+  - tonal zigzag
+  - vertical zigzag
+  - wave zigzag

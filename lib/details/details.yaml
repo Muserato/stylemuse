@@ -1,0 +1,124 @@
+trim:
+  ancient:
+    - bronze trim
+    - copper trim
+    - gold trim
+    - silver trim
+  precious:
+    - gold trim
+    - silver trim
+    - platinum trim
+    - rose gold trim
+    - white gold trim
+  nonprecious:
+    - brass trim
+    - bronze trim
+    - copper trim
+    - gunmetal trim
+    - nickel trim
+    - pewter trim
+    - steel trim
+    - titanium trim
+    - tungsten trim
+buttonstypes:
+  - button front
+  - snap buttons
+  - button-down collar
+  - button cuffs
+  - button placket
+  - button tabs
+buttonstyles:
+  - covered button
+  - cufflink
+  - enamel button
+  - fabric button
+  - grosgrain button
+  - horn button
+  - knot button
+  - leather button
+  - metal button
+  - mother-of-pearl button
+  - pearl button
+  - plastic button
+  - rhinestone button
+  - rivet button
+  - shank button
+  - shell button
+  - snap button
+  - standard button
+  - toggle button
+  - wooden button
+closure:
+  - belted
+  - drawstring
+  - zipper closure
+collar:
+  - collarless
+  - point collar
+  - shawl collar
+  - spread collar
+embellishment:
+  fabric:
+    - contrast panels
+    - contrast piping
+    - contrast stitching
+    - contrast trim
+    - cufflinks
+    - embroidery
+    - epaulettes
+    - hemline slits
+    - lace-up detail
+    - lapel
+    - logo detail
+    - mesh panels
+    - piping
+    - pleats
+    - ribbed cuffs
+    - ruffles
+    - sequin embellishment
+  leather:
+    - beaded
+    - bejeweled
+    - gold-embroidered
+    - gold-threaded
+    - gold-trimmed
+    - seashell-embellished
+    - sequin-embellished
+    - silver-embroidered
+    - silver-threaded
+    - silver-trimmed
+    - studded
+other:
+  - hood
+  - mesh detail
+pocket:
+  - pocket
+  - patch pocket
+  - chest pocket
+  - flap pocket
+  - cargo pockets
+  - zippered pockets
+fit:
+  slim:
+    - slim-fit
+    - athletic-fit
+    - skinny-fit
+    - tapered-fit
+    - tailored-fit
+    - body-hugging
+    - body-skimming
+  regular:
+    - straight-fit
+    - regular-fit
+    - fitted
+    - tailored-fit
+    - flare-cut
+    - boot-cut
+  relaxed:
+    - relaxed-fit
+    - loose-fit
+    - baggy-fit
+    - slouchy-fit
+    - wide-leg
+    - oversized
+    - boyfriend-fit

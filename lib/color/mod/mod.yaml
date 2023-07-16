@@ -1,0 +1,76 @@
+darker:
+  - bold
+  - dark
+  - deep
+  - dim
+  - desaturated
+  - dusky
+  - earthy
+  - intense
+  - moody
+  - muted
+  - noir
+  - rich
+  - shadowy
+  - smoky
+  - sombre
+  - subtle
+desaturated:
+  - dull
+  - faded
+  - hazy
+  - muted
+  - neutral
+  - pales
+  - soft
+  - subdued
+  - tinted
+  - washed-out
+lighter:
+  - airy
+  - bright
+  - delicate
+  - ethereal
+  - light
+  - luminous
+  - pale
+  - pastel
+  - sheer
+  - soft
+  - subtle
+  - translucent
+  - vibrant
+saturated:
+  - bold
+  - bright
+  - brilliant
+  - colorful
+  - dynamic
+  - energetic
+  - intense
+  - lively
+  - vibrant
+  - vivid
+metallic:
+  - bronze
+  - copper
+  - gold
+  - iron
+  - lead
+  - silver
+  - steel
+  - tin
+  - zinc
+funky:
+  - bright colors
+  - colorful
+  - funky colors
+  - groovy colors
+  - hippie colors
+  - kaleidoscopic colors
+  - neon colors
+  - rainbow colors
+  - psychedelic colors
+  - tie-dye colors
+  - trippy colors
+  - vibrant colors

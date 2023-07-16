@@ -1,0 +1,124 @@
+all:
+deity: # Greek dities
+  - aphrodite
+  - apollo
+  - ares
+  - artemis
+  - athena
+  - demeter
+  - dionysus
+  - hades
+  - hephaestus
+  - hera
+  - hermes
+  - hestia
+  - poseidon
+  - zeus
+demigods: # greek demi-gods
+  - Achilles
+  - Ajax
+  - Ariadne
+  - Bellerophon
+  - Cassandra
+  - Castor
+  - Clytemnestra
+  - Daedalus
+  - Electra
+  - Hector
+  - Helen
+  - Heracles
+  - Icarus
+  - Jason
+  - Medea
+  - Medusa
+  - Meleager
+  - Odysseus
+  - Orpheus
+  - Pandora
+  - Penelope
+  - Persephone
+  - Perseus
+  - Phaedra
+  - Phaethon
+  - Polyphemus
+  - Prometheus
+  - Psyche
+  - Pygmalion
+  - Semele
+  - Sisyphus
+  - Tantalus
+  - Theseus
+  - Thetis
+  - Tithonus
+mythological:  # greek mythological non-humans
+  - centaur
+  - cerberus
+  - charybdis
+  - chimera
+  - cyclops
+  - dryad
+  - erinyes
+  - furies
+  - gorgon
+  - griffin
+  - gryphon
+  - harpy
+  - hellhound
+  - hippocampus
+  - hydra
+  - minotaur
+  - muses
+  - naiad
+  - nymph
+  - pegasus
+  - phoenix
+  - satyr
+  - sphinx
+  - siren
+  - styx
+  - titan
+  - typhon
+  - unicorn
+  - zephyr
+symbols: # greek symbology
+  - caduceus
+  - cornucopia
+  - greek cross
+  - greek fire
+  - greek key
+  - greek meander
+  - laurel leaf
+  - laurel wreath
+  - olive branch
+  - olive wreath
+  - palmette
+  - pomegranate
+  - trident
+  - wreath
+  - wreath of laurel
+  - wreath of olive
+  - wreath of pomegranate
+  - wreath of wheat
+  - zodiacal symbol
+instruments: # greek instruments
+  - aulos
+  - cithara
+  - lyre
+  - pan flute
+  - syrinx
+  - tambourine
+  - zither
+animals:  # greek symbolic animals
+  - bee
+  - bull
+  - dolphin
+  - eagle
+  - fish
+  - horse
+  - lion
+  - owl
+  - ram
+  - serpent
+  - snake
+  - swan
+  - wolf

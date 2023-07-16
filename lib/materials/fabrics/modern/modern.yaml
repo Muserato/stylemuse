@@ -1,0 +1,246 @@
+all:
+  - alpaca
+  - bamboo
+  - boucle
+  - brocade
+  - cashmere
+  - chambray
+  - chenille
+  - chiffon
+  - coolfit
+  - coolmax
+  - corduroy
+  - cotton
+  - denim
+  - down
+  - dri-fit
+  - faux fur
+  - felt
+  - flannel
+  - fleece
+  - fur
+  - gabardine
+  - georgette
+  - hemp
+  - herringbone
+  - jersey
+  - knit
+  - leather
+  - lightweight wool
+  - linen
+  - lycra
+  - lyocell
+  - madras
+  - merino
+  - mesh
+  - microfiber
+  - modal
+  - mohair
+  - muslin
+  - nylon
+  - organic cotton
+  - polar fleece
+  - poly-cotton blend
+  - polyester
+  - polypropylene
+  - ponte
+  - quilted
+  - rayon
+  - satin
+  - seersucker
+  - sharkskin
+  - sherpa
+  - silk
+  - spandex
+  - stretch performance
+  - suede
+  - tartan
+  - tencel
+  - terry cloth
+  - tri-blend
+  - tweed
+  - twill
+  - velvet
+  - viscose
+  - voile
+  - wool
+casual_fall:
+  - boucle
+  - cashmere
+  - chenille
+  - corduroy
+  - cotton
+  - denim
+  - flannel
+  - fleece
+  - herringbone
+  - jersey
+  - knit
+  - leather
+  - mohair
+  - ponte
+  - sherpa
+  - suede
+  - tweed
+  - twill
+  - velvet
+  - wool
+casual_spring:
+  - bamboo
+  - chambray
+  - cotton
+  - denim
+  - jersey
+  - lightweight wool
+  - linen
+  - modal
+  - nylon
+  - polyester
+  - rayon
+  - seersucker
+  - silk
+  - spandex
+  - tencel
+  - viscose
+casual_summer:
+  - bamboo
+  - chambray
+  - chiffon
+  - cotton
+  - georgette
+  - jersey
+  - linen
+  - lyocell
+  - madras
+  - modal
+  - muslin
+  - nylon
+  - polyester
+  - rayon
+  - satin
+  - seersucker
+  - silk
+  - tencel
+  - viscose
+  - voile
+casual_winter:
+  - alpaca
+  - cashmere
+  - corduroy
+  - down
+  - faux fur
+  - felt
+  - flannel
+  - fleece
+  - fur
+  - herringbone
+  - knit
+  - merino
+  - mohair
+  - polar fleece
+  - quilted
+  - sherpa
+  - tartan
+  - tweed
+  - velvet
+  - wool
+formalwear:
+  - brocade
+  - cashmere
+  - chiffon
+  - cotton
+  - crepe
+  - damask
+  - faille
+  - jacquard
+  - lace
+  - linen
+  - organza
+  - polyester
+  - rayon
+  - satin
+  - seersucker
+  - shantung
+  - silk
+  - taffeta
+  - velvet
+  - wool
+lightwear:
+  - bamboo
+  - cotton
+  - flannel
+  - hemp
+  - jersey
+  - linen
+  - microfiber
+  - modal
+  - nylon
+  - organic cotton
+  - poly-cotton blend
+  - polyester
+  - rayon
+  - satin
+  - silk
+  - spandex
+  - tencel
+  - tri-blend
+  - velvet
+  - viscose
+see_thru:
+  - see-through mesh
+  - sheer fabric
+  - see-through tulle
+  - see-through chiffon
+  - see-through georgette fabric
+  - lace
+  - see-through netting
+  - organza
+  - see-through gauze
+  - fishnet
+  - see-through voile
+  - see-through georgette
+  - see-through burnout fabric
+  - translucent nylon
+  - see-through sequin mesh
+  - see-through foil mesh
+  - see-through metalic mesh
+sportswear:
+  - bamboo
+  - coolfit
+  - coolmax
+  - cotton
+  - dri-fit
+  - fleece
+  - jersey
+  - knit
+  - lycra
+  - mesh
+  - microfiber
+  - modal
+  - nylon
+  - polyester
+  - polypropylene
+  - spandex
+  - stretch performance
+  - terry cloth
+suits:
+  - brocade
+  - cashmere
+  - chambray
+  - corduroy
+  - cotton
+  - flannel
+  - gabardine
+  - herringbone
+  - linen
+  - microfiber
+  - mohair
+  - polyester
+  - satin
+  - seersucker
+  - sharkskin
+  - silk
+  - tweed
+  - twill
+  - velvet
+  - wool

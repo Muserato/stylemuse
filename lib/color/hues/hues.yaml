@@ -1,0 +1,959 @@
+all:
+  - acid yellow
+  - alabaster
+  - amaranth pink
+  - amber
+  - amethyst
+  - antique white
+  - apple green
+  - apple red
+  - apricot
+  - aqua
+  - aquamarine
+  - ash gray
+  - aubergine
+  - auburn
+  - autumn orange
+  - avocado
+  - azure
+  - baby blue
+  - banana yellow
+  - battleship gray
+  - beige
+  - biscuit
+  - black
+  - blond
+  - blonde
+  - blood red
+  - blue
+  - blue gray
+  - blue green
+  - blue violet
+  - blush
+  - bone
+  - brick red
+  - bright blue
+  - bright green
+  - bright lime green
+  - bright navy blue
+  - bright orange
+  - bright pink
+  - bright purple
+  - bright red
+  - bright royal blue
+  - bright sea green
+  - bright sky blue
+  - bright turquoise
+  - bright violet
+  - bright yellow green
+  - bronze
+  - brown
+  - bubblegum pink
+  - buff
+  - burgundy
+  - burnt orange
+  - butter yellow
+  - butterscotch
+  - cadet blue
+  - camel
+  - canary yellow
+  - candy apple red
+  - candy red
+  - cantaloupe
+  - caramel
+  - cardinal
+  - carmine
+  - carnation pink
+  - carrot orange
+  - cayenne
+  - cerise
+  - cerulean
+  - chalk
+  - champagne
+  - chartreuse
+  - cherry
+  - cherry red
+  - chestnut
+  - chili pepper
+  - chili red
+  - chinese red
+  - chocolate
+  - cider
+  - cinnabar
+  - cinnabar red
+  - cinnamon
+  - claret
+  - clementine
+  - cloud
+  - cloud gray
+  - cobalt blue
+  - cocoa
+  - coffee
+  - copper
+  - copper brown
+  - copper penny
+  - copper red
+  - copper rose
+  - coppery brown
+  - coral
+  - coral pink
+  - coral red
+  - corn
+  - cornflower blue
+  - cotton candy pink
+  - cream
+  - crimson
+  - custard
+  - cyan
+  - dark blue
+  - dark brown
+  - dark chocolate
+  - dark gray
+  - dark green
+  - dark lime green
+  - dark navy blue
+  - dark orange
+  - dark pink
+  - dark purple
+  - dark red
+  - dark royal blue
+  - dark sea green
+  - dark sky blue
+  - dark tan
+  - dark turquoise
+  - deep blue
+  - deep brown
+  - deep green
+  - deep lime green
+  - deep pink
+  - deep purple
+  - deep red
+  - deep sea green
+  - deep sky blue
+  - deep tan
+  - deep turquoise
+  - denim blue
+  - desert sand
+  - dijon
+  - dirt brown
+  - dodger blue
+  - dove gray
+  - dusty pink
+  - earth brown
+  - ebony
+  - ecru
+  - eggplant
+  - eggshell
+  - electric blue
+  - emerald
+  - fawn
+  - fire engine red
+  - flame orange
+  - flame red
+  - flaxen
+  - flint gray
+  - forest green
+  - french blue
+  - fuchsia
+  - garnet
+  - geranium
+  - ginger
+  - gold
+  - golden brown
+  - golden orange
+  - goldenrod
+  - grape
+  - grape purple
+  - grapefruit
+  - grass green
+  - gray
+  - grayish blue
+  - grayish brown
+  - grayish green
+  - grayish purple
+  - grayish red
+  - grayish tan
+  - grayish yellow
+  - green
+  - green gray
+  - greenish blue
+  - greenish brown
+  - greenish gray
+  - greenish teal
+  - gunmetal gray
+  - harvest gold
+  - hazel
+  - heather
+  - heather gray
+  - heliotrope
+  - honey
+  - hot pink
+  - ice blue
+  - indian red
+  - indigo
+  - iron gray
+  - ivory
+  - jade
+  - jet black
+  - kelly green
+  - khaki
+  - lavender
+  - leaf green
+  - lemon yellow
+  - licorice
+  - light blue
+  - light brown
+  - light gray
+  - light green
+  - light lime green
+  - light orange
+  - light pink
+  - light purple
+  - light red
+  - light sea green
+  - light sky blue
+  - light tan
+  - light turquoise
+  - lilac
+  - lime green
+  - linen
+  - magenta
+  - mahogany
+  - maize
+  - mandarin orange
+  - mango
+  - marigold
+  - marine blue
+  - maroon
+  - mauve
+  - medium blue
+  - medium brown
+  - medium gray
+  - medium green
+  - medium lime green
+  - medium pink
+  - medium purple
+  - medium red
+  - medium sea green
+  - medium sky blue
+  - medium tan
+  - medium turquoise
+  - mellow yellow
+  - melon
+  - metallic gray
+  - mid gray
+  - midnight black
+  - midnight blue
+  - milk chocolate
+  - milk white
+  - mint
+  - mint green
+  - mocha
+  - moss green
+  - mud brown
+  - mulberry
+  - mustard yellow
+  - navy blue
+  - neon blue
+  - neon green
+  - neon orange
+  - neon pink
+  - neon purple
+  - neon red
+  - neutral gray
+  - nut brown
+  - oatmeal
+  - ocean blue
+  - ochre
+  - off white
+  - offwhite
+  - olive
+  - olive drab
+  - onyx
+  - orange
+  - orange red
+  - orchid
+  - pale blue
+  - pale gray
+  - pale green
+  - pale pink
+  - pale purple
+  - pale red
+  - pale yellow
+  - parchment
+  - pastel blue
+  - pastel green
+  - pastel pink
+  - pastel purple
+  - pastel red
+  - pastel yellow
+  - pea green
+  - peach
+  - peacock blue
+  - peanut
+  - peanut butter
+  - pearl
+  - pearl gray
+  - pecan
+  - pine green
+  - pineapple
+  - pink
+  - pinkish red
+  - pitch black
+  - platinum
+  - plum
+  - poppy red
+  - porcelain
+  - powder blue
+  - powder white
+  - pumpkin
+  - pure white
+  - purple
+  - purple gray
+  - purpleish blue
+  - purpleish pink
+  - purplish
+  - purplish blue
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - raspberry
+  - raven
+  - red
+  - red brown
+  - red orange
+  - red violet
+  - reddish brown
+  - reddish purple
+  - rose
+  - rose red
+  - royal blue
+  - royal purple
+  - ruby
+  - ruby red
+  - russet
+  - rust
+  - sable
+  - saffron
+  - sage
+  - salmon
+  - salmon pink
+  - sand
+  - sandy brown
+  - sapphire
+  - scarlet
+  - sea blue
+  - sea green
+  - seafoam green
+  - seashell
+  - sepia
+  - shamrock green
+  - shocking pink
+  - sienna
+  - sky blue
+  - slate blue
+  - slate gray
+  - snow
+  - soft pink
+  - soot
+  - soot black
+  - sooty black
+  - spice
+  - spring green
+  - steel blue
+  - steel gray
+  - stone gray
+  - straw
+  - strawberry pink
+  - strawberry red
+  - sunflower yellow
+  - sunset orange
+  - taffy pink
+  - tan
+  - tangerine
+  - taupe
+  - taupe gray
+  - tawny
+  - tea rose pink
+  - teal
+  - teal blue
+  - teal green
+  - terra cotta
+  - tiger orange
+  - toffee
+  - tomato red
+  - topaz
+  - true black
+  - true red
+  - turquoise
+  - tuscan sun
+  - ultramarine
+  - vanilla
+  - velvet black
+  - vermilion
+  - violet
+  - violet blue
+  - violet pink
+  - violet red
+  - vivid blue
+  - vivid orange
+  - vivid purple
+  - vivid sky blue
+  - vivid turquoise
+  - vivid violet
+  - walnut
+  - warm gray
+  - warm purple
+  - watermelon pink
+  - wheat
+  - white
+  - white smoke
+  - wild strawberry
+  - wine
+  - wood brown
+  - yellow
+  - yellow brown
+  - yellow gold
+  - yellow green
+  - yellow ochre
+  - yellow orange
+  - yellow rose
+  - yellow sunshine
+  - yellow tan
+  - yellow-green
+  - zinc yellow
+  - zinnia blue
+  - zinnia green
+  - zinnia orange
+  - zinnia pink
+  - zinnia purple
+  - zinnia red
+black:
+  - black
+  - ebony
+  - jet black
+  - licorice
+  - midnight black
+  - onyx
+  - pitch black
+  - raven
+  - sable
+  - soot
+  - soot black
+  - sooty black
+  - true black
+  - velvet black
+blue:
+  - aqua
+  - aquamarine
+  - azure
+  - baby blue
+  - blue
+  - blue gray
+  - blue green
+  - blue violet
+  - bright blue
+  - bright navy blue
+  - bright royal blue
+  - bright sky blue
+  - bright turquoise
+  - cadet blue
+  - cerulean
+  - cobalt blue
+  - cornflower blue
+  - cyan
+  - dark blue
+  - dark navy blue
+  - dark royal blue
+  - dark sky blue
+  - dark turquoise
+  - deep blue
+  - deep sky blue
+  - denim blue
+  - dodger blue
+  - electric blue
+  - french blue
+  - ice blue
+  - indigo
+  - light blue
+  - light sky blue
+  - light turquoise
+  - marine blue
+  - medium blue
+  - medium sky blue
+  - medium turquoise
+  - midnight blue
+  - navy blue
+  - neon blue
+  - ocean blue
+  - pale blue
+  - pastel blue
+  - peacock blue
+  - powder blue
+  - royal blue
+  - sapphire
+  - sea blue
+  - sea green
+  - sky blue
+  - slate blue
+  - steel blue
+  - teal
+  - teal blue
+  - teal green
+  - turquoise
+  - ultramarine
+  - vivid blue
+  - vivid sky blue
+  - vivid turquoise
+  - zinnia blue
+brown:
+  - auburn
+  - beige
+  - biscuit
+  - bronze
+  - brown
+  - buff
+  - camel
+  - caramel
+  - chestnut
+  - chocolate
+  - cinnamon
+  - cocoa
+  - coffee
+  - copper
+  - copper brown
+  - copper penny
+  - copper red
+  - copper rose
+  - coppery brown
+  - dark brown
+  - dark chocolate
+  - dark tan
+  - deep brown
+  - deep tan
+  - desert sand
+  - dirt brown
+  - earth brown
+  - ecru
+  - fawn
+  - ginger
+  - golden brown
+  - hazel
+  - khaki
+  - light brown
+  - light tan
+  - mahogany
+  - medium brown
+  - medium tan
+  - milk chocolate
+  - mocha
+  - mud brown
+  - nut brown
+  - oatmeal
+  - ochre
+  - peanut
+  - peanut butter
+  - pecan
+  - reddish brown
+  - russet
+  - rust
+  - sand
+  - sandy brown
+  - sepia
+  - sienna
+  - tan
+  - taupe
+  - tawny
+  - terra cotta
+  - toffee
+  - topaz
+  - walnut
+  - wheat
+  - wood brown
+  - yellow brown
+  - yellow tan
+gray:
+  - ash gray
+  - battleship gray
+  - blue gray
+  - cloud gray
+  - dark gray
+  - dove gray
+  - flint gray
+  - gray
+  - grayish blue
+  - grayish brown
+  - grayish green
+  - grayish purple
+  - grayish red
+  - grayish tan
+  - grayish yellow
+  - green gray
+  - gunmetal gray
+  - heather gray
+  - iron gray
+  - light gray
+  - medium gray
+  - metallic gray
+  - mid gray
+  - neutral gray
+  - off white
+  - pale gray
+  - pearl gray
+  - platinum
+  - slate gray
+  - steel gray
+  - stone gray
+  - taupe gray
+  - warm gray
+  - white smoke
+green:
+  - apple green
+  - aquamarine
+  - avocado
+  - bright green
+  - bright lime green
+  - bright sea green
+  - bright turquoise
+  - bright yellow green
+  - chartreuse
+  - dark green
+  - dark lime green
+  - dark sea green
+  - dark turquoise
+  - deep green
+  - deep lime green
+  - deep sea green
+  - deep turquoise
+  - emerald
+  - forest green
+  - grass green
+  - green
+  - green gray
+  - greenish blue
+  - greenish brown
+  - greenish gray
+  - greenish teal
+  - jade
+  - kelly green
+  - leaf green
+  - light green
+  - light lime green
+  - light sea green
+  - light turquoise
+  - lime green
+  - medium green
+  - medium lime green
+  - medium sea green
+  - medium turquoise
+  - mint
+  - mint green
+  - moss green
+  - neon green
+  - olive
+  - olive drab
+  - pale green
+  - pastel green
+  - pea green
+  - pine green
+  - sage
+  - sea green
+  - seafoam green
+  - shamrock green
+  - spring green
+  - teal
+  - teal blue
+  - teal green
+  - turquoise
+  - yellow green
+  - zinnia green
+offwhite:
+  - antique white
+  - beige
+  - bone
+  - buff
+  - cream
+  - eggshell
+  - ivory
+  - linen
+  - off white
+  - parchment
+  - sand
+  - seashell
+  - tan
+  - vanilla
+orange:
+  - amber
+  - apricot
+  - autumn orange
+  - bright orange
+  - burnt orange
+  - butterscotch
+  - cantaloupe
+  - carrot orange
+  - cayenne
+  - cider
+  - cinnamon
+  - clementine
+  - copper
+  - coral
+  - dark orange
+  - flame orange
+  - ginger
+  - golden orange
+  - honey
+  - light orange
+  - mandarin orange
+  - mango
+  - marigold
+  - melon
+  - neon orange
+  - orange
+  - peach
+  - pumpkin
+  - rust
+  - salmon
+  - spice
+  - sunset orange
+  - tangerine
+  - terra cotta
+  - tiger orange
+  - vermilion
+  - vivid orange
+  - yellow orange
+  - zinnia orange
+pink:
+  - amaranth pink
+  - blush
+  - bright pink
+  - bubblegum pink
+  - carnation pink
+  - cerise
+  - coral pink
+  - cotton candy pink
+  - dark pink
+  - deep pink
+  - dusty pink
+  - fuchsia
+  - hot pink
+  - light pink
+  - magenta
+  - mauve
+  - medium pink
+  - neon pink
+  - pale pink
+  - pastel pink
+  - peach
+  - pink
+  - rose
+  - salmon pink
+  - shocking pink
+  - soft pink
+  - strawberry pink
+  - taffy pink
+  - tea rose pink
+  - watermelon pink
+  - wild strawberry
+  - zinnia pink
+purple:
+  - amethyst
+  - aubergine
+  - bright purple
+  - bright violet
+  - dark purple
+  - deep purple
+  - eggplant
+  - grape
+  - grape purple
+  - grapefruit
+  - heather
+  - heliotrope
+  - indigo
+  - lavender
+  - light purple
+  - lilac
+  - magenta
+  - mauve
+  - medium purple
+  - mulberry
+  - neon purple
+  - orchid
+  - pale purple
+  - pastel purple
+  - plum
+  - purple
+  - purple gray
+  - purpleish blue
+  - purpleish pink
+  - purplish
+  - purplish blue
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - purplish brown
+  - purplish gray
+  - purplish pink
+  - purplish red
+  - reddish purple
+  - royal purple
+  - violet
+  - violet blue
+  - violet pink
+  - violet red
+  - vivid purple
+  - vivid violet
+  - warm purple
+  - zinnia purple
+red:
+  - apple red
+  - blood red
+  - brick red
+  - bright red
+  - burgundy
+  - candy apple red
+  - candy red
+  - cardinal
+  - carmine
+  - cherry
+  - cherry red
+  - chili pepper
+  - chili red
+  - chinese red
+  - cinnabar
+  - cinnabar red
+  - claret
+  - coral red
+  - crimson
+  - dark red
+  - deep red
+  - fire engine red
+  - flame red
+  - fuchsia
+  - garnet
+  - geranium
+  - hot pink
+  - indian red
+  - light red
+  - magenta
+  - maroon
+  - medium red
+  - neon red
+  - orange red
+  - pale red
+  - pastel red
+  - pinkish red
+  - poppy red
+  - raspberry
+  - red
+  - red brown
+  - red orange
+  - red violet
+  - rose
+  - rose red
+  - ruby
+  - ruby red
+  - rust
+  - scarlet
+  - strawberry red
+  - tomato red
+  - true red
+  - vermilion
+  - wine
+  - zinnia red
+white:
+  - alabaster
+  - antique white
+  - bone
+  - chalk
+  - cloud
+  - cream
+  - eggshell
+  - ivory
+  - linen
+  - milk white
+  - off white
+  - pearl
+  - porcelain
+  - powder white
+  - pure white
+  - snow
+  - white
+  - white smoke
+yellow:
+  - acid yellow
+  - amber
+  - banana yellow
+  - blond
+  - blonde
+  - buff
+  - butter yellow
+  - canary yellow
+  - champagne
+  - chartreuse
+  - corn
+  - cream
+  - custard
+  - dijon
+  - flaxen
+  - ginger
+  - gold
+  - goldenrod
+  - harvest gold
+  - honey
+  - ivory
+  - lemon yellow
+  - maize
+  - mellow yellow
+  - mustard yellow
+  - pale yellow
+  - pastel yellow
+  - pineapple
+  - saffron
+  - straw
+  - sunflower yellow
+  - tuscan sun
+  - vanilla
+  - wheat
+  - yellow gold
+  - yellow ochre
+  - yellow orange
+  - yellow rose
+  - yellow sunshine
+  - yellow tan
+  - yellow-green
+  - yellow
+  - zinc yellow

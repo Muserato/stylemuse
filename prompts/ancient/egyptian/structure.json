@@ -1,0 +1,47 @@
+{
+	"female": {
+		"fullbody": {
+			"clothed": {
+				"adorned": "all socio-economic classes, with accessories",
+				"unadorned": "all socio-economic classes, without accessories",
+				"profession": {
+					"adorned": "with accessories",
+					"unadorned": "without accessories",
+					"scene": {
+						"adorned": "with accessories",
+						"unadorned": "without accessories"
+					}
+				}
+			},
+			"partial": {
+				"onlybottoms": {
+					"adorned": "with accessories",
+					"unadorned": "without accessories"
+				},
+				"onlytops": {
+					"adorned": "with accessories",
+					"unadorned": "without accessories"
+				},
+				"profession": {
+					"adorned": "with accessories",
+					"unadorned": "without accessories",
+					"scene": {
+						"adorned": "with accessories",
+						"unadorned": "without accessories"
+					}
+				}
+			},
+			"unclad": {
+				"adorned": "all socio-economic classes",
+				"profession": {
+					"adorned": "with accessories",
+					"unadorned": "without accessories",
+					"scene": {
+						"adorned": "with accessories",
+						"unadorned": "without accessories"
+					}
+				}
+			}
+		}
+	}
+}

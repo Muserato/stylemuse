@@ -1,0 +1,3999 @@
+accessory:
+  arms:
+    general:
+      - armcuff
+      - armlet
+      - armband
+      - sleeve garter
+      - sleeve cuff
+      - sweatband
+      - elbow lenght gloves
+    business:
+      - shirt sleeve garter
+      - arm warmers
+    casual:
+      - sweatbands
+      - athletic sleeve cuffs
+    cocktail:
+      - lace evening gloves
+      - mesh evening gloves
+      - satin evening gloves
+    formal:
+      - silk elbow lenght opera gloves
+      - elbow length gloves
+      - formal arm cuffs
+    exotic:
+      graceful:
+        - lace arm cuffs
+        - mesh arm cuffs
+        - satin arm cuffs
+        - silk arm cuffs
+        - velvet arm cuffs
+        - vinyl arm cuffs
+        - elbow lenght lace gloves
+        - elbow lenght mesh gloves
+        - elbow lenght satin gloves
+        - elbow lenght silk gloves
+        - elbow lenght velvet gloves
+      edgy:
+        - latex arm cuffs
+        - leather arm cuffs
+        - vinyl arm cuffs
+        - elbow lenght latex gloves
+        - elbow lenght leather gloves
+        - elbow lenght vinyl gloves
+    active:
+      - sport armband
+      - terry cloth sweatbands
+      - athletic sleeve cuffs
+      - elastic sweatbands
+    occupational:
+      firefighting:
+        - rank slip-ons
+        - rank slides
+        - unit insignia
+      law_enforcement:
+        - rank slip-ons
+        - rank slides
+        - unit insignia
+      military:
+        - epaulets
+        - rank slides
+        - rank slip-ons
+        - unit awards
+        - unit crests
+        - unit insignia
+        - unit patches
+
+  back:
+    business:
+      - tailcoat cape
+    bags:
+      - backpack
+      - messenger backpack
+      - sling backpack
+      - tote backpack
+      - drawstring backpack
+      - winged backpack
+      - rucksack
+    casual:
+      - cape
+      - cloak
+      - poncho
+      - shawl
+      - wrap
+    exotic:
+      graceful:
+        - chiffon cape
+        - chiffon cloak
+        - chiffon shawl
+        - chiffon wrap
+        - lace cape
+        - lace cloak
+        - lace shawl
+        - lace wrap
+        - mesh cape
+        - mesh cloak
+        - mesh shawl
+        - mesh wrap
+        - satin cape
+        - satin cloak
+        - satin shawl
+        - satin wrap
+        - silk cape
+        - silk cloak
+        - silk shawl
+        - silk wrap
+        - velvet cape
+        - velvet cloak
+        - velvet shawl
+        - velvet wrap
+      edgy:
+        - leather cape
+        - leather cloak
+        - leather shawl
+        - leather wrap
+        - vinyl cape
+        - vinyl cloak
+        - vinyl shawl
+        - vinyl wrap
+    formal:
+      - cashmere cape
+      - cashmere cloak
+      - cashmere shawl
+      - cashmere wrap
+      - chiffon cape
+      - chiffon cloak
+      - chiffon shawl
+      - chiffon wrap
+      - evening cape
+      - evening cloak
+      - evening shawl
+      - evening wrap
+      - fur cape
+      - fur cloak
+      - fur stole
+      - fur shawl
+      - fur wrap
+      - lace cape
+      - luxury cape
+      - luxury cloak
+      - luxury shawl
+      - luxury wrap
+      - mesh cape
+      - mesh cloak
+      - mesh shawl
+      - mesh wrap
+      - satin cape
+      - satin cloak
+      - satin shawl
+      - satin wrap
+      - silk cape
+      - silk cloak
+      - silk shawl
+      - silk wrap
+      - velvet cape
+      - velvet cloak
+      - velvet shawl
+      - velvet wrap
+      - wool cape
+    occupational:
+      academic:
+        - ceremonial cape
+        - ceremonial cloak
+      firefighting:
+        - rain cape
+        - rain cloak
+        - rain poncho
+      law_enforcement:
+        - ceremonial cape
+        - ceremonial cloak
+        - vinyl cape
+      military:
+        - cammo cape
+        - cammo cloak
+        - cammo poncho
+        - ceremonial cape
+        - ceremonial cloak
+
+  chest:
+    business:
+      - lanyard
+      - name badge
+      - name tag
+      - nameplate
+      - pocket square
+      - suspenders
+      - tie clip
+      - tie tack
+      - vest
+      - waistcoat
+    casual:
+      - suspenders
+      - holster
+    cocktail:
+      - vest
+      - waistcoat
+    exotic:
+      graceful:
+        - chiffon scarf
+        - lace scarf
+        - mesh scarf
+        - satin scarf
+        - silk scarf
+        - velvet scarf
+        - chiffon vest
+        - lace vest
+        - mesh vest
+        - satin vest
+        - silk vest
+        - velvet vest
+      edgy:
+        - leather chest harness
+        - vinyl chest harness
+        - leather vest
+        - vinyl vest
+    formal:
+      - cashmere scarf
+      - chiffon scarf
+      - evening scarf
+      - fur scarf
+      - lace scarf
+      - luxury scarf
+      - mesh scarf
+      - satin scarf
+      - silk scarf
+      - velvet scarf
+      - wool scarf
+
+  hands:
+    business:
+      - leather dress gloves
+      - suede dress gloves
+    casual:
+      fall:
+        - fingerless gloves
+        - knit gloves
+        - leather gloves
+        - mittens
+      winter:
+        - insulated gloves
+        - ski gloves
+        - snow gloves
+        - snowboard gloves
+        - winter gloves
+    cocktail:
+      - fingerless gloves
+      - lace gloves
+      - leather gloves
+      - mesh gloves
+      - satin gloves
+      - silk gloves
+      - velvet gloves
+    formal:
+      - elbow length gloves
+      - lace gloves
+      - leather dress gloves
+      - mesh gloves
+      - opera gloves
+      - satin gloves
+      - silk gloves
+      - suede dress gloves
+      - velvet gloves
+    active:
+      - batting gloves
+      - cycling gloves
+      - driving gloves
+      - fingerless gloves
+      - golf gloves
+      - leather gloves
+      - mittens
+      - sports gloves
+      - weightlifting gloves
+      - work gloves
+      - handwraps
+    exotic:
+      graceful:
+        - lace gloves
+        - mesh gloves
+        - satin gloves
+        - silk gloves
+        - velvet gloves
+      edgy:
+        - leather gloves
+        - vinyl gloves
+        - latex gloves
+    occupational:
+      academic:
+        - ceremonial gloves
+        - leather gloves
+        - vinyl gloves
+        - lace gloves
+        - mesh gloves
+        - satin gloves
+        - silk gloves
+        - velvet gloves
+      construction:
+        - contruction gloves
+        - work gloves
+      farming:
+        - gardening gloves
+        - work gloves
+      food_service:
+        - plastic gloves
+        - latex gloves
+        - vinyl gloves
+      medical:
+        - latex gloves
+        - vinyl gloves
+      military:
+        - tactical gloves
+        - combat gloves
+        - nomex gloves
+        - leather gloves
+        - wool gloves
+        - fleece gloves
+        - neoprene gloves
+        - kevlar gloves
+      performer:
+        - fingerless gloves
+        - leather gloves
+        - vinyl gloves
+        - lace gloves
+        - mesh gloves
+        - satin gloves
+        - silk gloves
+        - velvet gloves
+      religious:
+        - ceremonial gloves
+        - leather gloves
+        - vinyl gloves
+        - lace gloves
+        - mesh gloves
+        - satin gloves
+        - silk gloves
+        - velvet gloves
+      transportation:
+        - driving gloves
+        - leather gloves
+
+  face:
+    festival:
+      - face paint
+      - face jewels
+      - face gems
+      - face glitter
+      - face stickers
+      - face tattoos
+      - glow in the dark face paint
+      - neon face paint
+    glasses:
+      - glasses
+      - reading glasses
+      - oversized glasses
+      - prescription glasses
+      - reading glasses
+      - safety glasses
+    sunglasses:
+      - aviator sunglasses
+      - browline sunglasses
+      - butterfly sunglasses
+      - cat eye sunglasses
+      - clip-on sunglasses
+      - flip-up sunglasses
+      - novelty sunglasses
+      - oversized sunglasses
+      - rimless sunglasses
+      - round sunglasses
+      - shield sunglasses
+      - shutter shades
+      - shutter sunglasses
+      - square sunglasses
+      - wayfarer sunglasses
+      - wraparound sunglasses
+    formal:
+      female:
+        - eyeglasses
+        - mascarede mask
+        - opera glasses
+        - face veil
+      male:
+        - eyeglasses
+        - mascarede mask
+        - opera glasses
+        - monocle
+    googles:
+      - goggles
+    water:
+      - diving goggles
+      - diving mask
+      - scuba goggles
+      - scuba mask
+      - snorkel goggles
+      - snorkel mask
+      - snorkeling goggles
+      - snorkeling mask
+      - swim goggles
+      - swim mask
+      - swimming goggles
+    winter:
+      - ski goggles
+      - snow goggles
+    exotic:
+      graceful:
+        - lace blindfold
+        - lace mask
+        - mesh blindfold
+        - mesh mask
+        - satin blindfold
+        - satin mask
+        - silk blindfold
+        - silk mask
+        - velvet blindfold
+        - velvet mask
+        - mascarede mask
+      edgy:
+        - leather blindfold
+        - leather mask
+        - gas mask
+        - latex blindfold
+        - latex mask
+        - vinyl blindfold
+        - vinyl mask
+    sleepwear:
+      - sleep mask
+      - sleep blindfold
+      - sleep eye mask
+      - sleep eye blindfold
+      - sleep eye cover
+      - sleep eye shade
+      - sleep eye shield
+      - sleep eye visor
+      - sleep eye wrap
+      - sleep eye band
+      - sleep eye bandage
+      - sleep eye patch
+    occupational:
+      academic:
+        - safety glasses
+        - safety goggles
+        - reading glasses
+      construction:
+        - safety glasses
+        - safety goggles
+      firefighting:
+        - face shield
+        - fire mask
+        - fire goggles
+        - fire helmet
+      food_service:
+        - safety glasses
+        - safety goggles
+      law_enforcement:
+        - faceshield
+        - face visor
+        - safety glasses
+        - safety goggles
+        - sunglasses
+      medical:
+        - surgical mask
+      military:
+        - ballistic goggles
+        - ballistic mask
+        - ballistic helmet
+        - ballistic face shield
+        - ballistic face mask
+        - ballistic face visor
+      performer:
+        - masquerade mask
+        - blindfold
+        - face mask
+        - face visor
+        - face shield
+        - safety glasses
+        - safety goggles
+        - sunglasses
+      religious:
+        - face veil
+        - sunglasses
+
+  fingers:
+    rings:
+      - class ring
+      - cocktail ring
+      - engagement ring
+      - eternity ring
+      - friendship ring
+      - mood ring
+      - promise ring
+      - purity ring
+      - wedding ring
+
+  legs:
+    garters:
+      - leg garter
+      - leg garter belt
+      - leg garter strap
+      - leg garter clip
+      - leg harness
+      - leg holster
+      - leg strap
+      - leg strap holster
+      - leg strap harness
+      - leg strap garter
+    gaiters:
+      - boot gaiters
+      - fishing gaiters
+      - gaiters
+      - hiking gaiters
+      - horseriding gaiters
+      - hunting gaiters
+      - snow gaiters
+      - ski gaiters
+      - snowboard gaiters
+      - trail gaiters
+    stockings:
+      - fishnet stockings
+      - fishnet tights
+      - lace stockings
+      - lace tights
+      - mesh stockings
+      - mesh tights
+      - nylon stockings
+      - nylon tights
+      - pantyhose
+      - sheer stockings
+      - sheer tights
+      - silk stockings
+      - silk tights
+      - thigh high stockings
+      - thigh high tights
+      - velvet stockings
+      - velvet tights
+      - wool stockings
+      - wool tights
+    warmers:
+      - leg warmers
+      - knee high socks
+      - knee socks
+      - over the knee socks
+      - over the knee socks
+      - thigh high socks
+      - trouser socks
+      - tube socks
+      - wool socks
+    athletic:
+      - compression socks
+      - shin guards
+      - knee braces
+      - ankle braces
+
+  feet:
+    socks:
+      - ankle socks
+      - athletic socks
+      - boot socks
+      - crew socks
+      - dress socks
+      - knee high socks
+      - knee socks
+      - leg warmers
+      - no show socks
+      - over the knee socks
+      - over the knee socks
+      - quarter socks
+      - sheer socks
+      - sheer tights
+      - slipper socks
+      - thigh high socks
+      - toe socks
+      - trouser socks
+      - tube socks
+      - wool socks
+
+  neck:
+    scarves:
+      - cashmere scarf
+      - chiffon scarf
+      - evening scarf
+      - fur scarf
+      - lace scarf
+      - luxury scarf
+      - mesh scarf
+      - satin scarf
+      - silk scarf
+      - velvet scarf
+      - wool scarf
+    bowties:
+      - butterfly bowtie
+      - diamond tip bowtie
+      - paisley bowtie
+      - pre-tied bowtie
+      - self-tie bowtie
+    ties:
+      - ascot tie
+      - bolo tie
+      - bow tie
+      - cravat tie
+      - diamond tip tie
+      - knit tie
+      - necktie
+      - paisley tie
+      - pre-tied tie
+      - self-tie tie
+      - skinny tie
+      - square end tie
+      - straight tie
+      - zipper tie
+
+  waist:
+    belts:
+      - belt
+      - chain belt
+      - cummerbund
+      - garter belt
+      - hip belt
+      - holster belt
+      - money belt
+      - obi belt
+      - sash belt
+      - utility belt
+      - waist belt
+    bags:
+      - fanny pack
+      - hip bag
+      - hip pouch
+      - hip purse
+      - hip sack
+      - hip wallet
+      - waist bag
+      - waist pouch
+      - waist purse
+      - waist sack
+      - waist wallet
+      - money belt
+    exotic:
+      graceful:
+        - chiffon sash
+        - lace sash
+        - mesh sash
+        - satin sash
+        - silk sash
+        - velvet sash
+        - chiffon belt
+        - lace belt
+        - mesh belt
+        - satin belt
+        - silk belt
+        - velvet belt
+      edgy:
+        - leather belt
+        - vinyl belt
+        - latex belt
+    formal:
+      male:
+      - cummerbund
+      - suspenders
+      - dress belt
+      female:
+      - sash
+      - waist cincher
+      - waist corset
+      - waist sash
+      - waist shaper
+      - waist trainer
+      - waist trimmer
+      - waist wrap
+    military:
+      - duty belt
+      - pistol belt
+      - web belt
+    active:
+      - running belt
+      - hydration belt
+      - waist trimmer
+    sleepwear:
+      - sleep belt
+      - sleep sash
+      - pajama belt
+    occupational:
+      - utility belt
+      - tool belt
+
+  wrist:
+    business:
+    casual:
+    cocktail:
+    formal:
+    military:
+    active:
+    sleepwear:
+    occupational:
+      academic:
+      construction:
+      firefighting:
+      food_service:
+      law_enforcement:
+      medical:
+      military:
+      performer:
+      religious:
+      transportation:
+
+bottoms:
+  bohemian:
+    female:
+      jeans:
+        - Beaded jeans
+        - Bohemian-style jeans
+        - Cropped jeans
+        - Cropped wide-leg jeans
+        - Distressed jeans
+        - Embellished jeans
+        - Embroidered jeans
+        - Vintage-style jeans
+      pants:
+        - African print pants
+        - Beaded pants
+        - Bell-bottom pants
+        - Bohemian-style cargo pants
+        - Corduroy pants
+        - Crochet pants
+        - Cropped jogger pants
+        - Cropped linen pants
+        - Cropped pants
+        - Embellished pants
+        - Embroidered pants
+        - Flowy linen pants
+        - Fringed pants
+        - Gaucho pants
+        - Harem pants
+        - Indian print pants
+        - Loose-fitting culottes
+        - Paisley-print pants
+        - Palazzo pants
+        - Patchwork pants
+        - Patterned pants
+        - Printed pants
+        - Sarong pants
+        - Tie-dye pants
+        - Velour pants
+        - Tribal-print pants
+        - Velvet pants
+      shorts:
+        - African print shorts
+        - Beaded shorts
+        - Bohemian-style jumpsuits
+        - Bohemian-style overalls
+        - Bohemian-style shorts
+        - Bohemian-style swim trunks
+        - Corduroy shorts
+        - Crochet shorts
+        - Denim shorts
+        - Distressed denim shorts
+        - Embellished denim shorts
+        - Embellished shorts
+        - Embroidered denim shorts
+        - Embroidered shorts
+        - Lace pants
+        - Linen shorts
+        - Macramé shorts
+        - Patchwork shorts
+        - Patterned shorts
+        - Tie-dye shorts
+        - Tribal-inspired harem shorts
+        - Velour shorts
+        - Vintage-style denim shorts
+        - Wide-leg trousers
+      skirts:
+        - African print skirt
+        - Beaded skirt
+        - Bohemian-style skirt
+        - Crochet skirt
+        - Denim skirt
+        - Embellished skirt
+        - Embroidered skirt
+        - Gauze skirt
+        - Gauzy skirt
+        - gypsy skirt
+        - Indian print skirt
+        - Lace skirt
+        - Linen skirt
+        - Long skirt
+        - Macramé skirt
+        - Maxi skirt
+        - Midi skirt
+        - Mini skirt
+        - Paisley-print skirt
+        - Peasant skirt
+        - Peasant-style skirt
+        - Pleated skirt
+        - Ruffled skirt
+        - Sarong skirt
+        - Tie-dye skirt
+        - Tiered skirt
+        - Tribal-print skirt
+        - Velvet skirt
+        - Vintage-style denim skirt
+        - Wrap skirt
+    male:
+      jeans:
+        - Beaded jeans
+        - Bohemian-style jeans
+        - Cropped jeans
+        - Cropped wide-leg jeans
+        - Distressed jeans
+        - Embellished jeans
+        - Embroidered jeans
+        - Vintage-style jeans
+      pants:
+        - African print pants
+        - Beaded pants
+        - Bell-bottom pants
+        - Bohemian-style cargo pants
+        - Corduroy pants
+        - Crochet pants
+        - Cropped jogger pants
+        - Cropped linen pants
+        - Cropped pants
+        - Embellished pants
+        - Embroidered pants
+        - Flowy linen pants
+        - Fringed pants
+        - Gaucho pants
+        - Harem pants
+        - Indian print pants
+        - Loose-fitting culottes
+        - Paisley-print pants
+        - Palazzo pants
+        - Patchwork pants
+        - Patterned pants
+        - Printed pants
+        - Sarong pants
+        - Tie-dye pants
+        - Velour pants
+        - Tribal-print pants
+        - Velvet pants
+      shorts:
+        - African print shorts
+        - Beaded shorts
+        - Bohemian-style shorts
+        - Bohemian-style swim trunks
+        - Corduroy shorts
+        - Crochet shorts
+        - Denim shorts
+        - Distressed denim shorts
+        - Embellished denim shorts
+        - Embellished shorts
+        - Embroidered denim shorts
+        - Embroidered shorts
+        - Lace pants
+        - Linen shorts
+        - Macramé shorts
+        - Patchwork shorts
+        - Patterned shorts
+        - Tie-dye shorts
+        - Tribal-inspired harem shorts
+        - Velour shorts
+        - Vintage-style denim shorts
+        - Wide-leg trousers
+  business:
+    female:
+      pants:
+        - ankle pants
+        - bootcut dress pants
+        - cigarette pants
+        - cropped pants
+        - culottes
+        - dress capris
+        - dress pants
+        - dress shorts
+        - flare dress pants
+        - high-waisted dress pants
+        - khaki pants
+        - linen pants
+        - palazzo pants
+        - paper bag waist pants
+        - pegged pants
+        - pleated pants
+        - ponte pants
+        - skinny dress pants
+        - straight leg dress pants
+        - tapered dress pants
+        - trousers
+        - wide-leg dress pants
+      skirts:
+        - a-line skirt
+        - asymmetrical skirt
+        - button-front skirt
+        - corduroy skirt
+        - denim skirt
+        - flared skirt
+        - high-waisted skirt
+        - khaki skirt
+        - knee-length skirt
+        - leather skirt
+        - linen skirt
+        - long skirt
+        - maxi skirt
+        - midi skirt
+        - mini skirt
+        - pencil skirt
+        - peplum skirt
+        - pleated skirt
+        - pocket skirt
+        - printed skirt
+        - ruffled skirt
+        - straight skirt
+        - trouser skirt
+        - wrap skirt
+    male:
+      pants:
+        - dress pants
+        - khaki dress pants
+        - suit pants
+        - business casual chinos
+        - wool trousers
+        - cotton trousers
+        - linen trousers
+        - corduroys
+        - dark wash denim
+        - pleated pants
+        - cuffed pants
+        - straight leg pants
+        - relaxed fit pants
+        - classic fit pants
+        - slim fit pants
+        - flat front pants
+        - double pleat pants
+        - cropped pants
+        - performance pants
+  casual:
+    female:
+      jeans:
+        - acid wash jeans
+        - jeans
+        - bootcut jeans
+        - boyfriend jeans
+        - cropped jeans
+        - dark wash jeans
+        - distressed jeans
+        - flare jeans
+        - high-waisted jeans
+        - jeans
+        - light wash jeans
+        - low-rise jeans
+        - mid-rise jeans
+        - mom jeans
+        - ripped jeans
+        - skinny jeans
+        - straight leg jeans
+        - white jeans
+      shorts:
+        - bermuda shorts
+        - cargo shorts
+        - chino shorts
+        - cutoff shorts
+        - daisy dukes
+        - denim shorts
+        - high waisted shorts
+        - jean shorts
+        - khaki shorts
+        - linen shorts
+        - lounge shorts
+        - paper bag shorts
+        - pleated shorts
+        - romper shorts
+        - short overalls
+        - short shorts
+        - skort
+        - sweat shorts
+      pants:
+        - cargo pants
+        - chinos
+        - corduroy overalls
+        - corduroys
+        - cropped pants
+        - denim overalls
+        - drawstring pants
+        - faux leather pants
+        - leather pants
+        - leggings
+        - linen pants
+        - palazzo pants
+        - paper bag pants
+        - patterned leggings
+        - patterned pants
+        - ponte pants
+        - printed leggings
+        - printed pants
+        - utility pants
+        - wide leg pants
+      skirts:
+        - a-line skirt
+        - asymmetrical skirt
+        - button-front skirt
+        - corduroy skirt
+        - culottes
+        - denim skirt
+        - knit skirt
+        - maxi skirt
+        - midi skirt
+        - mini skirt
+        - peasant skirt
+        - pencil skirt
+        - pleated skirt
+        - prairie skirt
+        - printed skirt
+        - ruffled skirt
+        - skater skirt
+        - skort
+        - slip skirt
+        - swing skirt
+        - tennis skirt
+        - utility skirt
+        - wrap skirt
+    male:
+      jeans:
+        - acid wash jeans
+        - jeans
+        - bootcut jeans
+        - boyfriend jeans
+        - carpenter jeans
+        - classic fit jeans
+        - colored jeans
+        - dark wash jeans
+        - distressed jeans
+        - faded jeans
+        - high-waisted jeans
+        - jeans
+        - light wash jeans
+        - low-rise jeans
+        - mid-rise jeans
+        - ripped jeans
+        - skinny jeans
+        - straight leg jeans
+        - white jeans
+      pants:
+        - cafe capris
+        - cargo pants
+        - carpenter pants
+        - chinos
+        - corduroys
+        - cropped pants
+        - denim pants
+        - drawstring pants
+        - drawstring trousers
+        - drop-crotch pants
+        - duck pants
+        - harem pants
+        - jodhpurs
+        - khakis
+        - linen pants
+        - loopwheel pants
+        - overalls
+        - palazzo pants
+        - plaid pants
+        - printed pants
+        - pull-on pants
+        - sarouel pants
+        - skinny pants
+        - skinny overalls
+        - slim fit pants
+        - straight leg pants
+        - surf pants
+        - sweatpants
+        - trousers
+        - twill pants
+        - utility pants
+      shorts:
+        - bermuda shorts
+        - board shorts
+        - boxer shorts
+        - cargo shorts
+        - chino shorts
+        - culottes
+        - cutoff shorts
+        - denim shorts
+        - dock shorts
+        - drawstring shorts
+        - golf shorts
+        - jams shorts
+        - jort cutoffs
+        - khaki shorts
+        - linen shorts
+        - madras shorts
+        - plaid shorts
+        - pleated shorts
+        - printed shorts
+        - pull-on shorts
+        - terry cloth shorts
+        - utility shorts
+        - walk shorts
+  formal:
+    female:
+      - cigarette pants
+      - dress pants
+      - formal culottes
+      - formal jumpsuit
+      - formal slim trousers
+      - formal straight leg pants
+      - formal trousers
+      - formal wide leg pants
+      - high waisted formal pants
+      - palazzo pants
+      - pleated formal pants
+      - tuxedo pants
+      - velvet formal pants
+    male:
+      - wool tuxedo pants
+      - pleated dress pants
+      - slim fit tuxedo pants
+      - tailcoat pants
+      - velvet pants
+      - silk pant
+      - cotton gabardine pant
+      - double stripe tuxedo pant
+      - braided cavalry pant
+      - high-waisted pant
+  active:
+    female:
+      shorts:
+        - athletic shorts
+        - bike shorts
+        - board shorts
+        - biker shorts
+        - compression shorts
+        - cycling shorts
+        - dolphin shorts
+        - gym shorts
+        - lounge shorts
+        - running shorts
+        - short shorts
+        - sweat shorts
+        - tennis shorts
+        - track shorts
+        - workout shorts
+        - yoga shorts
+      pants:
+        - athletic pants
+        - drawstring pants
+        - joggers
+        - leggings
+        - lounge pants
+        - harem sweatpants
+        - patterned leggings
+        - printed leggings
+        - sweatpants
+        - track pants
+        - yoga pants
+    male:
+      shorts:
+        - athletic shorts
+        - basketball shorts
+        - biker shorts
+        - board shorts
+        - compression shorts
+        - cycling shorts
+        - gym shorts
+        - lounge shorts
+        - running shorts
+        - short shorts
+        - surf shorts
+        - sweat shorts
+        - swim trunks
+        - tennis shorts
+        - track shorts
+        - volleyball shorts
+        - workout shorts
+        - yoga shorts
+      pants:
+        - base layer leggings
+        - basketball shorts
+        - board shorts
+        - boxer briefs
+        - cargo pants
+        - compression shorts
+        - cycling shorts
+        - golf pants
+        - hiking pants
+        - jockstraps
+        - joggers
+        - running shorts
+        - ski/snowboard pants
+        - snow pants
+        - soccer pants
+        - sweatpants
+        - swim trunks
+        - tennis shorts
+        - tights
+        - track pants
+        - wind pants
+        - workout pants
+        - yoga pants
+  sleepwear:
+    female:
+      shorts:
+        - boxer shorts
+        - cotton shorts
+        - pajama shorts
+        - silk boxers
+      pants:
+        - drawstring pants
+        - flannel pants
+        - lounge pants
+        - pajama pants
+        - sweatpants
+        - thermal leggings
+        - thermal pants
+        - yoga pants
+    male:
+      shorts:
+        - boxer shorts
+        - cotton shorts
+        - pajama shorts
+        - silk boxers
+      pants:
+        - drawstring pants
+        - flannel pants
+        - lounge pants
+        - pajama pants
+        - sweatpants
+        - thermal leggings
+        - thermal pants
+        - yoga pants
+  vintage:
+    female:
+      jeans:
+        - bell-bottom jeans
+        - dungarees
+        - patchwork denim jeans
+        - vintage bootcut jeans
+        - vintage denim jeans
+        - vintage flared jeans
+      pants:
+        - bell-bottom pants
+        - breeches
+        - capri pants
+        - cigarette pants
+        - classic pinstripe dress pants
+        - corduroy pants
+        - cuffed trousers
+        - culottes
+        - flared pants
+        - gaucho pants
+        - genie pants
+        - harem pants
+        - high waisted sailor pants
+        - high-waisted trousers
+        - hostess pants
+        - jodhpurs
+        - knit pants with retro patterns
+        - linen blend trousers
+        - lounge pants
+        - palazzo pants
+        - pettipants
+        - pinstripe pants
+        - pinstripe trousers
+        - plaid trousers
+        - pleated pants
+        - plus four pants
+        - plus two pants
+        - riding pants
+        - sailor bell bottoms
+        - sailor pants
+        - seersucker pants
+        - ski pants
+        - skirt pants
+        - suspender pants
+        - tap pants
+        - toreador pants
+        - tweed trousers
+        - vintage cargo pants
+        - vintage carpenter pants
+        - vintage chinos
+        - vintage golf pants
+        - vintage houndstooth trousers
+        - vintage jogger pants
+        - vintage leather pants
+        - vintage painter pants
+        - vintage ski pants
+        - vintage sweatpants
+        - vintage track pants
+        - vintage velvet trousers
+        - vintage workwear pants
+        - wide leg sailor pants
+        - wide-leg corduroy trousers
+        - wide-leg linen pants
+        - wide-leg pants
+        - wide-leg wool trousers
+      skirts:
+        - calf length pencil skirt
+        - divided skirt
+        - knee length pencil skirt
+        - poodle skirt
+        - poodle skirt
+        - split skirt
+        - swing skirt
+      shorts:
+        - pedal pushers
+        - clam diggers
+        - knickerbockers
+        - pleated golf shorts
+        - retro-style shorts
+        - sailor shorts
+        - vintage bermuda shorts
+        - vintage dungaree shorts
+        - vintage high-waist shorts
+        - vintage swim trunks
+        - vintage track shorts
+        - vintage tweed shorts
+    male:
+      - beach pajamas
+      - bell-bottom jeans
+      - bell-bottom pants
+      - breeches
+      - capri pants
+      - cigarette pants
+      - clam diggers
+      - classic pinstripe dress pants
+      - corduroy pants
+      - cuffed trousers
+      - culottes
+      - dungarees
+      - flared pants
+      - gaiters
+      - gaucho pants
+      - genie pants
+      - harem pants
+      - high waisted sailor pants
+      - high-waisted trousers
+      - hostess pants
+      - jodhpurs
+      - knit pants with retro patterns
+      - linen blend trousers
+      - lounge pants
+      - overalls
+      - palazzo pants
+      - patchwork denim jeans
+      - pedal pushers
+      - pettipants
+      - pinstripe pants
+      - pinstripe trousers
+      - plaid trousers
+      - playsuits
+      - pleated golf shorts
+      - pleated pants
+      - plus four pants
+      - plus two pants
+      - retro-style shorts
+      - riding pants
+      - sailor bell bottoms
+      - sailor pants
+      - sailor shorts
+      - seersucker pants
+      - ski pants
+      - suspender pants
+      - tap pants
+      - toreador pants
+      - tweed trousers
+      - vintage bermuda shorts
+      - vintage bootcut jeans
+      - vintage cargo pants
+      - vintage carpenter pants
+      - vintage chinos
+      - vintage denim jeans
+      - vintage dungaree shorts
+      - vintage flared jeans
+      - vintage golf pants
+      - vintage high-waist shorts
+      - vintage houndstooth trousers
+      - vintage jogger pants
+      - vintage leather pants
+      - vintage painter pants
+      - vintage ski pants
+      - vintage sweatpants
+      - vintage swim trunks
+      - vintage track pants
+      - vintage track shorts
+      - vintage tweed shorts
+      - vintage velvet trousers
+      - vintage workwear pants
+      - wide leg sailor pants
+      - wide-leg corduroy trousers
+      - wide-leg linen pants
+      - wide-leg pants
+      - wide-leg wool trousers
+  occupational:
+    construction:
+      - cargo pants
+      - carpenter pants
+      - painter pants
+      - utility pants
+      - work pants
+      - work jeans
+      - work shorts
+      - overalls
+      - coveralls
+      - bib overalls
+    firefighting:
+      - bunker pants
+      - turnout pants
+    food_service:
+      - chef pants
+      - checked pants
+      - striped pants
+    law_enforcement:
+      - cargo pants
+      - tactical pants
+      - uniform pants
+    medical:
+      - scrub pants
+      - cargo pants with utility pockets
+    military:
+      - cargo pants
+      - militarty fatigues
+      - field trousers
+      - jodhpurs
+      - garrison cap pants
+      - camo pants
+      - military uniform pants
+      - service uniform pants
+    performer:
+      - dance pants
+      - leggings
+      - tights
+      - theatrical pants
+      - yoga pants
+    transportation:
+      - cargo pants
+      - uniform pants
+      - work pants
+      - work jeans
+      - work shorts
+
+fullbody:
+  bohemian:
+    female:
+      general:
+        - boho-style dress
+        - boho swim cover cover-up
+        - boho style sundress
+        - boho style wrap dress
+        - boho-style jumpsuit
+        - boho-style overalls
+        - boho-style romper
+        - boho-style tunic
+      coverups:
+        - Bohemian-style swim cover-up
+        - Crochet swim cover-up
+        - Embroidered swim cover-up
+        - Gauze swim cover-up
+        - Gauzy swim cover-up
+        - Indian print swim cover-up
+        - Lace swim cover-up
+        - Linen swim cover-up
+        - Macramé swim cover-up
+        - Paisley-print swim cover-up
+        - Peasant swim cover-up
+        - Peasant-style swim cover-up
+      dresses:
+        - African print dress
+        - Beaded dress
+        - Bell-sleeve dress
+        - Bohemian-style dress
+        - Bohemian-style sundress
+        - Bohemian-style wrap dress
+        - Crochet dress
+        - Crochet sundress
+        - Crochet wrap dress
+        - Embellished dress
+        - Embroidered dress
+        - Embroidered sundress
+        - Embroidered wrap dress
+        - Flowy linen dress
+        - Fringed dress
+        - Gauze dress
+        - Gauze sundress
+        - Gauze wrap dress
+        - Gauzy dress
+        - Gauzy sundress
+        - Gauzy wrap dress
+        - Indian print dress
+        - Indian print sundress
+        - Indian print wrap dress
+        - Lace dress
+        - Lace sundress
+        - Lace wrap dress
+        - Linen sundress
+        - Linen wrap dress
+        - Long-sleeve dress
+        - Long-sleeve sundress
+        - Long-sleeve wrap dress
+        - Macramé dress
+        - Macramé sundress
+        - Macramé wrap dress
+        - Maxi dress
+        - Maxi sundress
+        - Maxi wrap dress
+        - Midi dress
+        - Midi sundress
+        - Midi wrap dress
+        - Mini dress
+        - Mini sundress
+        - Mini wrap dress
+        - Paisley-print dress
+        - Paisley-print sundress
+        - Paisley-print wrap dress
+        - Peasant dress
+        - Peasant sundress
+        - Peasant wrap dress
+        - Peasant-style dress
+        - Peasant-style sundress
+        - Peasant-style wrap dress
+      jumpsuits:
+        - African print jumpsuit
+        - Beaded jumpsuit
+        - Bohemian-style jumpsuit
+        - Crochet jumpsuit
+        - Denim jumpsuit
+        - Embellished jumpsuit
+        - Embroidered jumpsuit
+        - Gauze jumpsuit
+        - Gauzy jumpsuit
+        - Indian print jumpsuit
+        - Lace jumpsuit
+        - Linen jumpsuit
+        - Long-sleeve jumpsuit
+        - Macramé jumpsuit
+        - Maxi jumpsuit
+        - Midi jumpsuit
+        - Mini jumpsuit
+        - Paisley-print jumpsuit
+        - Peasant jumpsuit
+        - Peasant-style jumpsuit
+      overalls:
+        - African print overalls
+        - Bohemian-style overalls
+        - Crochet overalls
+        - Denim overalls
+        - Embellished overalls
+        - Embroidered overalls
+        - Gauze overalls
+        - Gauzy overalls
+        - Indian print overalls
+        - Lace overalls
+        - Linen overalls
+        - Long-sleeve overalls
+        - Macramé overalls
+        - Maxi overalls
+        - Midi overalls
+        - Mini overalls
+        - Paisley-print overalls
+        - Peasant overalls
+        - Peasant-style overalls
+      rompers:
+        - African print romper
+        - batik print romper
+        - Beaded romper
+        - Bohemian-style romper
+        - Crochet romper
+        - Denim romper
+        - Embellished romper
+        - Embroidered romper
+        - Gauze romper
+        - Gauzy romper
+        - Indian print romper
+        - Lace romper
+        - Linen romper
+        - Long-sleeve romper
+        - Macramé romper
+        - Maxi romper
+        - Midi romper
+        - Mini romper
+        - Paisley-print romper
+        - Peasant romper
+        - Peasant-style romper
+      tunics:
+        - Bohemian-style tunic
+        - Crochet tunic
+        - Embroidered tunic
+        - Gauze tunic
+        - Gauzy tunic
+        - Indian print tunic
+        - Lace tunic
+        - Linen tunic
+        - Long-sleeve tunic
+        - Macramé tunic
+        - Maxi tunic
+        - Midi tunic
+        - Mini tunic
+        - Paisley-print tunic
+        - Peasant tunic
+        - Peasant-style tunic
+    male:
+      general:
+        - boho-style jumpsuit
+        - boho-style overalls
+        - boho-style romper
+        - boho-style tunic
+        - dashiki
+        - union suit
+      jumpsuits:
+        - African print jumpsuit
+        - Beaded jumpsuit
+        - Bohemian-style jumpsuit
+        - Crochet jumpsuit
+        - Denim jumpsuit
+        - Embellished jumpsuit
+        - Embroidered jumpsuit
+        - Gauze jumpsuit
+        - Gauzy jumpsuit
+        - Indian print jumpsuit
+        - Lace jumpsuit
+        - Linen jumpsuit
+        - Long-sleeve jumpsuit
+        - Macramé jumpsuit
+        - Maxi jumpsuit
+        - Midi jumpsuit
+        - Mini jumpsuit
+        - Paisley-print jumpsuit
+        - Peasant jumpsuit
+        - Peasant-style jumpsuit
+      overalls:
+        - African print overalls
+        - Bohemian-style overalls
+        - Crochet overalls
+        - Denim overalls
+        - Embellished overalls
+        - Embroidered overalls
+        - Gauze overalls
+        - Gauzy overalls
+        - Indian print overalls
+        - Lace overalls
+        - Linen overalls
+        - Long-sleeve overalls
+        - Macramé overalls
+        - Maxi overalls
+        - Midi overalls
+        - Mini overalls
+        - Paisley-print overalls
+        - Peasant overalls
+        - Peasant-style overalls
+      rompers:
+        - African print romper
+        - batik print romper
+        - Beaded romper
+        - Bohemian-style romper
+        - Crochet romper
+        - Denim romper
+        - Embellished romper
+        - Embroidered romper
+        - Gauze romper
+        - Gauzy romper
+        - Indian print romper
+        - Lace romper
+        - Linen romper
+        - Long-sleeve romper
+        - Macramé romper
+        - Maxi romper
+        - Midi romper
+        - Mini romper
+        - Paisley-print romper
+        - Peasant romper
+        - Peasant-style romper
+      tunics:
+        - Bohemian-style tunic
+        - Crochet tunic
+        - Embroidered tunic
+        - Gauze tunic
+        - Gauzy tunic
+        - Indian print tunic
+        - Lace tunic
+        - Linen tunic
+        - Long-sleeve tunic
+        - Macramé tunic
+        - Maxi tunic
+        - Midi tunic
+        - Mini tunic
+        - Paisley-print tunic
+        - Peasant tunic
+        - Peasant-style tunic
+
+  business:
+    female:
+      - blazer and dress
+      - blazer and pants
+      - blazer and skirt
+      - blazer dress
+      - dress suit
+      - formal dress
+      - formal jumpsuit
+      - formal overalls
+      - formal oversized caftan
+      - formal prinecess cut dress
+      - formal romper
+      - kaftan dress
+      - long cardigan
+      - long vest dress
+      - maxi dress
+      - pantsuit
+      - shirtdress
+      - skirt suit
+      - tunic sweater dress
+    male:
+      - blazer and pants
+      - blazer and shorts
+      - blazer and trousers
+      - blazer and vest
+      - two piece suit
+      - three piece suit
+  casual:
+    female:
+      summer:
+        - camisole
+        - light maxi dress
+        - kaftan
+        - tunic
+        - sarong
+      winter:
+        - muumuu
+        - long wrap dress
+        - caftan
+        - hostess gown
+        - poncho
+        - house dress
+        - pullover sweater
+  cocktail:
+    female:
+      dresses:
+        - blazer dress
+        - bodycon dress
+        - cocktail dress
+        - cutout dress
+        - fit and flare dress
+        - fringe dress
+        - high-low dress
+        - lace dress
+        - maxi dress
+        - metallic dress
+        - off the shoulder dress
+        - sequined dress
+        - sheath dress
+        - strapless dress
+        - tulle dress
+        - wrap dress
+      bodysuits:
+        - formal jumpsuit
+        - tuxedo jumpsuit
+        - one-shoulder bodysuit
+        - plunging neckline bodysuit
+        - mesh long sleeve bodysuit
+        - sequin embellished bodysuit
+        - lace bodysuit with cutouts
+    male:
+      suits:
+        - suit
+        - suit and vest
+        - three-button single breasted jacket with straight leg pants
+        - three-piece suit with vest, double breasted jacket
+        - two-button notch lapel jacket with flat front slacks
+        - two-button peak lapel jacket with pleated slacks
+      tuxedo:
+        - tuxedo and vest
+        - tuxedo with cutaway lapel
+        - tuxedo with dip lapel
+        - tuxedo with double breasted jacket
+        - tuxedo with kent lapel
+        - tuxedo with mandarin lapel
+        - tuxedo with notch lapel
+        - tuxedo with peak lapel
+        - tuxedo with shawl lapel
+        - tuxedo with single breasted jacket
+  formal:
+    suits:
+      - pantsuit
+      - evening jumpsuit
+      - suit
+      - suit and vest
+      - three-button single breasted jacket with straight leg pants
+      - three-piece suit with vest, double breasted jacket
+      - two-button notch lapel jacket with flat front slacks
+      - two-button peak lapel jacket with pleated slacks
+    dresses:
+      - gown
+      - a-line dress
+      - ballgowm
+      - chiffon dress
+      - empire waist dress
+      - formal halter dress
+      - high low dress
+      - illusion dress
+      - lace dress
+      - mermaid dress
+      - off the shoulder dress
+      - princess dress
+      - satin dress
+      - sheath dress
+      - strapless dress
+      - sweetheart dress
+      - tea length dress
+      - trumpet dress
+      - v-neck dress
+      - velvet dress
+  active:
+    female:
+      swimwear:
+        - bikini
+        - one-piece swimsuit
+        - rash guard
+        - swim dress
+        - swim shorts
+        - swim skirt
+        - tankini
+        - wetsuit
+    male:
+      swimwear:
+        - board shorts
+        - briefs
+        - jammers
+        - jockstrap
+        - rash guard
+        - swim shorts
+        - swim trunks
+        - wetsuit
+  sleepwear:
+    female:
+      robes:
+        - cotton robe
+        - cotton terry robe
+        - embroidered robe
+        - fleece robe
+        - kimono-style robe
+        - lightweight cotton robe
+        - long robe
+        - long sleeve robe
+        - plush fleece robe
+        - plush robe
+        - satin robe
+        - short robe
+        - short sleeve robe
+        - silk robe
+        - terry cloth robe
+        - waffle knit robe
+        - waffle robe
+        - satin robe with tie closure
+      other:
+        - nightgown
+        - pajamas
+        - rompers
+      pajamasets:
+        - short sleeve top and shorts set
+        - long sleeve top and pants set
+        - camisole and pajama shorts set
+        - button-down shirt and pajama pants set
+        - tank top and capri pants set
+    male:
+      other:
+        - union suit
+        - pajamas
+      pajamasets:
+        - short sleeve top and shorts set
+        - long sleeve top and pants set
+        - camisole and pajama shorts set
+        - button-down shirt and pajama pants set
+        - tank top and capri pants set
+      robes:
+        - cotton robe
+        - cotton terry robe
+        - embroidered robe
+        - fleece robe
+        - kimono-style robe
+        - lightweight cotton robe
+        - long robe
+        - long sleeve robe
+        - plush fleece robe
+        - plush robe
+        - satin robe
+        - short robe
+        - short sleeve robe
+        - silk robe
+        - terry cloth robe
+        - waffle knit robe
+        - waffle robe
+        - satin robe with tie closure
+  vintage:
+    female:
+      - beach pajamas
+      - bell-sleeve dress
+      - bell-sleeve jumpsuit
+      - bell-sleeve romper
+      - bell-sleeve tunic
+      - bellbottom jumpsuit
+      - bellbottom overalls
+      - bellbottom romper
+      - bellbottom tunic
+      - vintage overalls
+      - vintage playsuits
+    male:
+      - beach pajamas
+      - bell-sleeve jumpsuit
+      - bell-sleeve romper
+      - bell-sleeve tunic
+      - bellbottom jumpsuit
+      - bellbottom overalls
+      - bellbottom romper
+      - bellbottom tunic
+  occupational:
+    academic:
+      - academic gown
+      - academic regalia
+      - academic robe
+      - academic stole
+    construction:
+      - coveralls
+      - overalls
+      - work uniform
+    farming:
+      - bee keeper suit
+      - coveralls
+      - overalls
+      - work uniform
+    firefighting:
+      - bunker gear
+      - turnout gear
+      - boiler suit
+      - firefighter uniform
+      - hazmat suit
+    food_service:
+      - apron
+      - chef uniform
+      - coveralls
+      - overalls
+      - work uniform
+      - cleanroom suit
+    law_enforcement:
+      - police uniform
+    medical:
+      - hazmat suit
+      - scrubs
+      - surgical gown
+      - surgical scrubs
+      - radiation protection suit
+      - cleanroom suit
+      - biocontainment suit
+    military:
+      - ballistic bodysuit
+      - camo bodysuit
+      - combat uniform
+      - dress uniform
+      - flight suit
+      - ghillie suit
+      - military fatigues
+      - military uniform
+      - service uniform
+      - tactical uniform
+      - utility uniform
+    performer:
+      - bodysuit
+      - dance costume
+      - dance uniform
+      - dancewear
+      - leotard
+      - unitard
+      - zentai
+    religious:
+      - cassock
+      - robe
+      - vestment
+      - habit
+    transportation:
+      - flight suit
+      - uniform
+      - coveralls
+      - jumpsuit
+      - overalls
+
+footwear:
+  business:
+    female:
+      heels:
+        - pumps
+        - pointed toe pumps
+        - peep toe pumps
+        - d'orsay cut pumps
+        - stilettos
+        - wedge heels
+        - kitten heels
+        - slingback heels
+        - block heels
+      flats:
+        - ballet flats
+        - pointed toe flats
+        - loafers
+        - oxfords
+        - smoking slippers
+        - mules
+      boots:
+        - ankle boots
+        - chelsea ankle boots
+        - lace up ankle boots
+        - leather ankle boots
+        - tall boots
+        - riding boots
+        - over the knee boots
+        - booties
+        - ankle height boots
+        - knee high boots
+        - rain boots
+      other:
+        - platform shoes
+        - wedges
+        - espadrilles
+        - mary janes
+        - sneakers
+    male:
+      dress shoes:
+        - brogue oxfords
+        - cap toe oxfords
+        - chelsea boots
+        - chukka boots
+        - derbies
+        - kiltie loafers
+        - loafers
+        - loafers with tassels
+        - monk strap shoes
+        - oxfords
+        - penny loafers
+        - plain toe oxfords
+        - wingtips
+      casual:
+        - ankle boots
+        - blundstones
+        - boat shoes
+        - brogues/wingtips
+        - desert boots
+        - leather sneakers
+        - loafer slip-ons
+      formal:
+        - formal loafers
+        - opera pumps
+        - patent leather shoes
+        - spectator shoe
+  casual:
+    female:
+      summer:
+        - sandals
+        - gladiator sandals
+        - sporty sandals
+        - thong sandals
+        - flip flops
+        - slides
+        - mules
+        - espadrilles
+        - boat shoes
+        - sneakers
+        - flats
+        - ankle booties
+        - moccasins
+        - slippers
+        - cowboy boots
+        - wedge boots/shoes
+      winter:
+        - pumps
+        - stilettos
+        - wedges
+        - espadrilles
+        - sandals
+        - flip flops
+        - slides
+        - mules
+        - ballet flats
+        - loafers
+        - oxfords
+        - boat shoes
+        - sneakers
+    male:
+      summer:
+        - pumps
+        - stilettos
+        - wedges
+        - espadrilles
+        - sandals
+        - flip flops
+        - slides
+        - mules
+        - ballet flats
+        - loafers
+        - oxfords
+        - boat shoes
+        - sneakers
+      winter:
+        - winter boots
+        - hiking boots
+        - cowboy boots
+        - work boots
+        - combat boots
+        - hunting boots
+        - chelsea boots
+        - chukka boots
+        - slippers
+        - rain boots
+        - snow boots
+        - shearling boots
+        - duck boots
+  formal:
+    female:
+      heels:
+        - stilettos
+        - slingbacks
+        - kitten heels
+        - block heels heels
+      pumps:
+        - pointed toe pumps
+        - peep toe pumps
+        - d'orsay pumps
+      sandals:
+        - ankle strap sandals
+        - slingback sandals
+      mules:
+        - jeweled mules
+        - satin mules
+      flats:
+        - pointed toe flats
+        - d'orsay flats
+        - ballet flats
+      boots:
+        - over the knee boots
+        - ankle boots
+      other:
+        - wedges
+        - platforms
+    male:
+      shoes:
+        - brogue oxfords
+        - cap toe oxfords
+        - horsebit loafers
+        - kiltie loafers
+        - leather sneakers
+        - loafers
+        - monk strap shoes
+        - oxfords
+        - patent leather shoes
+        - penny loafers
+        - plain toe oxfords
+        - spectator shoes
+        - suede oxfords
+        - tassel loafers
+        - textured brogues
+        - velvet loafers
+        - wingtip shoes
+        - opera pumps
+      boots:
+        - chelsea boots
+        - chukka boots
+        - desert boots
+        - dress boots
+  active:
+    sneakers:
+      - basketball shoes
+      - cross trainers
+      - running shoes
+      - tennis shoes
+      - training shoes
+      - walking shoes
+    boots:
+      - hiking boots
+    sandals:
+      - athletic sandals
+    shoes:
+      - aerobics shoes
+      - bowling shoes
+      - boxing shoes
+      - cheer shoes
+      - cleats
+      - cycling shoes
+      - fencing shoes
+      - golf shoes
+      - hiking shoes
+      - trail runners
+      - training loafers
+      - wrestling shoes
+  sleepwear:
+    female:
+      slippers:
+        - fuzzy slippers
+        - moccasin slippers
+        - shearling slippers
+        - knit slippers
+      socks:
+        - fuzzy socks
+        - thermal socks
+        - slipper socks
+        - knee high socks
+      booties:
+        - ugg boots
+        - fleece lined booties
+    male:
+      slippers:
+        - leather slippers
+        - suede slippers
+        - plaid slippers
+      socks:
+        - thermal socks
+        - slipper socks
+      booties:
+        - shearling lining
+        - fleece lined booties
+  occupational:
+    construction:
+      - work boots
+      - steel toe boots
+      - heavy duty boots
+    firefighting:
+      - bunker boots
+      - firefighter boots
+      - rubber safety boots
+    food_service:
+      - non-slip shoes
+      - oil resistant shoes
+      - clogs
+      - chef clogs
+    law_enforcement:
+      - tactical boots
+      - police boots
+    medical:
+      - clogs
+      - compression socks
+      - orthopedic shoes
+    military:
+      - combat boots
+      - jungle boots
+      - desert boots
+    performer:
+      - dance shoes
+      - theatrical high heels
+      - tap shoes
+      - pointe shoes
+    transportation:
+      - steel toe boots
+      - non-slip shoes
+      - driving moccasins
+  styles:
+    boho:
+      - ankle boots
+      - ankle wrap heels
+      - ballet flats
+      - beaded sandals
+      - boho flip flops
+      - block heels
+      - boho sandals
+      - boho wedges
+      - chukka boots
+      - clogs
+      - crochet lace up boots
+      - embellished sneakers
+      - embroidered flats
+      - embroidered sneakers
+      - espadrilles
+      - fringed booties
+      - gladiator sandals
+      - moccasins
+      - peep toe heels
+      - platform shoes
+      - pointed toe flats
+      - wedge sandals
+      - western boots
+    grunge:
+      - combat boots
+      - work boots
+      - doc martens
+      - hiking boots
+      - chuck taylors
+      - brogues
+      - oxfords
+      - chunky sneakers
+    preppy:
+      female:
+        - ballet flats
+        - canvas sneakers
+        - deck shoes
+        - espadrilles
+        - flats
+        - kitten heels
+        - loafers
+        - oxfords
+        - penny loafers
+        - rain boots
+        - sneakers
+        - wedge heels
+      male:
+        - blucher moccasins
+        - boat shoes
+        - brogues
+        - buckle boots
+        - canvas sneakers
+        - deck shoes
+        - desert boots
+        - driving moccasins
+        - duck boots
+        - espadrilles
+        - keds
+        - loafers
+        - oxfords
+        - penny loafers
+        - rain boots
+        - saddle shoes
+        - sneakers
+        - spectator shoes
+        - suede bucks
+        - tassel loafers
+        - topsiders
+        - tretorn sneakers
+        - wallabees
+        - wingtips
+    punk:
+      - ankle boots
+      - biker boots
+      - bondage boots
+      - brothel creepers
+      - buckle boots
+      - chelsea boots
+      - combat boots
+      - converse all-stars
+      - converse chuck taylors
+      - creepers
+      - demonia creepers
+      - demonia shoes
+      - doc martens
+      - doc martens sandals
+      - dr. martens
+      - engineer boots
+      - flight boots
+      - gothic boots
+      - high-top sneakers
+      - leather jackboots
+      - new rock boots
+      - pentagram boots
+      - platform boots
+      - punk spikes
+      - spike heels
+      - studded boots
+      - vans slip ons
+      - winklepickers
+    skater:
+      - adidas skateboarding shoes
+      - airwalk shoes
+      - canvas slip ons
+      - checkered slip ons
+      - circa shoes
+      - converse chuck taylor all star
+      - converse chuck taylors
+      - dc court graffik
+      - dc shoes
+      - dunk high tops
+      - dvs shoes
+      - emerica reynolds
+      - és shoes
+      - etnies shoes
+      - fallen shoes
+      - flip shoes
+      - globe shoes
+      - heelys
+      - ipath shoes
+      - lakai griffin
+      - lakai shoes
+      - nike sb shoes
+      - osiris shoes
+      - slip on vans
+      - supra shoes
+      - vans
+      - vans old skool
+    vintage:
+      female:
+        - ankle strap pumps
+        - ballerina flats
+        - cap toe pumps
+        - go go boots
+        - kitten heels
+        - mary jane
+        - mary janes
+        - mid heels
+        - mules
+        - peep toe pumps
+        - pin up heels
+        - platform wedges
+        - platforms
+        - slingback sandals
+        - slingbacks
+        - stilettos
+        - t-strap heels
+        - t-strap shoes
+      male:
+        - brogue oxford
+        - brogues
+        - chelsea boots
+        - keds
+        - loafers
+        - oxfords
+        - penny loafers
+        - saddle oxfords
+        - saddle shoes
+        - saddle shoes
+        - spectators
+        - two tones
+        - wingtip shoes
+        - wingtips
+        - winklepickers
+
+head:
+  business:
+  casual:
+  cocktail:
+  formal:
+  military:
+  active:
+  sleepwear:
+  occupational:
+    academic:
+      - academic beret
+      - academic cap
+      - academic coif
+      - academic pileus
+      - academic tam
+      - canterbury cap
+      - mortarboard
+      - tudor bonnet
+      - velvet pileus
+    construction:
+    firefighting:
+    food_service:
+    law_enforcement:
+    medical:
+    military:
+    performer:
+    religious:
+      - biretta
+      - bonnet
+      - cap
+      - coif
+      - hat
+      - hood
+      - mitre
+      - pileus
+      - skullcap
+      - tam
+      - zucchetto
+    transportation:
+
+tops:
+  business:
+    female:
+      blouses:
+        - button up blouse
+        - silk blouse
+        - collared blouse
+        - bow blouse
+        - peplum blouse
+      sweaters:
+        - cashmere sweater
+        - cowl neck sweater
+        - cardigan
+        - turtleneck
+        - mock neck sweater
+      shirts:
+        - button down shirt
+        - polo shirt
+        - oxford shirt
+        - knit shirt
+      blazers:
+        - single breasted blazer
+        - double breasted blazer
+        - peak lapel blazer
+        - notch lapel blazer
+      suits:
+        - skirt suits
+        - pant suits
+        - dress suits
+    male:
+      sportcoats:
+        - tweed sportcoat
+        - corduroy sportcoat
+        - linen sportcoat
+      shirts:
+        - button down shirt
+        - polo shirt
+        - oxford shirt
+        - dress shirt
+        - flannel shirt
+      sweaters:
+        - cashmere sweater
+        - cardigan
+        - v-neck sweater
+        - turtleneck sweater
+      other:
+        - vest
+        - cardigan vest
+  casual:
+    female:
+      summer:
+        - tank top
+        - camisole
+        - halter
+        - crop top
+        - short sleeve t-shirt
+        - blouse
+        - polo shirt
+        - halter dress
+      winter:
+        - sweater
+        - long sleeve t-shirt
+        - flannel shirt
+        - pullover top
+        - hoodie
+        - cowl neck top
+        - turtle neck
+        - cashmere top
+        - thermal top
+        - knit top
+        - wraparound top
+    male:
+      summer:
+        - aloha shirt
+        - guayabera shirt
+        - mesh shirt
+        - muscle shirt
+        - polo shirt
+        - short sleeve button up
+        - short sleeve t-shirt
+        - tank top
+      winter:
+        - cardigan
+        - cashmere top
+        - flannel shirt
+        - fleece top
+        - hoodie
+        - knit top
+        - long sleeve t-shirt
+        - pullover
+        - sweater
+        - thermal
+        - turtleneck
+  cocktail:
+    female:
+      blouses:
+        - bow-tie neck blouse
+        - button-up blouse
+        - chiffon blouse
+        - embroidered blouse
+        - floral print blouse
+        - halter neck blouse
+        - lace blouse
+        - lace-up silk blouse
+        - off-shoulder blouse
+        - puff sleeve blouse
+        - ruffled blouse
+        - ruffled satin blouse
+        - satin blouse
+        - sequin blouse
+        - sheer blouse
+        - silk blouse
+        - sleeveless blouse
+        - sleeveless chiffon blouse
+        - tie-neck blouse
+        - tunic blouse
+        - velvet blouse
+      camisoles:
+        - beaded camisole
+        - camisole with lace trim
+        - embellished silk camisole
+        - floral print camisole
+        - lace camisole
+        - satin camisole
+        - satin camisole with lace trim
+        - sequin camisole
+        - silk camisole
+        - velvet camisole
+      croptops:
+        - beaded crop top
+        - beaded fringe crop top
+        - beaded lace crop top
+        - beaded mesh crop top
+        - beaded sequin crop top
+        - beaded tulle crop top
+        - beaded velvet crop top
+        - beaded wrap crop top
+        - bustier crop top
+        - camisole crop top
+        - chiffon crop top
+        - embroidered crop top
+        - embroidered lace crop top
+        - floral print crop top
+        - halter neck crop top
+        - lace crop top
+        - lace-up crop top
+        - mesh crop top
+        - metallic foil crop top
+        - off-shoulder crop top
+        - puff sleeve crop top
+        - ruffled crop top
+        - satin crop top
+        - sequin crop top
+        - sheer crop top
+        - silk crop top
+        - sleeveless crop top
+        - tulle crop top
+        - velvet crop top
+        - wrap crop top
+      peplumtops:
+        - beaded lace peplum top
+        - beaded mesh peplum top
+        - beaded peplum top
+        - beaded sequin peplum top
+        - beaded tulle peplum top
+        - beaded velvet peplum top
+        - beaded wrap peplum top
+        - bustier peplum top
+        - camisole peplum top
+        - chiffon peplum top
+        - embroidered lace peplum top
+        - embroidered peplum top
+        - floral print peplum top
+        - halter neck peplum top
+        - lace peplum top
+        - lace-up peplum top
+        - mesh peplum top
+        - metallic foil peplum top
+        - off-shoulder peplum blouse
+        - off-shoulder peplum top
+        - peplum blouse
+        - peplum lace top
+        - printed peplum top
+        - ruffle sleeve peplum top
+        - satin peplum top
+    male:
+      dressshirts:
+        - band collar dress shirt
+        - barrel cuff dress shirt
+        - button cuff dress shirt
+        - button-down collar dress shirt
+        - button-down dress shirt
+        - button-up dress shirt
+        - checked pattern dress shirt
+        - classic fit dress shirt
+        - contrast collar dress shirt
+        - contrast cuff dress shirt
+        - convertible cuff dress shirt
+        - double cuff dress shirt
+        - french cuff dress shirt
+        - gingham dress shirt
+        - herringbone dress shirt
+        - linen dress shirt
+        - mandarin collar dress shirt
+        - micro check dress shirt
+        - micro dot dress shirt
+        - micro houndstooth dress shirt
+        - micro stripe dress shirt
+        - paisley print dress shirt
+        - plaid dress shirt
+        - point collar dress shirt
+        - polka dot dress shirt
+        - printed dress shirt
+        - regular fit dress shirt
+        - slim fit dress shirt
+        - solid color dress shirt
+        - spread collar dress shirt
+        - striped dress shirt
+        - tattersall dress shirt
+        - textured dress shirt
+        - twill dress shirt
+        - windowpane dress shirt
+        - wingtip collar dress shirt
+      buttondown:
+        - chambray button-down shirt
+        - denim button-down shirt
+        - linen button-down shirt
+        - oxford button-down shirt
+        - plaid button-down shirt
+      sweaters:
+        - argyle sweater
+        - cable knit sweater
+        - cashmere sweater
+        - crew neck sweater
+        - fair isle sweater
+        - half-zip sweater
+        - mock neck sweater
+        - quarter-zip sweater
+        - shawl collar sweater
+        - turtleneck sweater
+        - v-neck sweater
+      cardigans:
+        - argyle cardigan
+        - cable knit cardigan
+        - cashmere cardigan
+        - crew neck cardigan
+        - fair isle cardigan
+        - half-zip cardigan
+        - mock neck cardigan
+        - quarter-zip cardigan
+        - shawl collar cardigan
+        - turtleneck cardigan
+        - v-neck cardigan
+      vests:
+        - argyle sweater vest
+        - cable knit sweater vest
+        - cashmere sweater vest
+        - crew neck sweater vest
+        - fair isle sweater vest
+        - half-zip sweater vest
+        - mock neck sweater vest
+        - quarter-zip sweater vest
+        - shawl collar sweater vest
+        - turtleneck sweater vest
+        - v-neck sweater vest
+      blazers:
+        - checked pattern blazer
+        - classic fit blazer
+        - contrast collar blazer
+        - contrast cuff blazer
+        - double-breasted blazer
+        - herringbone blazer
+        - linen blazer
+        - micro check blazer
+        - micro dot blazer
+        - micro houndstooth blazer
+        - micro stripe blazer
+        - paisley print blazer
+        - plaid blazer
+        - polka dot blazer
+        - printed blazer
+        - regular fit blazer
+        - slim fit blazer
+        - solid color blazer
+        - striped blazer
+        - single-breasted blazer
+        - textured blazer
+        - twill blazer
+        - windowpane blazer
+        - velvet blazer
+  formal:
+    female:
+      generic:
+        - blazer
+        - blouse
+        - bustier
+        - camisole
+        - corset
+        - crop top
+        - evening top
+        - halter top
+        - jacket
+        - peplum top
+        - shirt
+        - tunic
+        - turtleneck
+      blouses:
+        - button-up blouse
+        - chiffon blouse
+        - embroidered blouse
+        - floral print blouse
+        - halter neck blouse
+        - lace blouse
+        - lace-up silk blouse
+        - off-shoulder blouse
+        - puff sleeve blouse
+        - ruffled blouse
+        - ruffled satin blouse
+        - satin blouse
+        - sequin blouse
+        - sheer blouse
+        - silk blouse
+        - sleeveless blouse
+        - sleeveless chiffon blouse
+        - tie-neck blouse
+        - tunic blouse
+        - velvet blouse
+        - bow-neck blouse
+      bustier:
+        - beaded bustier
+        - beaded lace bustier
+        - beaded mesh bustier
+        - beaded sequin bustier
+        - beaded tulle bustier
+        - beaded velvet bustier
+        - beaded wrap bustier
+        - bustier crop top
+        - bustier dress
+        - bustier gown
+        - bustier jumpsuit
+        - bustier top
+        - camisole bustier
+        - chiffon bustier
+        - embroidered bustier
+        - embroidered lace bustier
+        - floral print bustier
+        - lace bustier
+        - lace-up bustier
+        - mesh bustier
+        - metallic foil bustier
+        - off-shoulder bustier
+        - puff sleeve bustier
+        - ruffled bustier
+        - satin bustier
+        - sequin bustier
+        - sheer bustier
+        - silk bustier
+        - sleeveless bustier
+        - tulle bustier
+        - velvet bustier
+        - wrap bustier
+      shirts:
+        - button-down shirt
+        - button-up shirt
+        - collared shirt
+        - embroidered shirt
+        - floral print shirt
+        - lace shirt
+        - lace-up shirt
+        - off-shoulder shirt
+        - peplum shirt
+        - puff sleeve shirt
+        - ruffled satin shirt
+        - ruffled shirt
+        - satin shirt
+        - sequin shirt
+        - sheer shirt
+        - silk shirt
+        - sleeveless chiffon shirt
+        - sleeveless shirt
+        - tie-neck shirt
+        - tunic shirt
+        - tuxedo shirt
+        - velvet shirt
+        - wrap shirt
+      camisoles:
+        - beaded camisole
+        - camisole with lace trim
+        - embellished camisole
+        - embellished silk camisole
+        - floral print camisole
+        - lace camisole
+        - satin camisole
+        - satin camisole with lace trim
+        - sequin camisole
+        - silk camisole
+        - velvet camisole
+      blazers:
+        - beaded blazer
+        - beaded lace blazer
+        - beaded mesh blazer
+        - beaded sequin blazer
+        - beaded tulle blazer
+        - beaded velvet blazer
+        - beaded wrap blazer
+        - bolero blazer
+        - cape blazer
+        - capelet blazer
+        - cropped blazer
+        - embellished blazer
+        - embellished lace blazer
+        - embellished mesh blazer
+        - embellished sequin blazer
+        - embellished tulle blazer
+        - embellished velvet blazer
+        - embellished wrap blazer
+        - embroidered blazer
+        - embroidered lace blazer
+        - embroidered mesh blazer
+        - embroidered sequin blazer
+        - embroidered tulle blazer
+        - embroidered velvet blazer
+        - embroidered wrap blazer
+        - floral print blazer
+        - lace blazer
+        - lace blazer with fringe
+        - lace blazer with sequins
+        - lace blazer with tassels
+        - lace blazer with trim
+        - lace blazer with velvet trim
+        - lace bolero blazer
+        - lace cape blazer
+        - lace capelet blazer
+        - lace cropped blazer
+        - lace-up blazer
+        - mesh blazer
+        - mesh blazer with fringe
+        - mesh blazer with sequins
+        - mesh blazer with tassels
+        - mesh blazer with trim
+        - mesh blazer with velvet trim
+        - mesh bolero blazer
+        - mesh cape blazer
+        - mesh capelet blazer
+        - mesh cropped blazer
+        - metallic foil blazer
+        - metallic foil blazer with fringe
+        - metallic foil blazer with sequins
+        - metallic foil blazer with tassels
+        - metallic foil blazer with trim
+        - metallic foil blazer with velvet trim
+        - metallic foil bolero blazer
+        - metallic foil cape blazer
+        - metallic foil capelet blazer
+        - metallic foil cropped blazer
+        - off-shoulder blazer
+        - puff sleeve blazer
+        - ruffled blazer
+        - ruffled satin blazer
+        - satin blazer
+        - sequin blazer
+        - sequin blazer with fringe
+        - sequin blazer with tassels
+        - sequin blazer with trim
+        - sequin blazer with velvet trim
+        - sequin bolero blazer
+        - sequin cape blazer
+        - sequin capelet blazer
+        - sequin cropped blazer
+        - sheer blazer
+        - sheer blazer with fringe
+        - sheer blazer with sequins
+        - sheer blazer with tassels
+        - sheer blazer with trim
+        - sheer blazer with velvet trim
+        - sheer bolero blazer
+        - sheer cape blazer
+        - sheer capelet blazer
+        - sheer cropped blazer
+        - silk blazer
+        - silk blazer with fringe
+        - silk blazer with sequins
+        - silk blazer with tassels
+        - silk blazer with trim
+        - silk blazer with velvet trim
+        - silk bolero blazer
+        - silk cape blazer
+        - silk capelet blazer
+        - silk cropped blazer
+        - sleeveless blazer
+        - sleeveless blazer with fringe
+        - sleeveless blazer with sequins
+        - sleeveless blazer with tassels
+        - sleeveless blazer with trim
+        - sleeveless blazer with velvet trim
+        - sleeveless bolero blazer
+        - sleeveless cape blazer
+        - sleeveless capelet blazer
+        - sleeveless cropped blazer
+        - tailored blazer
+        - tulle blazer
+        - tulle blazer with fringe
+        - tulle blazer with sequins
+        - tulle blazer with tassels
+        - tulle blazer with trim
+        - tulle blazer with velvet trim
+        - tulle bolero blazer
+        - tulle cape blazer
+        - tulle capelet blazer
+        - tulle cropped blazer
+        - tuxedo blazer
+        - velvet blazer
+        - velvet blazer with fringe
+        - velvet blazer with sequins
+        - velvet blazer with tassels
+        - velvet blazer with trim
+        - velvet blazer with velvet trim
+        - velvet bolero blazer
+        - velvet cape blazer
+        - velvet capelet blazer
+        - velvet cropped blazer
+        - wrap blazer
+        - wrap blazer with fringe
+        - wrap blazer with sequins
+        - wrap blazer with tassels
+        - wrap blazer with trim
+        - wrap blazer with velvet trim
+      corsets:
+        - beaded corset
+        - beaded lace corset
+        - beaded mesh corset
+        - beaded sequin corset
+        - beaded tulle corset
+        - beaded velvet corset
+        - beaded wrap corset
+        - bustier corset
+        - camisole corset
+        - chiffon corset
+        - embroidered corset
+        - embroidered lace corset
+        - embroidered mesh corset
+        - embroidered sequin corset
+        - embroidered tulle corset
+        - embroidered velvet corset
+        - embroidered wrap corset
+        - floral print corset
+        - halter neck corset
+        - lace corset
+        - lace-up corset
+        - mesh corset
+        - metallic foil corset
+        - off-shoulder corset
+        - puff sleeve corset
+        - ruffled corset
+        - satin corset
+        - sequin corset
+        - sheer corset
+        - silk corset
+        - sleeveless corset
+        - tulle corset
+        - velvet corset
+        - wrap corset
+      croptops:
+        - beaded crop top
+        - beaded fringe crop top
+        - beaded lace crop top
+        - beaded mesh crop top
+        - beaded sequin crop top
+        - beaded tulle crop top
+        - beaded velvet crop top
+        - beaded wrap crop top
+        - bustier crop top
+        - camisole crop top
+        - chiffon crop top
+        - embroidered crop top
+        - embroidered lace crop top
+        - floral print crop top
+        - halter neck crop top
+        - lace crop top
+        - lace-up crop top
+        - mesh crop top
+        - metallic foil crop top
+        - off-shoulder crop top
+        - puff sleeve crop top
+        - ruffled crop top
+        - satin crop top
+        - sequin crop top
+        - sheer crop top
+        - silk crop top
+        - sleeveless crop top
+        - tulle crop top
+        - velvet crop top
+        - wrap crop top
+      eveningtops:
+        - beaded evening top
+        - beaded lace evening top
+        - beaded mesh evening top
+        - beaded sequin evening top
+        - beaded top
+        - beaded tulle evening top
+        - beaded velvet evening top
+        - beaded wrap evening top
+        - bustier evening top
+        - camisole evening top
+        - chiffon evening top
+        - embroidered evening top
+        - embroidered lace evening top
+        - embroidered top
+        - floral print evening top
+        - halter neck evening top
+        - halterneck top
+        - lace evening top
+        - lace-up evening top
+        - mesh evening top
+        - metallic foil evening top
+        - off-shoulder evening top
+        - off-shoulder top
+        - puff sleeve evening top
+        - ruffled evening top
+        - satin evening top
+        - sequin evening top
+        - sequin top
+        - sheer evening top
+        - silk evening top
+        - sleeveless evening top
+        - tulle evening top
+        - velvet evening top
+        - wrap evening top
+      haltertops:
+        - beaded halter top
+        - beaded lace halter top
+        - beaded mesh halter top
+        - beaded sequin halter top
+        - beaded tulle halter top
+        - beaded velvet halter top
+        - beaded wrap halter top
+        - bustier halter top
+        - camisole halter top
+        - chiffon halter top
+        - embroidered halter top
+        - embroidered lace halter top
+        - floral print halter top
+        - halter neck halter top
+        - lace halter top
+        - lace-up halter top
+        - mesh halter top
+        - metallic foil halter top
+        - off-shoulder halter top
+        - puff sleeve halter top
+        - ruffled halter top
+        - satin halter top
+        - sequin halter top
+        - sheer halter top
+        - silk halter top
+        - sleeveless halter top
+        - tulle halter top
+        - velvet halter top
+        - wrap halter top
+      jackets:
+        - beaded jacket
+        - beaded lace jacket
+        - beaded mesh jacket
+        - beaded sequin jacket
+        - beaded tulle jacket
+        - beaded velvet jacket
+        - beaded wrap jacket
+        - bolero jacket
+        - cape jacket
+        - capelet jacket
+        - cropped jacket
+        - embellished jacket
+        - embellished lace jacket
+        - embellished mesh jacket
+        - embellished sequin jacket
+        - embellished tulle jacket
+        - embellished velvet jacket
+        - embellished wrap jacket
+        - embroidered jacket
+        - embroidered lace jacket
+        - embroidered mesh jacket
+        - embroidered sequin jacket
+        - embroidered tulle jacket
+        - embroidered velvet jacket
+        - embroidered wrap jacket
+        - floral print jacket
+        - lace jacket
+        - lace bolero jacket
+        - lace cape jacket
+        - lace capelet jacket
+        - lace cropped jacket
+        - lace jacket with fringe
+        - lace jacket with sequins
+        - lace jacket with tassels
+        - lace jacket with trim
+        - lace jacket with velvet trim
+        - lace-up jacket
+        - mesh jacket
+        - mesh bolero jacket
+        - mesh cape jacket
+        - mesh capelet jacket
+        - mesh cropped jacket
+        - mesh jacket with fringe
+        - mesh jacket with sequins
+        - mesh jacket with tassels
+        - mesh jacket with trim
+        - mesh jacket with velvet trim
+        - metallic foil jacket
+        - metallic foil bolero jacket
+        - metallic foil cape jacket
+        - metallic foil capelet jacket
+        - metallic foil cropped jacket
+        - metallic foil jacket with fringe
+        - metallic foil jacket with sequins
+        - metallic foil jacket with tassels
+        - metallic foil jacket with trim
+        - metallic foil jacket with velvet trim
+        - off-shoulder jacket
+        - puff sleeve jacket
+        - ruffled jacket
+        - ruffled satin jacket
+        - satin jacket
+        - sequin jacket
+        - sequin bolero jacket
+        - sequin cape jacket
+        - sequin capelet jacket
+        - sequin cropped jacket
+        - sequin jacket with fringe
+        - sequin jacket with tassels
+        - sequin jacket with trim
+        - sequin jacket with velvet trim
+        - sheer jacket
+        - sheer bolero jacket
+        - sheer cape jacket
+        - sheer capelet jacket
+        - sheer cropped jacket
+        - sheer jacket with fringe
+        - sheer jacket with sequins
+        - sheer jacket with tassels
+        - sheer jacket with trim
+        - sheer jacket with velvet trim
+        - silk jacket
+        - silk bolero jacket
+        - silk cape jacket
+        - silk capelet jacket
+        - silk cropped jacket
+        - silk jacket with fringe
+        - silk jacket with sequins
+        - silk jacket with tassels
+        - silk jacket with trim
+        - silk jacket with velvet trim
+        - sleeveless jacket
+        - sleeveless bolero jacket
+        - sleeveless cape jacket
+        - sleeveless capelet jacket
+        - sleeveless cropped jacket
+        - sleeveless jacket with fringe
+        - sleeveless jacket with sequins
+        - sleeveless jacket with tassels
+        - sleeveless jacket with trim
+        - sleeveless jacket with velvet trim
+        - tulle jacket
+        - tulle bolero jacket
+        - tulle cape jacket
+        - tulle capelet jacket
+        - tulle cropped jacket
+        - tulle jacket with fringe
+        - tulle jacket with sequins
+        - tulle jacket with tassels
+        - tulle jacket with trim
+        - tulle jacket with velvet trim
+        - velvet jacket
+        - velvet bolero jacket
+        - velvet cape jacket
+        - velvet capelet jacket
+        - velvet cropped jacket
+        - velvet jacket with fringe
+        - velvet jacket with sequins
+        - velvet jacket with tassels
+        - velvet jacket with trim
+        - velvet jacket with velvet trim
+        - wrap jacket
+        - wrap jacket with fringe
+        - wrap jacket with sequins
+        - wrap jacket with tassels
+        - wrap jacket with trim
+        - wrap jacket with velvet trim
+        - tuxedo jacket
+      peplumtops:
+        - beaded lace peplum top
+        - beaded mesh peplum top
+        - beaded peplum top
+        - beaded sequin peplum top
+        - beaded tulle peplum top
+        - beaded velvet peplum top
+        - beaded wrap peplum top
+        - bustier peplum top
+        - camisole peplum top
+        - chiffon peplum top
+        - embroidered lace peplum top
+        - embroidered peplum top
+        - floral print peplum top
+        - halter neck peplum top
+        - lace peplum top
+        - lace-up peplum top
+        - mesh peplum top
+        - metallic foil peplum top
+        - off-shoulder peplum blouse
+        - off-shoulder peplum top
+        - peplum blouse
+        - peplum lace top
+        - printed peplum top
+        - ruffle sleeve peplum top
+        - satin peplum top
+      tunics:
+        - beaded tunic
+        - beaded lace tunic
+        - beaded mesh tunic
+        - beaded sequin tunic
+        - beaded tulle tunic
+        - beaded velvet tunic
+        - beaded wrap tunic
+        - bustier tunic
+        - camisole tunic
+        - chiffon tunic
+        - embroidered lace tunic
+        - embroidered tunic
+        - floral print tunic
+        - halter neck tunic
+        - lace tunic
+        - lace-up tunic
+        - mesh tunic
+        - metallic foil tunic
+        - off-shoulder tunic
+        - puff sleeve tunic
+        - ruffled tunic
+        - satin tunic
+        - sequin tunic
+        - sheer tunic
+        - silk tunic
+        - sleeveless tunic
+        - tulle tunic
+        - velvet tunic
+        - wrap tunic
+      turtlenecks:
+        - black turtleneck
+        - cashmere turtleneck
+        - merino wool turtleneck
+        - formal cowl neck turtleneck
+        - formal cropped turtleneck
+        - formal knit turtleneck
+        - formal mock neck turtleneck
+        - formal ribbed turtleneck
+        - formal sleeveless turtleneck
+        - formal turtleneck sweater
+        - formal turtleneck top
+        - formal turtleneck tunic
+    male:
+      generic:
+        - blazer
+        - dinner jacket
+        - button-down dress shirt
+        - dress shirt
+        - formal jacket
+        - formal sweater
+        - formal turtleneck
+        - tuxedo jacket
+        - tailcoat
+        - waistcoat
+      blazers: # blazers
+        - blazer
+        - checked pattern formal blazer
+        - classic fit formal blazer
+        - contrast collar formal blazer
+        - contrast cuff formal blazer
+        - double-breasted formal blazer
+        - herringbone formal blazer
+        - linen formal blazer
+        - micro check formal blazer
+        - micro dot formal blazer
+        - micro houndstooth formal blazer
+        - micro stripe formal blazer
+        - paisley print formal blazer
+        - plaid formal blazer
+        - polka dot formal blazer
+        - printed formal blazer
+        - regular fit formal blazer
+        - single-breasted formal blazer
+        - slim fit formal blazer
+        - solid color formal blazer
+        - striped formal blazer
+        - textured formal blazer
+        - twill formal blazer
+        - velvet formal blazer
+        - windowpane formal blazer
+      shirts: # dress shirts
+        - band collar dress shirt
+        - barrel cuff dress shirt
+        - button cuff dress shirt
+        - button-down collar dress shirt
+        - button-down dress shirt
+        - button-up dress shirt
+        - checked pattern dress shirt
+        - classic fit dress shirt
+        - contrast collar dress shirt
+        - contrast cuff dress shirt
+        - convertible cuff dress shirt
+        - double cuff dress shirt
+        - french cuff dress shirt
+        - gingham dress shirt
+        - herringbone dress shirt
+        - linen dress shirt
+        - mandarin collar dress shirt
+        - micro check dress shirt
+        - micro dot dress shirt
+        - micro houndstooth dress shirt
+        - micro stripe dress shirt
+        - paisley print dress shirt
+        - plaid dress shirt
+        - point collar dress shirt
+        - polka dot dress shirt
+        - printed dress shirt
+        - regular fit dress shirt
+        - slim fit dress shirt
+        - solid color dress shirt
+        - spread collar dress shirt
+        - striped dress shirt
+        - tattersall dress shirt
+        - textured dress shirt
+        - twill dress shirt
+        - windowpane dress shirt
+        - wingtip collar dress shirt
+      jackets: # dinner jackets and formal jackets
+        - checked pattern formal jacket
+        - classic fit formal jacket
+        - contrast collar formal jacket
+        - contrast cuff formal jacket
+        - dinner jacket
+        - double-breasted formal jacket
+        - herringbone formal jacket
+        - linen formal jacket
+        - micro check formal jacket
+        - micro dot formal jacket
+        - micro houndstooth formal jacket
+        - micro stripe formal jacket
+        - paisley print formal jacket
+        - plaid formal jacket
+        - polka dot formal jacket
+        - printed formal jacket
+        - regular fit formal jacket
+        - single-breasted formal jacket
+        - slim fit formal jacket
+        - solid color formal jacket
+        - striped formal jacket
+        - tailcoat
+        - textured formal jacket
+        - tuxedo jacket
+        - twill formal jacket
+        - velvet formal jacket
+        - windowpane formal jacket
+      waistcoats:
+        - checked pattern formal waistcoat
+        - classic fit formal waistcoat
+        - contrast collar formal waistcoat
+        - contrast cuff formal waistcoat
+        - double-breasted dress waistcoat
+        - double-breasted formal waistcoat
+        - herringbone formal waistcoat
+        - linen formal waistcoat
+        - micro check formal waistcoat
+        - micro dot formal waistcoat
+        - micro houndstooth formal waistcoat
+        - micro stripe formal waistcoat
+        - paisley print formal waistcoat
+        - pinstripe dress waistcoat
+        - plaid formal waistcoat
+        - polka dot formal waistcoat
+        - printed formal waistcoat
+        - regular fit formal waistcoat
+        - shawl collar dress waistcoat
+        - silk dress waistcoat
+        - single-breasted dress waistcoat
+        - single-breasted formal waistcoat
+        - slim fit formal waistcoat
+        - solid color formal waistcoat
+        - striped formal waistcoat
+        - textured formal waistcoat
+        - tuxedo waistcoat
+        - twill formal waistcoat
+        - velvet formal waistcoat
+        - waistcoat
+        - windowpane formal waistcoat
+      sweaters: # formal sweaters and turtle necks
+        - cashmere argyle sweater
+        - merino wool argyle sweater
+        - ascot sweater
+        - cable knit sweater
+        - cashmere sweater
+        - merino wool sweater
+        - cashmere v-neck sweater
+        - merino wool v-neck sweater
+        - wing collar sweater
+        - silk turtleneck sweater
+        - wool turtleneck sweater
+
+  active:
+    female:
+      sportsbras:
+        - compression sports bra
+        - crop top sports bra
+        - high-impact sports bra
+        - padded sports bra
+        - racerback sports bra
+        - seamless sports bra
+        - strappy sports bra
+        - underwire sports bra
+        - yoga sports bra
+      tanktops:
+        - compression tank top
+        - flowy tank top
+        - graphic print tank top
+        - mesh panel tank top
+        - racerback tank top
+        - ribbed tank top
+        - seamless tank top
+        - strappy tank top
+        - swing tank top
+        - yoga tank top
+      tshirts:
+        - compression t-shirt
+        - graphic print t-shirt
+        - long sleeve workout tee
+        - loose fit t-shirt
+        - mesh panel t-shirt
+        - moisture-wicking t-shirt
+        - muscle t-shirt
+        - performance t-shirt
+        - seamless t-shirt
+        - short sleeve performance tee
+        - short sleeve workout tee
+        - strappy t-shirt
+        - v-neck athletic tee
+        - v-neck t-shirt
+      hoodies:
+        - fleece-lined hoodie
+        - hooded sweatshirt
+        - lightweight performance hoodie
+        - pullover hoodie
+        - zip-up hoodie
+      longsleeves:
+        - base layer top
+        - mock neck pullover
+        - quarter-zip athletic top
+        - thermal long sleeve top
+        - thumbhole long sleeve top
+        - turtleneck athletic top
+        - v-neck athletic top
+        - v-neck long sleeve top
+      jackets:
+        - anorak jacket
+        - bomber jacket
+        - fleece jacket
+        - hooded jacket
+        - lightweight performance jacket
+        - puffer jacket
+        - rain jacket
+        - running jacket
+        - track jacket
+        - windbreaker
+        - zip-up jacket
+      sweatshirts:
+        - crewneck sweatshirt
+        - fleece sweatshirt
+        - graphic print sweatshirt
+        - hooded sweatshirt
+        - pullover sweatshirt
+        - quarter-zip sweatshirt
+        - zip-up sweatshirt
+    male:
+      t-shirts:
+        - compression t-shirt
+        - crewneck t-shirt
+        - graphic print t-shirt
+        - long sleeve t-shirt
+        - long sleeve workout tee
+        - moisture-wicking t-shirt
+        - muscle t-shirt
+        - performance t-shirt
+        - seamless t-shirt
+        - short sleeve performance tee
+        - short sleeve workout tee
+        - strappy t-shirt
+        - v-neck athletic tee
+        - v-neck t-shirt
+        - sleeveless performance tee
+      tanktops:
+        - compression tank top
+        - graphic print tank top
+        - mesh panel tank top
+        - muscle tank top
+        - racerback tank top
+        - ribbed tank top
+        - seamless tank top
+        - strappy tank top
+        - swing tank top
+        - v-neck athletic tank top
+        - yoga tank top
+      sweatshirts:
+        - crewneck sweatshirt
+        - fleece sweatshirt
+        - graphic print sweatshirt
+        - hooded sweatshirt
+        - pullover sweatshirt
+        - quarter-zip sweatshirt
+        - zip-up sweatshirt
+      jackets:
+        - anorak jacket
+        - bomber jacket
+        - fleece jacket
+        - hooded jacket
+        - lightweight performance jacket
+        - puffer jacket
+        - rain jacket
+        - running jacket
+        - track jacket
+        - windbreaker
+        - zip-up jacket
+      hoodies:
+        - fleece-lined hoodie
+        - hooded sweatshirt
+        - lightweight performance hoodie
+        - pullover hoodie
+        - zip-up hoodie
+      long sleeve tops:
+        - base layer top
+        - mock neck pullover
+        - quarter-zip athletic top
+        - raglan sleeve top
+        - thermal long sleeve top
+        - thumbhole long sleeve top
+        - turtleneck athletic top
+        - v-neck long sleeve top
+      poloshirts:
+        - classic fit polo
+        - classic polo shirt
+        - contrast collar polo shirt
+        - embroidered logo polo shirt
+        - golf polo
+        - performance polo
+        - pique polo shirt
+        - short sleeve polo
+        - striped polo shirt
+  sleepwear:
+    female:
+      nightshirts:
+        - button-down nightshirt
+        - chemise
+        - cotton nightshirt
+        - flannel nightshirt
+        - jersey knit nightshirt
+        - lace-trimmed nightshirt
+        - long sleeve nightshirt
+        - oversized nightshirt
+        - plaid nightshirt
+        - satin nightshirt
+        - short sleeve nightshirt
+        - sleep shirt with lace trim
+        - v-neck nightshirt
+      camisoles:
+        - camisole with lace trim
+        - cotton camisole
+        - floral print camisole
+        - lace camisole
+        - lace-trimmed camisole
+        - racerback camisole
+        - satin camisole
+        - satin camisole with lace trim
+        - silk camisole
+        - silk camisole with adjustable straps
+      loungewear:
+        - cotton lounge t-shirt
+        - cotton v-neck lounge t-shirt
+        - cozy pullover top
+        - fleece pullover top
+        - fleece-lined hoodie
+        - hooded sweatshirt
+        - jersey knit top
+        - long sleeve lounge t-shirt
+        - long sleeve pullover top
+        - long sleeve v-neck lounge t-shirt
+        - lounge t-shirt
+        - oversized hoodie
+        - oversized lounge t-shirt
+    male:
+      nightshirts:
+        - button-down nightshirt
+        - cotton nightshirt
+        - flannel nightshirt
+        - jersey knit nightshirt
+        - long sleeve nightshirt
+        - oversized nightshirt
+        - plaid nightshirt
+        - satin nightshirt
+        - short sleeve nightshirt
+        - striped nightshirt
+        - v-neck nightshirt
+      loungewear:
+        - cotton lounge t-shirt
+        - cotton v-neck lounge t-shirt
+        - cozy pullover top
+        - fleece pullover top
+        - fleece-lined hoodie
+        - henley shirt
+        - hooded sweatshirt
+        - jersey knit top
+        - long sleeve lounge t-shirt
+        - long sleeve pullover top
+        - long sleeve v-neck lounge t-shirt
+        - lounge t-shirt
+        - oversized hoodie
+        - oversized lounge t-shirt
+        - thermal top
+  occupational:
+    academic:
+      - academic gown
+    farming:
+      - button down shirt
+      - button-up shirt
+      - coveralls
+      - overalls
+      - polo shirt
+      - work shirt
+    firefighting:
+      - firefighter jacket
+    food_service:
+      - chef jacket
+      - chef coat
+      - chef shirt
+      - chef apron
+    law_enforcement:
+      - police jacket
+      - police shirt
+      - police vest
+    medical:
+      - lab coat
+      - scrubs
+      - scrubs top
+      - scrubs jacket
+    military:
+      - military jacket
+      - military shirt
+      - military vest
+    performer:
+      - dance top
+      - dance jacket
+      - dance shirt
+      - dance vest
+    religious:
+      - cassock
+      - chasuble
+      - dalmatic
+      - surplice
+      - tippet
+      - vestment
+    transportation:
+      - jacket
+      - work shirt
+      - button-up shirt
+      - polo shirt
+      - button down shirt
+underwear:
+  female:
+    summer:
+      bikini:
+        - bikini bottom
+        - bikini briefs
+        - bikini panties
+        - bikini underwear
+        - bikini thong
+        - bikini v-string
+        - string bikini
+      briefs:
+        - bloomers
+        - boyshorts
+        - slip shorts
+        - briefs
+        - cheeky briefs
+        - control briefs
+        - cotton briefs
+        - full briefs
+        - full coverage briefs
+        - high cut briefs
+        - high waisted briefs
+        - hipster briefs
+        - lace boyshorts
+        - low rise briefs
+        - mesh briefs
+        - mid rise briefs
+        - modal briefs
+        - no show briefs
+        - seamless briefs
+        - sheer briefs
+        - seamless bikini briefs
+        - waist cincher briefs
+      panties:
+        - cheeky panties
+        - control panties
+        - cotton panties
+        - full coverage panties
+        - high cut panties
+        - high waisted panties
+        - hipster panties
+        - lace briefs
+        - lace panties
+        - low rise panties
+        - mesh panties
+        - mesh panties
+        - mid rise panties
+        - modal panties
+        - hipster panties
+        - no show panties
+        - panty
+        - seamless panties
+        - sheer panties
+        - waist cincher panties
+      thongs:
+        - cotton thong
+        - g-string
+        - lace thong
+        - mesh thong
+        - modal thong
+        - seamless thong
+        - sheer thong
+        - string thong
+        - tanga
+        - thong
+        - v-string
+        - waist cincher v-string
+        - waist cincher thong
+      generic:
+        - cotton underwear
+        - full coverage underwear
+        - high cut underwear
+        - high waisted underwear
+        - hipster underwear
+        - lace underwear
+        - low rise underwear
+        - mesh underwear
+        - waist cincher underwear
+        - mid rise underwear
+        - modal underwear
+        - no show underwear
+        - seamless underwear
+        - sheer underwear
+        - trunks
+        - waist cincher underwear
+    winter:
+      - high waisted underwear
+      - high waisted briefs
+      - thermal underwear
+      - full cover panties
+      - long underwear
+  male:
+    summer:
+      bikini:
+        - bikini briefs
+        - bikini underwear
+        - bikini thong
+        - bikini v-string
+        - string bikini
+        - low-rise bikini briefs
+        - mesh bikini briefs
+      briefs:
+        - athletic briefs
+        - bamboo bikini briefs
+        - bamboo briefs
+        - bikini briefs
+        - boxer briefs
+        - cheeky briefs
+        - contour pouch briefs
+        - control briefs
+        - briefs
+        - fly-front briefs
+        - high-cut briefs
+        - high-rise briefs
+        - low rise briefs
+        - enhancing bikini briefs
+        - mesh briefs
+        - low-rise briefs
+        - mesh boxer briefs
+        - modal briefs
+        - mid rise briefs
+        - organic cotton briefs
+        - patterned briefs
+        - pouch bikini briefs
+        - pouch briefs
+        - ribbed briefs
+        - seamless bikini briefs
+        - seamless boxer briefs
+        - seamless briefs
+        - sheer briefs
+      boxers:
+        - boxer briefs
+        - boxer shorts
+        - boxers
+        - cotton boxers
+        - fly-front boxers
+        - high-rise boxers
+        - low-rise boxers
+        - mesh boxers
+        - mid-rise boxers
+        - modal boxers
+        - no fly boxers
+        - seamless boxers
+        - silk boxers
+        - slim fit boxers
+        - stretch boxers
+        - trunks
+      shorts:
+        - boxer shorts
+        - compression shorts
+        - mesh boxer shorts
+        - mesh g-strings
+        - mesh trunks
+        - padded underwear
+        - seamless boxer shorts
+        - seamless jockstrap
+        - seamless trunks
+        - seamless underwear
+        - trunks
+      thongs:
+        - tanga
+        - athletic thong
+        - bamboo bikini thong
+        - bamboo thong
+        - bikini thong
+        - contour pouch thong
+        - cotton thong
+        - enhancing thong
+        - fly-front thong
+        - high-cut thong
+        - high-rise thong
+        - low-rise thong
+        - mesh g-string
+        - mesh thong
+        - novelty thong
+        - seamless thong
+        - thong
+      sports:
+        generic:
+          - athletic briefs
+          - athletic jockstraps
+          - athletic trunks
+          - athletic underwear
+          - compression shorts
+          - jockstrap
+          - jockstrap with cup
+          - jockstrap with pouch
+          - jockstrap with waistband
+        mesh:
+          - mesh athletic briefs
+          - mesh athletic jockstraps
+          - mesh athletic trunks
+          - mesh athletic underwear
+          - mesh jockstraps
+          - mesh trunks
+          - mesh underwear
+          - mesh jockstrap
+          - mesh jockstrap with cup
+          - mesh jockstrap with pouch
+          - mesh jockstrap with waistband
+          - padded mesh jockstrap
+          - padded mesh jockstrap with cup
+          - padded mesh jockstrap with pouch
+          - padded mesh jockstrap with waistband
+          - padded mesh thong
+          - padded mesh thong with cup
+          - padded mesh thong with pouch
+          - padded mesh thong with waistband
+          - padded mesh trunks
+          - padded mesh trunks with cup
+          - padded mesh trunks with pouch
+          - padded mesh trunks with waistband
+          - padded mesh underwear
+          - padded mesh underwear with cup
+          - padded mesh underwear with pouch
+          - padded mesh underwear with waistband
+        padded:
+          - padded athletic briefs
+          - padded athletic jockstraps
+          - padded athletic trunks
+          - padded athletic underwear
+          - padded jockstrap
+          - padded jockstrap with cup
+          - padded jockstrap with pouch
+          - padded jockstrap with waistband
+          - padded thong
+          - padded thong with cup
+          - padded thong with pouch
+          - padded thong with waistband
+          - padded trunks
+          - padded trunks with cup
+          - padded trunks with pouch
+          - padded trunks with waistband
+          - padded underwear
+          - padded underwear with cup
+          - padded underwear with pouch
+          - padded underwear with waistband
+    winter:
+      - flannel boxers
+      - flannel sleep shorts
+      - long boxers
+      - long johns
+      - long underwear
+      - thermal underwear
+      - thermal long johns
+      - thermal long underwear
+      - thermal pants
+      - thermal trunks
+      - thermal underwear
+      - wool briefs
+      - wool long johns
+      - wool long underwear
+      - wool thermal underwear
+      - wool trunks
+      - wool underwear
+
+regional: # for future development
+  african:
+    central: # congo, angola, cameroon, etc
+    eastern: # ethiopia, kenya, tanzania, uganda, etc
+    northern: # egypt, libya, tunisia, algeria, morocco, etc
+    southern: # south africa, namibia, botswana, zimbabwe, etc
+    western: # nigeria, ghana, ivory coast, senegal, etc
+  asian:
+    eastern: # china, japan, korea, taiwan, etc
+    southeast: # vietnam, thailand, cambodia, laos, etc
+    southern: # india, pakistan, bangladesh, sri lanka, etc
+  caribbean: # cuba, jamaica, haiti, dominican republic, etc
+  central_american: # guatemala, honduras, el salvador, etc
+  european:
+    eastern: # russia, ukraine, belarus, etc
+    northern: # sweden, norway, finland, denmark, etc
+    southern: # spain, italy, greece, portugal, etc
+    western: # france, germany, uk, ireland, etc
+  middle_eastern: # turkey, iran, iraq, saudi arabia, etc
+  north_american: # usa, canada, mexico
+  oceanic: # australia, new zealand
+  south_american:
+    andean: # peru, bolivia, ecuador
+    amazonian: # brazil, colombia, venezuela
+    southern: # argentina, chile, uruguay, paraguay

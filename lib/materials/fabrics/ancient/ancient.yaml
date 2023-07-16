@@ -1,0 +1,849 @@
+all:
+  - abaca cloth # phillipines
+  - alpaca wool # andean
+  - animal hide # worldwide
+  - barkcloth # worldwide
+  - batik # indonesia
+  - brocade silk # china, india, persia, byzantium
+  - camel hair # egypt, persia, greco-roman
+  - chiffon # india, china, egypt, greco-roman
+  - coconut fiber # india, sri lanka, indonesia, philippines
+  - cotton # india, china, egypt
+  - silk crepe # china
+  - crimson silk # china
+  - draped linen # greco-roman, egypt, mesopotamia
+  - feathered fabric # polynesia, mesoamerica
+  - fur # worldwide in cold climates
+  - gauze # china, india, egypt, greco-roman
+  - goat hair fabric # greco-roman, egypt, mesopotamia
+  - gossamer # greco-roman, egypt, mesopotamia
+  - jade-thread silk # china
+  - kapa cloth # hawaii
+  - lambswool # greco-roman, egypt, mesopotamia
+  - lauhala # hawaii
+  - linen # greco-roman, egypt, mesopotamia
+  - llama wool # andean
+  - maguey fiber # mesoamerica
+  - muslin # india
+  - organza # china
+  - pandanus cloth # polynesia
+  - pashmina # india
+  - pineapple fiber # philippines, central america
+  - puma skin # andean, mesoamerica
+  - raffia # africa
+  - ramie cloth # china
+  - raw silk # china, india, persia, byzantium
+  - satin # china, india, persia, byzantium
+  - shantung silk # china
+  - sheer linen # greco-roman, egypt, mesopotamia
+  - silk # china, india, persia, byzantium
+  - songket # indonesia
+  - tapa cloth # polynesia
+  - twill # china, india, persia, byzantium
+  - velvet # china, india, persia, byzantium
+  - vicuña wool # andean
+  - wool # worldwide in cold climates
+  - woven fiber # worldwide
+  - woven pandanus # polynesia
+austronesia: # polynesia, micronesia, melanesia, hawaii, philippines
+  all:
+    - abaca cloth
+    - animal hide
+    - bark cloth
+    - barkcloth
+    - coconut fiber
+    - feathered fabric
+    - kapa cloth
+    - lauhala
+    - pandanus cloth
+    - pineapple fiber
+    - tapa cloth
+  military:
+    - abaca cloth
+    - feathered fabric
+    - animal hide
+    - barkcloth
+    - kapa cloth
+    - lauhala
+    - pandanus cloth
+    - tapa cloth
+  noble:
+    - abaca cloth
+    - feathered fabric
+    - pineapple fiber
+    - animal hide
+    - barkcloth
+    - kapa cloth
+    - lauhala
+    - pandanus cloth
+    - tapa cloth
+  commoner:
+    - coconut fiber
+    - animal hide
+    - barkcloth
+    - kapa cloth
+    - lauhala
+    - pandanus cloth
+    - tapa cloth
+  royal:
+    - abaca cloth
+    - feathered fabric
+    - pineapple fiber
+    - animal hide
+    - barkcloth
+    - kapa cloth
+    - lauhala
+    - pandanus cloth
+    - tapa cloth
+  spiritual:
+    - abaca cloth
+    - feathered fabric
+    - animal hide
+    - barkcloth
+    - kapa cloth
+    - lauhala
+    - pandanus cloth
+    - tapa cloth
+eastasia: # china, japan, korea
+  all:
+    - animal hide
+    - barkcloth
+    - brocade silk
+    - chiffon
+    - cotton
+    - crimson silk
+    - gauze
+    - jade-thread silk
+    - lambswool
+    - linen
+    - organza
+    - ramie cloth
+    - raw silk
+    - satin
+    - shantung silk
+    - silk
+    - silk crepe
+    - twill silk
+    - twill
+    - velvet
+  military:
+    - animal hide
+    - barkcloth
+    - cotton
+    - lambswool
+    - twill
+  noble:
+    - brocade silk
+    - chiffon
+    - silk crepe
+    - crimson silk
+    - gauze
+    - jade-thread silk
+    - linen
+    - organza
+    - ramie cloth
+    - raw silk
+    - satin
+    - shantung silk
+    - silk
+    - twill silk
+    - velvet
+  commoner:
+    - animal hide
+    - barkcloth
+    - cotton
+    - lambswool
+    - twill
+  royal:
+    - brocade silk
+    - chiffon
+    - silk crepe
+    - crimson silk
+    - gauze
+    - jade-thread silk
+    - linen
+    - organza
+    - ramie cloth
+    - raw silk
+    - satin
+    - shantung silk
+    - silk
+    - twill silk
+    - velvet
+  spiritual:
+    - brocade silk
+    - linen
+    - silk
+    - twill
+grecoroman: # greece, rome
+  all:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - chiffon
+    - crimson silk
+    - draped linen
+    - fine twill
+    - gauze
+    - goat hair fabric
+    - gossamer
+    - lambswool
+    - linen
+    - sheer linen
+    - silk
+    - twill
+    - twill wool
+    - wool
+  military:
+    - animal hide
+    - lambswool
+    - linen
+    - twill
+    - twill wool
+    - wool
+  noble:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - chiffon
+    - crimson silk
+    - draped linen
+    - fine twill
+    - gauze
+    - gossamer
+    - lambswool
+    - linen
+    - sheer linen
+    - twill
+    - wool
+  commoner:
+    - goat hair fabric
+    - lambswool
+    - linen
+    - twill
+    - twill wool
+    - wool
+  royal:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - chiffon
+    - crimson silk
+    - draped linen
+    - fine twill
+    - gauze
+    - gossamer
+    - lambswool
+    - linen
+    - sheer linen
+    - twill
+    - wool
+  spiritual:
+    - brocade silk
+    - draped linen
+    - gauze
+    - gossamer
+    - lambswool
+    - linen
+    - sheer linen
+    - silk
+    - twill
+    - wool
+mesoamerica: # mayan, aztec
+  all:
+    - animal hide
+    - barkcloth
+    - cotton
+    - feathered fabric
+    - fur
+    - maguey fiber
+    - pineapple fiber
+    - puma skin
+  military:
+    - animal hide
+    - cotton
+    - feathered fabric
+    - fur
+    - maguey fiber
+    - puma skin
+  noble:
+    - animal hide
+    - cotton
+    - feathered fabric
+    - fur
+    - maguey fiber
+    - pineapple fiber
+    - puma skin
+  commoner:
+    - animal hide
+    - cotton
+    - feathered fabric
+    - fur
+    - maguey fiber
+  royal:
+    - animal hide
+    - cotton
+    - feathered fabric
+    - fur
+    - maguey fiber
+    - barkcloth
+    - pineapple fiber
+    - puma skin
+  spiritual:
+    - animal hide
+    - cotton
+    - feathered fabric
+    - fur
+    - maguey fiber
+northamerica: # usa, canada
+  all:
+    - animal hide
+    - barkcloth
+    - cotton
+    - feathered fabric
+    - fur
+  commoner:
+    - animal hide
+    - barkcloth
+    - cotton
+    - fur
+  leaders: # chiefs, shamans, etc
+    - animal hide
+    - barkcloth
+    - cotton
+    - feathered fabric
+    - fur
+noreastafrica: # egypt, libya, tunisia, algeria, morocco
+  all:
+    - animal hide
+    - barkcloth
+    - batik
+    - brocade silk
+    - camel hair
+    - chiffon
+    - cotton
+    - draped linen
+    - gauze
+    - goat hair fabric
+    - gossamer
+    - lambswool
+    - linen
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill linen
+    - twill silk
+    - velvet
+  spiritual:
+    - animal hide
+    - barkcloth
+    - linen
+    - batik
+    - cotton
+    - draped linen
+    - gossamer
+    - lambswool
+    - linen
+    - twill linen
+  commoner:
+    - animal hide
+    - barkcloth
+    - linen
+    - batik
+    - cotton
+    - goat hair fabric
+    - lambswool
+    - linen
+    - twill linen
+  military:
+    - animal hide
+    - barkcloth
+    - linen
+    - batik
+    - cotton
+    - draped linen
+    - lambswool
+    - linen
+    - twill linen
+  noble:
+    - animal hide
+    - barkcloth
+    - linen
+    - batik
+    - brocade silk
+    - camel hair
+    - chiffon
+    - cotton
+    - draped linen
+    - gauze
+    - gossamer
+    - lambswool
+    - linen
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill silk
+    - velvet
+  royal:
+    - animal hide
+    - barkcloth
+    - linen
+    - batik
+    - brocade silk
+    - camel hair
+    - chiffon
+    - cotton
+    - draped linen
+    - gauze
+    - gossamer
+    - linen
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill silk
+    - velvet
+northeurope: # scandinavia, germany, netherlands
+  all:
+    - animal hide
+    - fur
+    - lambswool
+    - linen
+    - wool
+  spiritual:
+    - animal hide
+    - fur
+    - lambswool
+    - linen
+    - wool
+  commoner:
+    - animal hide
+    - fur
+    - lambswool
+    - linen
+    - wool
+  military:
+    - animal hide
+    - fur
+    - lambswool
+    - linen
+    - wool
+  noble:
+    - animal hide
+    - fur
+    - lambswool
+    - linen
+    - wool
+  royal:
+    - animal hide
+    - fur
+    - lambswool
+    - linen
+    - wool
+oceania: # australia, new zealand
+  all:
+    - animal hide
+    - barkcloth
+    - feathered fabric
+    - lauhala
+  spiritual:
+    - animal hide
+    - barkcloth
+    - feathered fabric
+    - lauhala
+  commoner:
+    - animal hide
+    - barkcloth
+    - coconut fiber
+    - lauhala
+  military:
+    - animal hide
+    - barkcloth
+    - feathered fabric
+    - lauhala
+  noble:
+    - animal hide
+    - barkcloth
+    - feathered fabric
+    - lauhala
+  royal:
+    - animal hide
+    - barkcloth
+    - feathered fabric
+    - lauhala
+southafrica: # south africa
+  all:
+    - animal hide
+    - animal skin
+    - barkcloth
+    - fur
+    - raffia
+  spiritual:
+    - animal hide
+    - animal skin
+    - barkcloth
+    - fur
+    - raffia
+  commoner:
+    - animal hide
+    - animal skin
+    - barkcloth
+    - fur
+    - raffia
+  military:
+    - animal hide
+    - animal skin
+    - barkcloth
+    - fur
+    - raffia
+  noble:
+    - animal hide
+    - animal skin
+    - barkcloth
+    - fur
+    - raffia
+  royal:
+    - animal hide
+    - animal skin
+    - barkcloth
+    - fur
+    - raffia
+southasia: # india, pakistan, bangladesh
+  all:
+    - animal hide
+    - barkcloth
+    - chiffon
+    - coconut fiber
+    - cotton
+    - fine muslin
+    - gauze
+    - lambswool
+    - muslin
+    - pashmina wool
+    - raw silk
+    - satin
+    - silk
+    - twill
+    - twill silk
+    - twill wool
+  spiritual:
+    - animal hide
+    - barkcloth
+    - cotton
+    - lambswool
+    - muslin
+    - twill
+  commoner:
+    - animal hide
+    - barkcloth
+    - coconut fiber
+    - cotton
+    - lambswool
+    - muslin
+    - twill
+  military:
+    - animal hide
+    - barkcloth
+    - cotton
+    - lambswool
+    - muslin
+    - twill wool
+  noble:
+    - animal hide
+    - barkcloth
+    - chiffon
+    - cotton
+    - fine muslin
+    - gauze
+    - lambswool
+    - pashmina wool
+    - raw silk
+    - satin
+    - silk
+    - twill silk
+  royal:
+    - animal hide
+    - barkcloth
+    - chiffon
+    - cotton
+    - fine muslin
+    - gauze
+    - pashmina wool
+    - raw silk
+    - satin
+    - silk
+    - twill silk
+southeastasia: # java, sumatra, borneo, malaysia, thailand, cambodia, vietnam, laos, myanmar, philippines
+  all:
+    - abaca cloth
+    - animal hide
+    - barkcloth
+    - batik
+    - cotton
+    - feathered fabric
+    - lauhala
+    - songket
+  spiritual:
+    - abaca cloth
+    - animal hide
+    - barkcloth
+    - batik
+    - cotton
+    - feathered fabric
+    - lauhala
+    - songket
+  commoner:
+    - abaca cloth
+    - animal hide
+    - barkcloth
+    - batik
+    - coconut fiber
+    - cotton
+    - lauhala
+  military:
+    - abaca cloth
+    - animal hide
+    - barkcloth
+    - batik
+    - cotton
+    - feathered fabric
+    - lauhala
+  noble:
+    - abaca cloth
+    - animal hide
+    - barkcloth
+    - batik
+    - cotton
+    - feathered fabric
+    - lauhala
+    - songket
+  royal:
+    - abaca cloth
+    - animal hide
+    - barkcloth
+    - batik
+    - cotton
+    - feathered fabric
+    - lauhala
+    - songket
+southamerica: # inca, andean
+  all:
+    - alpaca wool
+    - animal hide
+    - barkcloth
+    - cotton
+    - feathered fabric
+    - llama wool
+    - puma skin
+    - vicuna wool
+    - wool
+  spiritual:
+    - alpaca wool
+    - animal hide
+    - barkcloth
+    - cotton
+    - feathered fabric
+    - llama wool
+    - wool
+  commoner:
+    - animal hide
+    - barkcloth
+    - cotton
+    - wool
+  military:
+    - animal hide
+    - barkcloth
+    - cotton
+    - feathered fabric
+    - puma skin
+    - wool
+  noble:
+    - alpaca wool
+    - animal hide
+    - cotton
+    - feathered fabric
+    - llama wool
+    - puma skin
+    - vicuna wool
+    - wool
+  royal:
+    - alpaca wool
+    - animal hide
+    - cotton
+    - feathered fabric
+    - llama wool
+    - puma skin
+    - vicuna wool
+    - wool
+westafrica: # nigeria, ghana, senegal
+  all:
+    - adire cloth
+    - akwete cloth
+    - animal hide
+    - aso oke cloth
+    - aso ebi cloth
+    - baoule cloth
+    - barkcloth
+    - bogolanfini cloth
+    - brocade
+    - cotton
+    - guinea brocade
+    - kente cloth
+    - lambswool
+    - wax print fabric
+  spiritual:
+    - adire cloth
+    - akwete cloth
+    - animal hide
+    - aso oke cloth
+    - aso ebi cloth
+    - baoule cloth
+    - barkcloth
+    - bogolanfini cloth
+    - brocade
+    - cotton
+    - guinea brocade
+    - kente cloth
+    - lambswool
+    - wax print fabric
+  commoner:
+    - adire cloth
+    - akwete cloth
+    - animal hide
+    - baoule cloth
+    - barkcloth
+    - bogolanfini cloth
+    - cotton
+    - guinea brocade
+    - kente cloth
+    - lambswool
+    - wax print fabric
+  noble:
+    - adire cloth
+    - akwete cloth
+    - animal hide
+    - baoule cloth
+    - barkcloth
+    - bogolanfini cloth
+    - brocade
+    - cotton
+    - guinea brocade
+    - kente cloth
+    - lambswool
+    - wax print fabric
+westasia: # persian, arab, turkish
+  all:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - chiffon
+    - crimson silk
+    - draped linen
+    - gauze
+    - goat hair fabric
+    - lambswool
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill
+    - velvet
+  spiritual:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - draped linen
+    - lambswool
+    - twill
+  commoner:
+    - animal hide
+    - goat hair fabric
+    - lambswool
+    - twill
+  military:
+    - animal hide
+    - lambswool
+    - twill
+  noble:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - chiffon
+    - crimson silk
+    - draped linen
+    - gauze
+    - lambswool
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill
+    - velvet
+  royal:
+    - animal hide
+    - brocade silk
+    - camel hair
+    - chiffon
+    - crimson silk
+    - draped linen
+    - gauze
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill
+    - velvet
+westeurope: # france, spain, italy
+  all:
+    - animal hide
+    - brocade silk
+    - chiffon
+    - cotton
+    - draped linen
+    - gauze
+    - lambswool
+    - raw silk
+    - satin
+    - sheer linen
+    - silk
+    - twill
+    - velvet
+    - wool
+  spiritual:
+    - animal hide
+    - draped linen
+    - lambswool
+    - linen
+    - twill
+    - wool
+  commoner:
+    - animal hide
+    - lambswool
+    - linen
+    - twill
+    - wool
+  military:
+    - animal hide
+    - draped linen
+    - lambswool
+    - linen
+    - twill
+    - wool
+  noble:
+    - animal hide
+    - draped linen
+    - lambswool
+    - linen
+    - silk
+    - twill
+    - wool
+  royal:
+    - animal hide
+    - draped linen
+    - lambswool
+    - linen
+    - silk
+    - twill
+    - wool

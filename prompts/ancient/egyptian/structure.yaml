@@ -1,0 +1,20 @@
+female:
+  fullbody:
+    clothed: # clothed anarinclude generic clothing type files, all classes
+      artisan:
+        scene:
+    partial:
+    unclad:
+  mediumshot:
+  headshot:
+  threequartershot:
+male:
+  clothed:
+    fullbody:
+      artisan:
+        scene:
+    mediumshot:
+    headshot:
+    threequartershot:
+  partial:
+  unclad:
