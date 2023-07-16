@@ -652,18 +652,18 @@ accessory:
         - latex belt
     formal:
       male:
-      - cummerbund
-      - suspenders
-      - dress belt
+        - cummerbund
+        - suspenders
+        - dress belt
       female:
-      - sash
-      - waist cincher
-      - waist corset
-      - waist sash
-      - waist shaper
-      - waist trainer
-      - waist trimmer
-      - waist wrap
+        - sash
+        - waist cincher
+        - waist corset
+        - waist sash
+        - waist shaper
+        - waist trainer
+        - waist trimmer
+        - waist wrap
     military:
       - duty belt
       - pistol belt
@@ -2039,9 +2039,126 @@ footwear:
         - formal loafers
         - opera pumps
         - patent leather shoes
-        - spectator shoe
+        - spectator shoes
   casual:
     female:
+      base:
+        - ballet flats
+        - clogs
+        - espadrilles
+        - flats
+        - loafers
+        - mary jane flats
+        - mules
+        - sandals
+        - slip-ons
+        - slippers
+        - sneakers
+        - wedges
+      boots:
+        - ankle boots
+        - block heel ankle boots
+        - chelsea ankle boots
+        - chelsea boots
+        - chelsea mid-calf boots
+        - chukka boots
+        - combat boots
+        - combat boots
+        - cowboy ankle boots
+        - cowboy boots
+        - desert boots
+        - duck boots
+        - fringe boots
+        - hiking ankle boots
+        - hiking boots
+        - lace-up boots
+        - lug sole ankle boots
+        - moccasin boots
+        - moto mid-calf boots
+        - motorcycle boots
+        - over the knee boots
+        - over-the-knee boots
+        - peep-toe boots
+        - platform boots
+        - rain boots
+        - riding boots
+        - slouch knee high boots
+        - slouch mid-calf boots
+        - slouchy boots
+        - snow boots
+        - snow boots
+        - sock booties
+        - sock boots
+        - sock sneakers
+        - stacked heel ankle boots
+        - thigh high boots
+        - weatherproof mid-calf boots
+        - wedge boots
+        - wedge boots
+        - western ankle boots
+        - western boots
+        - western knee high boots
+        - western mid-calf boots
+        - winter boots
+        - work boots
+      fabric:
+        - canvas sneakers
+        - Low top canvas sneakers
+        - High top canvas sneakers
+        - Slip on canvas sneakers
+        - Lace up canvas sneakers
+        - Retro canvas sneakers
+        - Minimalist
+        - Skate shoes
+        - Basketball shoes
+        - Tennis shoes
+        - Running shoes
+        - Track shoes
+        - Training shoes
+        - Walking shoes
+        - Plimsolls
+        - Creepers
+        - Mule slippers
+        - Backless slippers
+        - Shearling slippers
+        - Novelty slippers
+      leather:
+        - Ballet flats
+        - D'orsay flats
+        - Smoking flats
+        - Pointed toe flats
+        - Penny loafers
+        - Driver loafers
+        - Espadrille flats
+        - Oxfords
+        - Derbies
+        - Boat shoes
+        - Penny loafers
+        - Tassel loafers
+        - Kiltie loafers
+        - Driver loafers
+        - Chelsea booties
+        - Western booties
+        - Chunky heel booties
+        - Harness booties
+        - Harness boots
+        - Moto boots
+        - Western boots
+        - Chelsea boots
+        - Jodhpur boots
+      open:
+        - Sandals
+        - Sport sandals
+        - Fisherman sandals
+        - Hiking sandals
+        - Velcro sandals
+        - Flip flops
+        - Slides
+        - Espadrilles
+        - Docksides
+        - Deck shoes
+        - Wedges
+        - Flats
       summer:
         - sandals
         - gladiator sandals
@@ -2051,57 +2168,192 @@ footwear:
         - slides
         - mules
         - espadrilles
-        - boat shoes
         - sneakers
         - flats
         - ankle booties
-        - moccasins
         - slippers
         - cowboy boots
         - wedge boots/shoes
       winter:
-        - pumps
-        - stilettos
-        - wedges
-        - espadrilles
-        - sandals
-        - flip flops
-        - slides
-        - mules
-        - ballet flats
-        - loafers
-        - oxfords
-        - boat shoes
-        - sneakers
+        - ankle boots
+        - winter boots
+        - snow boots
+        - hiking boots
+        - slouchy boots
+        - Chelsea boots
+        - duck boots
+        - fur-lined boots
+        - shearling boots
+        - moccasin boots
+        - quilted boots
+        - fleece-lined clogs
+        - leather sneakers
+        - wool-lined sneakers
+        - faux fur-lined slip-ons
+        - waterproof loafers
+        - suede moccasins
+        - winter flats
+        - faux fur-lined ballet flats
+        - shearling-lined mules
+        - insulated slip-on shoes
+        - warm-lined espadrilles
     male:
+      base:
+        - boat shoes
+        - clogs
+        - derbies
+        - espadrilles
+        - loafers
+        - moccasins
+        - oxfords
+        - sandals
+        - slippers
+        - sneakers
+      boots:
+        - chelsea boots
+        - chukka boots
+        - combat boots
+        - cowboy boots
+        - desert boots
+        - desert chukka boots
+        - dress ankle boots
+        - duck boots
+        - engineer boots
+        - harness boots
+        - hiking boots
+        - hunting boots
+        - jodhpur boots
+        - lace up boots
+        - leather boots
+        - logger boots
+        - moc toe boots
+        - motorcycle boots
+        - rain boots
+        - roper boots
+        - service boots
+        - shearling boots
+        - snow boots
+        - steel toe boots
+        - suede chelsea boots
+        - suede chukka boots
+        - suede desert boots
+        - winter boots
+        - work boots
+      fabric:
+        - canvas sneakers
+        - Low top canvas sneakers
+        - High top canvas sneakers
+        - Slip on canvas sneakers
+        - Lace up canvas sneakers
+        - Retro canvas sneakers
+        - Minimalist
+        - Skate shoes
+        - Basketball shoes
+        - Tennis shoes
+        - Running shoes
+        - Track shoes
+        - Training shoes
+        - Walking shoes
+        - Plimsolls
+        - Boat shoes
+        - Creepers
+        - Mule slippers
+        - Backless slippers
+        - Shearling slippers
+        - Novelty slippers
+      leather:
+        - apron toe loafer
+        - bit loafer
+        - bit loafers
+        - blucher moccasins
+        - boat moccasins
+        - boat shoes
+        - brogue derby shoes
+        - brogue golf shoes
+        - brogue oxford shoes
+        - camp moccasins
+        - cap toe oxford
+        - cap-toe derby shoes
+        - cap-toe oxford shoes
+        - classic driving moccasins
+        - dance shoes
+        - derby shoes
+        - double monk strap shoes
+        - driving loafer
+        - driving moccasins
+        - espadrille loafer
+        - hiking shoes
+        - horsebit driving shoes
+        - horsebit loafers
+        - jazz shoes
+        - kiltie loafer
+        - kiltie tassel oxford
+        - medallion derby
+        - monk strap shoes
+        - penny driving moccasins
+        - penny loafer
+        - penny loafers
+        - plain derby shoes
+        - plain slip-on shoes
+        - plain toe derby
+        - plain toe oxford
+        - saddle oxford
+        - saddle shoes
+        - single monk strap shoes
+        - spectator shoes
+        - suede bucks
+        - suede loafers
+        - tassel loafer
+        - tassel loafers
+        - venetian loafer
+        - wallabees
+        - wingtip derby
+        - wingtip derby shoes
+        - wingtip oxford
+        - wingtip oxford shoes
+      open:
+        - Sandals
+        - Sport sandals
+        - Fisherman sandals
+        - Hiking sandals
+        - Velcro sandals
+        - Flip flops
+        - Slides
+        - Espadrilles
+        - Docksides
+        - Deck shoes
+        - Pumps
+        - Wedges
+        - Flats
       summer:
-        - pumps
-        - stilettos
         - wedges
         - espadrilles
         - sandals
         - flip flops
         - slides
         - mules
-        - ballet flats
         - loafers
         - oxfords
         - boat shoes
         - sneakers
       winter:
-        - winter boots
-        - hiking boots
-        - cowboy boots
-        - work boots
-        - combat boots
-        - hunting boots
         - chelsea boots
         - chukka boots
-        - slippers
-        - rain boots
-        - snow boots
-        - shearling boots
+        - combat boots
+        - cowboy boots
         - duck boots
+        - hiking boots
+        - hunting boots
+        - lace up boots
+        - leather boots
+        - motorcycle boots
+        - rain boots
+        - shearling boots
+        - slippers
+        - steel toe boots
+        - snow boots
+        - winter boots
+        - work boots
   formal:
     female:
       heels:
@@ -2186,14 +2438,18 @@ footwear:
         - moccasin slippers
         - shearling slippers
         - knit slippers
+        - fleece slippers
+        - lined clog slippers
       socks:
         - fuzzy socks
         - thermal socks
         - slipper socks
         - knee high socks
       booties:
-        - ugg boots
+        - fuzzy booties
         - fleece lined booties
+        - shearling booties
+        - knit booties
     male:
       slippers:
         - leather slippers
