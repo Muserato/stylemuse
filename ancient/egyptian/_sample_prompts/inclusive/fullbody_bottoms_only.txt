@@ -21,16 +21,16 @@ ${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__
 ########################################################
 
 # Top and Bottoms, Footwear, Headwear; NO accessories
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__ __stylemuse/ancient/egyptian/footwear/royal/*__ __stylemuse/ancient/egyptian/head/royal/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__ __stylemuse/ancient/egyptian/footwear/royal/*__ __stylemuse/ancient/egyptian/head/royal/*__
 
 # Top and Bottoms and Footwear; NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__ __stylemuse/ancient/egyptian/footwear/royal/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__ __stylemuse/ancient/egyptian/footwear/royal/*__
 
 # Top and Bottoms and Headwear; NO accessories and Barefoot
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__ __stylemuse/ancient/egyptian/head/royal/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__ __stylemuse/ancient/egyptian/head/royal/*__
 
 # Top and Bottoms; Barefoot, NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/royal/*__
 
 ########################################################
 #####   CLOTHING AND ALL ACCESSORIES - SPIRITUAL   #####
@@ -53,16 +53,16 @@ ${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${ge
 ########################################################
 
 # Top and Bottoms, Footwear, Headwear; NO accessories
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__ __stylemuse/ancient/egyptian/footwear/spiritual/*__ __stylemuse/ancient/egyptian/head/spiritual/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__ __stylemuse/ancient/egyptian/footwear/spiritual/*__ __stylemuse/ancient/egyptian/head/spiritual/*__
 
 # Top and Bottoms and Footwear; NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__ __stylemuse/ancient/egyptian/footwear/spiritual/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__ __stylemuse/ancient/egyptian/footwear/spiritual/*__
 
 # Top and Bottoms and Headwear; NO accessories and Barefoot
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__ __stylemuse/ancient/egyptian/head/spiritual/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__ __stylemuse/ancient/egyptian/head/spiritual/*__
 
 # Top and Bottoms; Barefoot, NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/spiritual/*__
 
 ########################################################
 #####   CLOTHING AND ALL ACCESSORIES - NOBILITY    #####
@@ -85,16 +85,16 @@ ${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__
 ########################################################
 
 # Bottoms, Footwear, Headwear; NO accessories
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__ __stylemuse/ancient/egyptian/footwear/noble/*__ __stylemuse/ancient/egyptian/head/noble/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__ __stylemuse/ancient/egyptian/footwear/noble/*__ __stylemuse/ancient/egyptian/head/noble/*__
 
 # Bottoms and Footwear; NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__ __stylemuse/ancient/egyptian/footwear/noble/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__ __stylemuse/ancient/egyptian/footwear/noble/*__
 
 # Bottoms and Headwear; NO accessories and Barefoot
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__ __stylemuse/ancient/egyptian/head/noble/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__ __stylemuse/ancient/egyptian/head/noble/*__
 
 # Bottoms; Barefoot, NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/noble/*__
 
 ########################################################
 #####   CLOTHING AND ALL ACCESSORIES - MILITARY    #####
@@ -117,16 +117,16 @@ ${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col
 ########################################################
 
 # Bottoms, Footwear, Headwear; NO accessories
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__ __stylemuse/ancient/egyptian/footwear/military/*__ __stylemuse/ancient/egyptian/head/military/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__ __stylemuse/ancient/egyptian/footwear/military/*__ __stylemuse/ancient/egyptian/head/military/*__
 
 # Bottoms and Footwear; NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__ __stylemuse/ancient/egyptian/footwear/military/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__ __stylemuse/ancient/egyptian/footwear/military/*__
 
 # Bottoms and Headwear; NO accessories and Barefoot
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__ __stylemuse/ancient/egyptian/head/military/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__ __stylemuse/ancient/egyptian/head/military/*__
 
 # Bottoms; Barefoot, NO accessories or Headwear
-${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/bottoms/military/*__
 
 ########################################################
 #####   CLOTHING AND ALL ACCESSORIES - COMMONERS   #####

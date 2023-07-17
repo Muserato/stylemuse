@@ -35,10 +35,10 @@ ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${motif=!__stylemuse/_
 ############################################
 
 # Headwear and ALL accessories
-${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/ancient/egyptian/accessory/waist/military__ __stylemuse/ancient/egyptian/head/military/female__ __stylemuse/ancient/egyptian/accessory/back/military__ __stylemuse/ancient/egyptian/accessory/arms/military__ __stylemuse/ancient/egyptian/accessory/hands/military__
+__stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/ancient/egyptian/accessory/waist/military__ __stylemuse/ancient/egyptian/head/military/female__ __stylemuse/ancient/egyptian/accessory/back/military__ __stylemuse/ancient/egyptian/accessory/arms/military__ __stylemuse/ancient/egyptian/accessory/hands/military__
 
 # ALL Accessories; no headwear
-${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/ancient/egyptian/accessory/waist/military__ __stylemuse/ancient/egyptian/accessory/back/military__ __stylemuse/ancient/egyptian/accessory/arms/military__ __stylemuse/ancient/egyptian/accessory/hands/military__
+__stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/ancient/egyptian/accessory/waist/military__ __stylemuse/ancient/egyptian/accessory/back/military__ __stylemuse/ancient/egyptian/accessory/arms/military__ __stylemuse/ancient/egyptian/accessory/hands/military__
 
 ############################################
 #####   ONLY ACCESSORIES - COMMONERS   #####
