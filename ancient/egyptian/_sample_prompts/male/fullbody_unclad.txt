@@ -69,13 +69,13 @@ ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot __stylemuse/anci
 ############################################
 
 # Footwear, Headwear and ALL Accessories
-ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/footwear/commoner/male__ __stylemuse/ancient/egyptian/head/commoner/male__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ __stylemuse/ancient/egyptian/footwear/commoner/male__ __stylemuse/ancient/egyptian/head/commoner/male__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
 
 # Footwear and ALL accessories; no headwear
-ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/footwear/commoner/male__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ __stylemuse/ancient/egyptian/footwear/commoner/male__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
 
 # Headwear and ALL accessories; Barefoot
-barefoot ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/head/commoner/male__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+barefoot ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__  __stylemuse/ancient/egyptian/head/commoner/male__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
 
 # ALL Accessories; Barefoot and no headwear
-barefoot ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+barefoot ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__  __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
