@@ -20,13 +20,14 @@ Premade prompts are available in the prompts folder.  Copy the contents in the W
 
 The premade promtps include folders for males and females.  These will only pull pieces from the respective apparel folder.  The inclusive folder includes both male and female pieces into a single prompts, use them for more unexpected prompts.
 
-## VARIABLES 
-To use all items in a category in your prompt, copy any of the sub-options in the Wildcards, and replace the category with an asteriks as shown in the examples below.  This will add all items in that category to your prompt.  The first example below will add all colors hues to your prompt.  The second example will add all colors to your prompt.
+## Extra-Wild 
+To use all items in multiple subcategories in your prompt, copy any of the options in the Wildcards, and replace the subcategory with an asteriks as shown in the examples below.  This will add all items in that category to your prompt.  The first example below will add all colors hues to your prompt.  The second example will add all colors to your prompt.  The same can be done for apparel.
 
 > \_\_stylemuse/_lib/color/hues/*\_\_  
 
 > \_\_stylemuse/_lib/color/*\_\_  
 
+## Variables
 To create matching outfits, you can use the variables function in Dynamic Prompts, create a prompt with the following format by using the dollar sign and curly brackets.  Setting the variable is done using the equal sign, then setting the variable.  To use the variable in your prompt, use the dollar sign and curly brackets.  
 
 The example below will create a variable called motif and set it to a random egyptian animal motif, what follows is the use of the motif variable.  The result will be a random egyptian animal motif and a random royal chest accessory.  Adding an exclamation point(!) after the variable will ensure that the variable is only set once per prompt, resulting in a matching outfit.
@@ -37,7 +38,13 @@ To randomize the variables, remove the exclamation point from the variable decla
 
 > ${motif=\_\_stylemuse/_lib/motifs/ancient/egyptian/animals\_\_} $ \_\_stylemuse/ancient/egyptian/accessory/chest/royal\_\_ {motif} \_\_stylemuse/ancient/egyptian/head/royal/*\_\_  
 
+## Extra info
+
+### token bleed
 Keep in mind that token bleed is possible.  E.g. when prompting animal motifs the actual animal might appear in the image, or when prompting a color additional things in the image might take on the color.  In some situations using the BREAK keyword in between uses of the variables might help.  Also extensions such as regional prompt might help keep things in their place.
 
-## NSFW
+### unwanted items
+Sometimes prompt variables include items that are not wanted, such as a hat when prompting for an animal motif, the animal might appear in the image; or when using a color that is named after an item, the item may appear.  In these cases, you can use the negative keyword to try to prevent such items from appearing.
+
+### NSFW
 Note that some model checkpoints will tend toward not suitable for work images, especially when picking certain clothing items or only accessories.  If that is not what you want, then make sure to include the proper keywords in the negatives to try to prevent such outcomes.

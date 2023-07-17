@@ -1,0 +1,101 @@
+# Sample promts for three-quarter shots, no mentions of feet or footwear, including top apparel only, use additional tokens or other variables to complete the outfit
+
+########################################################
+#####    CLOTHING AND ALL ACCESSORIES - ROYALTY    #####
+########################################################
+
+# Top and Tops, Headwear and ALL accessories; Barefoot
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/royal__ __stylemuse/ancient/egyptian/accessory/waist/royal__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/royal/female__ __stylemuse/ancient/egyptian/accessory/legs/royal__ __stylemuse/ancient/egyptian/head/royal/female__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/royal__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/royal__, ${gem} __stylemuse/ancient/egyptian/accessory/arms/royal__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/royal__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/royal__ __stylemuse/ancient/egyptian/accessory/hands/royal__
+
+# Top and Tops and ALL Accessories; no headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/royal__ __stylemuse/ancient/egyptian/accessory/waist/royal__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/royal/female__ __stylemuse/ancient/egyptian/accessory/legs/royal__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/royal__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/royal__, ${gem} __stylemuse/ancient/egyptian/accessory/arms/royal__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/royal__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/royal__ __stylemuse/ancient/egyptian/accessory/hands/royal__
+
+########################################################
+####   CLOTHING ONLY, NO ACCESSORIES - ROYALTY     #####
+########################################################
+
+# Top and Tops and Headwear; NO accessories
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/royal/female__ __stylemuse/ancient/egyptian/head/royal/female__
+
+# Top and Tops; Barefoot, NO accessories or Headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/royal__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/royal/female__
+
+########################################################
+#####   CLOTHING AND ALL ACCESSORIES - SPIRITUAL   #####
+########################################################
+
+# Tops and Tops, Headwear and ALL accessories; Barefoot
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/spiritual__ __stylemuse/ancient/egyptian/accessory/waist/spiritual__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/spiritual/female__ __stylemuse/ancient/egyptian/accessory/legs/spiritual__ __stylemuse/ancient/egyptian/head/spiritual/female__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/spiritual__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/spiritual__, ${gem} __stylemuse/ancient/egyptian/accessory/arms/spiritual__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/spiritual__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/spiritual__
+
+# Tops and Tops and ALL Accessories; no headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/spiritual__ __stylemuse/ancient/egyptian/accessory/waist/spiritual__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/spiritual/female__ __stylemuse/ancient/egyptian/accessory/legs/spiritual__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/spiritual__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/spiritual__, ${gem} __stylemuse/ancient/egyptian/accessory/arms/spiritual__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/spiritual__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/spiritual__
+
+########################################################
+####   CLOTHING ONLY, NO ACCESSORIES - SPIRITUAL   #####
+########################################################
+
+# Top and Tops and Headwear; NO accessories
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/spiritual/female__ __stylemuse/ancient/egyptian/head/spiritual/female__
+
+# Top and Tops; Barefoot, NO accessories or Headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/spiritual__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/spiritual/female__
+
+########################################################
+#####   CLOTHING AND ALL ACCESSORIES - NOBILITY    #####
+########################################################
+
+# Tops, Headwear and ALL accessories; Barefoot
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/noble__ __stylemuse/ancient/egyptian/accessory/waist/noble__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/noble/female__ __stylemuse/ancient/egyptian/accessory/legs/noble__ __stylemuse/ancient/egyptian/head/noble/female__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/noble__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/noble__, ${gem} __stylemuse/ancient/egyptian/accessory/arms/noble__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/noble__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/noble__
+
+# Tops and ALL Accessories; no headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/fullbody/noble/female__ __stylemuse/ancient/egyptian/accessory/chest/noble__ __stylemuse/ancient/egyptian/accessory/waist/noble__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/noble/female__ __stylemuse/ancient/egyptian/accessory/legs/noble__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/noble__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/noble__, ${gem} __stylemuse/ancient/egyptian/accessory/arms/noble__, ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/noble__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/noble__
+
+########################################################
+####   CLOTHING ONLY, NO ACCESSORIES - NOBILITY    #####
+########################################################
+
+# Tops and Headwear; NO accessories
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/noble/female__ __stylemuse/ancient/egyptian/head/noble/female__
+
+# Tops; Barefoot, NO accessories or Headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/noble__} ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/noble/female__
+
+########################################################
+#####   CLOTHING AND ALL ACCESSORIES - MILITARY    #####
+########################################################
+
+# Tops, Headwear and ALL accessories; Barefoot
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/ancient/egyptian/accessory/waist/military__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/military/female__ __stylemuse/ancient/egyptian/head/military/female__ __stylemuse/ancient/egyptian/accessory/back/military__ __stylemuse/ancient/egyptian/accessory/arms/military__ __stylemuse/ancient/egyptian/accessory/hands/military__
+
+# Tops and ALL Accessories; no headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} __stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/ancient/egyptian/accessory/waist/military__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/military/female__ __stylemuse/ancient/egyptian/accessory/back/military__ __stylemuse/ancient/egyptian/accessory/arms/military__ __stylemuse/ancient/egyptian/accessory/hands/military__
+
+########################################################
+####   CLOTHING ONLY, NO ACCESSORIES - MILITARY    #####
+########################################################
+
+# Tops and Headwear; NO accessories
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/military/female__ __stylemuse/ancient/egyptian/head/military/female__
+
+# Tops; Barefoot, NO accessories or Headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/military__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} ${col} ${mat} __stylemuse/ancient/egyptian/tops/military/female__
+
+########################################################
+#####   CLOTHING AND ALL ACCESSORIES - COMMONERS   #####
+########################################################
+
+# Tops, Headwear and ALL accessories; Barefoot
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/commoner__} ${col=!__stylemuse/_lib/color/*__} ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/commoner/female__, __stylemuse/ancient/egyptian/head/commoner/female__ __stylemuse/ancient/egyptian/accessory/arms/commoner__, __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+
+# Tops and ALL Accessories; no headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/commoner__} ${col=!__stylemuse/_lib/color/*__} ancient egyptian , __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__, ${col} ${mat} __stylemuse/ancient/egyptian/tops/commoner/female__, __stylemuse/ancient/egyptian/accessory/arms/commoner__, __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+
+########################################################
+####   CLOTHING ONLY, NO ACCESSORIES - COMMONER    #####
+########################################################
+
+# Tops and Headwear; NO accessories
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/commoner__} ${col=!__stylemuse/_lib/color/*__} ancient egyptian , ${col} ${mat} __stylemuse/ancient/egyptian/tops/commoner/female__, __stylemuse/ancient/egyptian/head/commoner/female__
+
+# Tops; Barefoot, NO accessories or Headwear
+${mat=__stylemuse/_lib/materials/fabrics/ancient/noreastafrica/commoner__} ${col=!__stylemuse/_lib/color/*__} ancient egyptian , ${col} ${mat} __stylemuse/ancient/egyptian/tops/commoner/female__

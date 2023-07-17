@@ -1,0 +1,648 @@
+crafting:
+  jobs:
+    - basket weaver
+    - baker
+    - carpenter
+    - cobbler
+    - glassblower
+    - jeweler
+    - leatherworker
+    - metalworker
+    - painter
+    - potter
+    - sculptor
+    - stonemason
+    - tailor
+    - weaver
+    - basket weaver
+    - baker
+    - carpenter
+    - cobbler
+    - glassblower
+    - jeweler
+    - leatherworker
+    - metalworker
+    - painter
+    - potter
+    - sculptor
+    - stonemason
+    - tailor
+    - weaver
+  scenes:
+    basket_weaver:
+      - Weaving reeds into baskets near the river
+      - Collecting materials from marshes
+      - Crafting intricate patterns in the workshop
+      - Drying newly woven baskets in the sun
+      - Selling baskets at the market stall
+      - Gathering palm leaves for weaving
+      - Delivering finished baskets to homes
+      - Decorating baskets with colorful dyes
+      - Braiding handles for sturdy designs
+      - Storing raw materials in storage rooms
+      - Collecting reeds and grasses along Nile riverbank
+      - Sorting materials by color, size and texture
+      - Splitting and shaving reeds into long, thin strips
+      - Soaking reeds in water to soften for weaving
+      - Setting up outdoor stall at village market
+      - Weaving flexible reed mats for sleeping
+      - Making sturdy baskets to transport goods
+      - Adding handles to baskets for carrying on shoulders
+      - Using dyed reeds to create colorful patterns
+      - Weaving fans to keep cool in the hot weather
+      - Intertwining grasses tightly to hold water
+      - Shaping circular baskets for storing fruits and bread
+      - Twisting and coiling bundles of reed for texture
+      - Stringing dried grasses together for sandals
+      - Sitting cross legged while working with reeds
+      - Using bone and metal tools to score reeds
+      - Teaching children simple braiding techniques
+      - Trading baskets for pottery, food, and clothing
+      - Relaxing in the shade during the midday heat
+      - Storing surplus materials in case of future need
+    baker:
+      - baking bread in a bakery with an ancient oven
+      - Mixing dough in the bakery
+      - Kneading bread in the kitchen
+      - Baking loaves in clay ovens
+      - Selling fresh bread in the market
+      - Measuring ingredients for pastries
+      - Shaping dough for cakes
+      - Serving customers at the bakery stall
+      - Decorating sweet treats at the counter
+      - Delivering bread to nearby homes
+      - Collecting grains from storage rooms
+      - Kneading dough by stomping with feet in bakery
+      - Grinding grains into flour using stone mill
+      - Sifting wheat and barley flours for bread
+      - Mixing flour with water, honey and yeast
+      - Shaping round loaves and placing on hot bricks
+      - Baking bread and beer bread in clay ovens
+      - Rolling out dough for sweet cakes and tarts
+      - Cooking flattened dough over heated clay plates
+      - Preparing filling with fruits, nuts and honey
+      - Boiling grains like millet and spelt for porridge
+      - Roasting chickpeas, beans, lentils for snacks
+      - Forming triangular pies filled with dates or cheese
+      - Brewing grain-based beer for fermentation
+      - Decorating cakes using almonds and flower petals
+      - Adding seeds like sesame and poppy for texture
+      - Serving village patrons out front of bakery
+      - Bartering bread loaves for eggs, vegetables, fish
+      - Supplying bread and beer rations for pyramid builders
+      - Waking before dawn to prepare daily bread
+      - Working near hot ovens in bakery made of brick
+      - Training young apprentices in baking techniques
+    carpenter:
+      - Carving wooden statues in workshop
+      - Assembling wooden furniture in carpentry studio
+      - Polishing finished wooden artifacts in workshop
+      - Measuring and cutting wood in construction site
+      - Joining wooden beams to build structures
+      - Creating intricate wooden designs in workshop
+      - Repairing wooden items in artisan's studio
+      - Constructing boats on the riverbank
+      - Crafting wooden tools in the carpentry shop
+      - Smoothing wooden surfaces in the carpentry studio
+      - Sourcing wood at lumberyards for furniture and buildings
+      - Designing and drafting plans for pharaoh's new palace
+      - Carving ornate decorations into tables, chairs and beds
+      - Smoothing and polishing surfaces with sandpaper and tools
+      - Joining and fitting wood pieces together using joints and pegs
+      - Building cabinets, storage chests, boxes out of acacia wood
+      - Crafting thrones, stools, headrests for royal tombs
+      - Constructing spokes and rims for chariot wheels using steam
+      - Assembling reed watercrafts and boats from bundled papyrus
+      - Using drills to bore holes into wood for insertion of pegs
+      - Employing adzes, axes, chisels to shape and sculpture wood
+      - Measuring dimensions for doors, roofing, pillars and beams
+      - Hoisting heavy lumber and loading carts pulled by oxen
+      - Coordinating with bricklayers, stonemasons on buildings
+      - Teaching apprentices specialized techniques of the trade
+      - Taking pride in structural integrity of creations
+      - Enjoying elevated social status and wages for skills
+      - Wearing gloves to protect hands from splinters
+      - Getting injuries from sharp hand tools and wood shards
+      - Impressing nobility with ornately decorated furniture
+      - Purchasing exotic woods like cedar for coffins
+      - Making offering tables and statues for temples
+    cobbler:
+      - Repairing shoes at a workshop
+      - Crafting sandals at a market stall
+      - Working with leather at a tannery
+      - Making footwear for commoners and slaves
+      - Creating shoes for nobility and royalty
+      - Designing decorative footwear
+      - Crafting shoes for religious ceremonies
+      - Repairing footwear for soldiers
+      - Making shoes for performers
+      - Designing special shoes for royalty
+      - Customizing footwear for specific occasions
+      - Embellishing shoes with symbols or motifs
+      - Sourcing leather at market for sandals and shoes
+      - Siting on low stool in street-facing workshop
+      - Shaping leather using curved blades and shears
+      - Punching holes and chisel grooves to stitch pieces
+      - Sewing together soles, straps and uppers with awl
+      - Repairing worn sandals for commoners needing cheap fixes
+      - Adorning fine leather footwear with gold and jewels
+      - Designing trendy pointed toes for nobility
+      - Crafting colorful beaded sandals for festivals
+      - Visiting the home of wealthy person to take foot measurements
+      - Recommending shoes to a customer
+      - Bartering completed shoes for breads and meats
+      - Guiding apprentices learning the cobbler craft
+      - Sculpting thick sandals for workers in the fields
+      - Adding waterproof materials for foot trappings in floods
+      - Embellishing boots and sandals with feathers and beads
+      - Wraping linen and papyrus around feet before fitting
+      - Sharpening and wrap leatherworking blades safely
+      - Siting with other artisans like metalsmiths and weavers
+      - Swatting flies away from exposed leather materials
+    glassblower:
+      - Gathering sand and other raw materials for glassmaking
+      - Heating and melting the raw materials in a furnace
+      - Shaping molten glass with blowpipes and molds
+      - Blowing, shaping, and forming glass objects by hand
+      - Adding colors and patterns to the glass using various techniques
+      - Annealing (slowly cooling) finished glass objects to strengthen them
+      - Polishing and finishing glass pieces
+      - Repairing or reshaping damaged glass items
+      - Creating intricate glass beads and amulets for jewelry
+      - Crafting glass containers, such as bottles and jars, for storage
+      - Making decorative glass vessels and vases for display
+      - Producing glass tools and equipment for other artisans
+      - Collaborating with other artists on glass art projects
+      - Experimenting with new glassblowing techniques and designs
+      - Teaching and passing down the art of glassblowing to apprentices
+    jeweler:
+      - Polishing precious gems in the workshop
+      - Setting intricate designs with delicate tools
+      - Crafting intricate gold necklaces for nobles
+      - Engraving hieroglyphics on silver bracelets
+      - Melting gold and silver in the foundry
+      - Adorning pharaohs' tombs with precious ornaments
+      - Stringing beads in vibrant patterns
+      - Selling jewelry at the bustling market
+      - Inspecting rare stones in the treasure room
+      - Displaying exquisite pieces in royal chambers
+      - Mining turquoise and malachite in the Sinai desert
+      - Smelting copper and bronze for amulets and beads
+      - Casting semiprecious stones into metal settings
+      - Stringing small faience beads for jewelry making
+      - Crafting gold cartouche pendants with hieroglyphs
+      - Smithing silver anklets, bracelets and rings
+      - Setting gems like carnelian and lapis lazuli into pieces
+      - Engraving designs and symbols into metals using tools
+      - Soldering chains, clasps and wire for necklaces
+      - Applying cloisonne technique to jewelry making
+      - Adding granulation and filigree details with tiny beads
+      - Drawing ideas for new pieces on papyrus scrolls
+      - Collaborating with glassmakers on mosaic inlays
+      - Polishing and finishing jewelry pieces before sale
+      - Displaying wares at market stall to attract buyers
+      - Haggling prices with customers interested in pieces
+      - Making sales to those with means like priests and officials
+      - Custom designing for wealthy patrons and nobility
+      - Handling precious materials like gold, gems and ivory
+      - Gaining reputation for skilled artistry and craft
+    leatherworker:
+      - Cutting patterns in the tannery
+      - Stitching leather sandals for peasants
+      - Dyeing leather in vibrant hues
+      - Carving intricate designs on belts
+      - Embossing pharaohs' names on leather scrolls
+      - Fashioning satchels for traders
+      - Crafting armor in the armory
+      - Adorning chariots with leather trimmings
+      - Sewing bags for market vendors
+      - Mending soldiers' shields at the barracks
+      - Tanning animal hides in workshops near the Nile
+      - Softening leather by soaking in urine and oils
+      - Dyeing pieces red, yellow, green with natural colors
+      - Cutting patterns for belts, sandals and clothing
+      - Stitching edges to hem and assemble garments
+      - Using bone needles and tendon thread for tough seams
+      - Tooling and stamping ornamental designs into leather
+      - Attaching buckles and ties to fasten shoes and armor
+      - Fitting leather-covered shields for soldiers
+      - Crafting sturdy leather bags, packs and satchels
+      - Adding insulating wool linings to leather coats
+      - Sewing leather sheets into tents and canopies
+      - Embellishing with painted or metal studded accents
+      - Collaborating with weavers on woven trim accents
+      - Repairing cracked and damaged leather goods
+      - Constructing leather harnesses for horses and cattle
+      - Trading goods at marketplaces in major cities
+      - Working carefully around dyes and tanning solutions
+      - Teaching apprentices preparing, cutting and stitching
+    metalworker:
+      - Smelting copper in the foundry
+      - Forging weapons for pharaoh's army
+      - Engraving hieroglyphs on royal jewelry
+      - Casting sacred amulets for priests
+      - Shaping ornate chariot fittings
+      - Hammering coins for merchants
+      - Crafting decorative vases in the workshop
+      - Welding metal armor for warriors
+      - Sculpting statues for temples
+      - Polishing golden offerings in the palace
+      - Mining copper and other metals in the Eastern desert
+      - Smelting iron ore to form ingots for tool making
+      - Casting molten gold and silver into jewelry molds
+      - Working bellows to achieve high temperatures in forge
+      - Annealing metal pieces to soften for easier shaping
+      - Hammering red hot metals into blades, tools and art
+      - Riveting bronze and copper sheets for armor and vessels
+      - Embossing designs into decorative and ceremonial objects
+      - Inlaying semiprecious stones into gold and silver pieces
+      - Alloying metals like tin and copper to make bronze
+      - Forging agricultural tools like plows, sickles and hoes
+      - Crafting sacred statues and offering dishes for temples
+      - Adding gilt embellishment to furniture for nobles
+      - Sharpening and polishing finished metal artworks
+      - Collaborating with builders on gates and architectural metals
+      - Apprenticing youth seeking valuable smithing skills
+      - Trading wares with merchants at bustling bazaars
+      - Working intensely near extremely hot furnaces and kilns
+      - Gaining respect and notoriety for skilled creations
+      - Building high status clientele such as priests and pharaohs
+    painter:
+      - Decorating tomb walls with vibrant murals
+      - Illustrating religious scrolls for the temple
+      - Mixing pigments in the artist's studio
+      - Sketching scenes on papyrus scrolls
+      - Painting sacred symbols on ceremonial masks
+      - Creating frescoes in the royal palace
+      - Embellishing coffins with intricate designs
+      - Adorning pottery with colorful patterns
+      - Brushing hieroglyphs onto stone monuments
+      - Crafting beautiful portraits of nobility
+      - Selecting paint colors like black, red, blue, yellow
+      - Grinding malachite and azurite for green and blue pigments
+      - Mixing paints with binder like egg yolks or plant gums
+      - Painting religious murals and funerary art inside tombs
+      - Depicting pharaohs and gods using symbolic poses and objects
+      - Outlining figures and shapes before filling in colors
+      - Using paintbrushes made from reeds to apply pigments
+      - Creating painter's palettes from stone slabs with pigment cakes
+      - Painting pottery vessels with motifs of birds, animals and nature
+      - Collaborating with architects on temple and column decor
+      - Designing repeating geometric patterns on furnishings
+      - Learning principles of figural, hieroglyphic, and ornamental art
+      - Transferring preparatory sketches onto plastered walls
+      - Balancing principles of proportion, planarity and hierarchy
+      - Working quickly in good lighting conditions
+      - Getting commissions from wealthy patrons
+      - Mixing tempera paints by hand in workshop
+      - Gaining fame for decorative work in noble's tomb
+    potter:
+      - Shaping clay on a potter's wheel
+      - Firing vessels in a kiln
+      - Glazing ceramic creations
+      - Decorating amphorae with intricate patterns
+      - Crafting storage jars for food and water
+      - Forming delicate figurines
+      - Molding clay into ornate vases
+      - Creating ornamental pottery for temples
+      - Modeling pots for daily use
+      - Fashioning pottery in a workshop
+      - Collecting Nile clay and pigments for pottery
+      - Wedging and kneading clay to remove air bubbles
+      - Shaping pots by hand using fingers and tools
+      - Forming bowls, jars, vessels on pottery wheel
+      - Painting mineral pigments in decorative designs
+      - Incising geometric patterns into wet clay
+      - Adding handles and spouts for pouring
+      - Firing yellow and brown ware pottery in kilns
+      - Glazing high-end pottery with silica quartz
+      - Creating canopic jars for human organs
+      - Crafting faience amulets and shabti figurines
+      - Building slab coffins decorated with prayers
+      - Collaborating with tomb painters on funeral wares
+      - Peddling wares at busy marketplaces and docks
+      - Loading dried pottery into sackcloth for firing
+      - Trading pottery for bread, beer, and other goods
+      - Teaching apprentices throwing techniques
+      - Discarding pieces with flaws or cracks
+      - Supplying drinking cups and tableware for meals
+    sculptor:
+      - Carving statues from limestone
+      - Sculpting granite blocks for tombs
+      - Chiseling figures in sandstone
+      - Crafting clay figurines for rituals
+      - Shaping alabaster into art pieces
+      - Modeling wooden sculptures for temples
+      - Constructing Sphinxes from stone
+      - Engraving reliefs on temple walls
+      - Creating bronze statuettes
+      - Forming terracotta art in a workshop
+      - Quarrying limestone, granite and sandstone blocks
+      - Transporting heavy stones by boat on the Nile
+      - Lifting and moving stones using ramps and levers
+      - Choosing rock colors symbolic of skin tones or jewelry
+      - Carving divine and royal visages to decorate temples
+      - Sculpting statues and reliefs according to strict conventions
+      - Chiseling hieroglyphs and images into stone surfaces
+      - Softening stones like alabaster by soaking in water
+      - Sanding pieces into smooth finishing using abrasives
+      - Polishing completed artworks with wax and oils
+      - Collaborating with architects on column capitals and facades
+      - Designing tomb art representing journeys into afterlife
+      - Gaining fame and notoriety for art honoring gods and rulers
+      - Training apprentice stone workers in techniques over years
+      - Carefully planning compositions before cutting rock
+      - Sketching miniature models of figures and forms
+      - Using only acceptably proportioned canon of forms
+      - Receiving commissions from wealthy patrons and pharaohs
+      - Working long hours using heavy tools and great strength
+    stonemason:
+      - Cutting granite blocks for pyramids
+      - Carving intricate hieroglyphics on obelisks
+      - Polishing limestone statues for temples
+      - Shaping sandstone pillars in quarries
+      - Assembling stone walls for tombs
+      - Engraving relief carvings on temple facades
+      - Building stone arches for monuments
+      - Sculpting sphinxes in workshops
+      - Constructing stone sarcophagi for pharaohs
+      - Crafting stone vessels for offerings
+      - Quarrying limestone blocks from cliffs using sledges
+      - Transporting stones by boat on Nile to build sites
+      - Lifting massive blocks using ramps and pulleys
+      - Cutting facets into stones to fit tightly together
+      - Shaping edges and surfaces with chisels and hammers
+      - Measuring dimensions and angles with ropes and levels
+      - Laying cornerstones as foundations for structures
+      - Carving channels and grooves for stability in walls
+      - Erecting temples, pyramids, monuments from blocks
+      - Collaborating with architects on structural plans
+      - Climbing high on precarious scaffolding and ladders
+      - Training apprentices in precision stone cutting
+      - Gaining status and wages as highly skilled tradesmen
+      - Building enclosures, floors and surfaces with slate
+      - Living in grueling desert conditions near quarries
+      - Dragging sleds loaded with blocks over sand and dirt
+      - Suffering muscle strains and back injuries
+      - Drinking beer to gain strength for heavy labor
+      - Taking great pride in creations lasting millennia
+      - Getting specific directions from foremen and architects
+    tailor:
+      - Buying linen, cotton, wool fabrics at market
+      - Measuring customers for custom clothing
+      - Cutting pattern shapes from fabric using shears
+      - Draping lightweight linens for flowing garments
+      - Sewing seams by hand using bone needles and thread
+      - Adding embellishments like feathers, beads, or embroidery
+      - Fitting and pinning garments during sizing sessions
+      - Pleating, gathering, or belting fabrics at waist
+      - Designing fashionable sheath dresses for women
+      - Stitching kilts, loincloths and robes for men
+      - Adorning pharaoh's royal garb with golden accents
+      - Coloring fabrics using natural plant and insect dyes
+      - Collaborating with weavers on specialty cloth
+      - Altering or mending old clothing for customers
+      - Operating shop fronting busy village streets
+      - Trading services for goods from other merchants
+      - Training apprentices in draping, cutting and sewing
+      - Gaining notoriety for quality tailoring skills
+      - Keeping up with evolving trends and styles
+      - Measuring clients for custom-made garments
+      - Cutting patterns on wooden boards
+      - Sewing linen dresses for nobles
+      - Embroidering intricate patterns on robes
+      - Dyeing fabrics in vibrant colors
+      - Stitching hems and seams carefully
+      - Fitting and adjusting garments for pharaohs
+      - Crafting linen shrouds for mummies
+      - Embellishing clothing with gold thread
+      - Creating linen tunics for priests
+      - Assembling royal ceremonial attire
+      - Tailoring garments in bustling markets
+      - Designing elaborate headdresses for queens
+      - Mending torn clothes in workshops
+      - Adorning robes with precious gemstones
+    weaver:
+      - Spinning thread from flax fibers
+      - Spinning fibers into threads on a wheel
+      - Weaving intricate patterns on a loom
+      - Dyeing fabrics in vibrant colors
+      - Creating linen garments for priests
+      - Crafting fine linen robes for pharaohs
+      - Working in bustling textile workshops
+      - Using shuttle to create woven designs
+      - Decorating clothing with patterns
+      - Threading the loom with precision
+      - Weaving tapestries for temples
+      - Twisting fibers into sturdy cords
+      - Braiding ropes for ships and boats
+      - Designing linen fabrics for tombs
+      - Crafting linen blankets and bedding
+      - Making fine linen garments for nobles
+      - Growing flax and cultivating silkworms 
+      - Harvesting papyrus reeds from the Nile banks
+      - Spinning fibers into threads using spindle and whorl
+      - Dyeing wool, linen and cotton yarns with colors
+      - Setting up large floor looms in open air shops  
+      - Threading and tensioning the warp threads  
+      - Weaving colorful tapestries depicting nature
+      - Creating intricate patterns by varying weft threads
+      - Using pedals and beams to lift and separate threads
+      - Making durable canvas for sails from linen   
+      - Weaving decorative sashes, belts and headbands
+      - Adding gilt threads for metallic shimmering effects
+      - Constructing loincloths and kilts using narrow looms
+      - Collaborating with embroiderers on embellishments 
+      - Taking great pride in textile creations 
+      - Trading high quality textiles for other goods
+      - Demonstrating techniques to apprentices  
+      - Gaining notoriety for supplying fine fabrics  
+      - Working daily surrounded by finishes wares  
+entertainment:
+  jobs:
+    - acrobat
+    - dancer
+    - musician
+    - performer
+    - singer
+    - storyteller
+  farming:
+    - beekeeper
+    - brewer
+    - butcher
+    - cheesemaker
+    - farmer
+    - fisherman
+    - gardener
+    - hunter
+    - vintner
+  government:
+    - administrator
+    - architect
+    - bureaucrat
+    - judge
+    - magistrate
+    - scribe
+    - tax collector
+    - vizier
+  healthcare:
+    - doctor
+    - healer
+    - midwife
+    - nurse
+  intellectual:
+    - astronomer
+    - engineer
+    - historian
+    - mathematician
+    - philosopher
+    - scholar
+    - scientist
+    - scribe
+    - teacher
+  labor:
+    - bricklayer
+    - builder
+    - digger
+    - dockworker
+    - porter
+    - quarryman
+    - sailor
+    - slave
+    - slave overseer
+    - slave trader
+    - stonemason
+  merchant:
+    - banker
+    - bookkeeper
+    - caravan trader
+    - cloth trader
+    - gem trader
+    - gold trader
+    - grain trader
+    - luxury trader
+    - merchant
+    - moneylender
+    - papyrus trader
+    - pottery trader
+    - ship trader
+    - spice trader
+    - textile trader
+    - trader
+  military:
+    - archer
+    - bodyguard
+    - cavalryman
+    - charioteer
+    - infantryman
+    - sailor
+    - soldier
+  royalty:
+    - king
+    - pharaoh
+    - prince
+    - princess
+    - queen
+    - vizier
+  royal_servants:
+    - concubine
+    - eunuch
+    - servant
+    - slave
+  servant:
+    - barber
+    - bath attendant
+    - cook
+    - courtesan
+    - cupbearer
+    - dancer
+    - hairdresser
+    - musician
+    - nurse
+    - servant
+    - slave
+    - slave overseer
+    - slave trader
+  spiritual:
+    - astrologer
+    - priest
+    - priestess
+    - prophet
+    - prophetess
+    - scribe
+    - shaman
+    - soothsayer
+    - temple dancer
+    - temple musician
+    - temple singer
+  technical:
+    - architect
+    - blacksmith
+    - builder
+    - engineer
+    - inventor
+    - locksmith
+    - mason
+    - mechanic
+    - metalworker
+    - miller
+    - potter
+    - stonemason
+    - tailor
+scenes_crafting:
+  - basket weaver by the river bank surrounded by reeds and papyrus
+  - basket weaver working in a workshop surrounded by baskets
+  - basket weaver selling their wares in the market
+  - basket weaver making a basket in a temple
+  - basket weaver making a basket in a palace
+  - basket weaver making a basket in a house
+  - basket weaver making a basket in a hut
+  - basket weaver making a basket in a tent
+  - basket weaver leading a caravan carrying baskets
+  - basket weaver selling  their wares in a village couryard
+  - basket weaver bringing baskets to the royal palace
+  - basket weaver showing his wares in a craft guild hall
+  - baker baking bread in a bakery with an ancient oven
+  - baker selling bread in a temple
+  - baker selling bread in a palace
+  - baker making bread in a house
+  - baker making bread in a hut
+  - baker making bread in a tent
+  - baker bringing bread to the royal palace
+  - baker bringing bread to the temple
+  - baker selling bread in a village courtyard
+  - baker making bread in a military camp
+  - baker selling bread in the market
+  - carpenter working in a workshop
+  - carpenter working at a contruction site
+  - carpenter making intricate furniture in a palace
+  - carpenter making furniture in a house
+  - carpenter making furniture in a hut
+  - carpenter making furniture in a tent
+  - carpenter selling their wares in a village courtyard
+  - carpenter selling their wares in the market
+  - carpenter building a military garrison
+  - carpenter working on a ship
+  - carpenter working on a chariot
+  - carpenter working on a temple
+  - carpenter making an intricate sarcofagus
+  - carpenter making a coffin
+  - carpenter making an intricate wooden statue
+  - cobbler crafting sandals in a workshop
+  - cobbler crafting sandals in a palace
+  - cobbler crafting sandals in a house
+  - cobbler crafting sandals in a hut
+  - cobbler crafting sandals in a tent
+  - cobbler selling sandals in a village courtyard
+  - cobbler selling sandals in the market
+  - cobbler selling sandals in a temple
+  - cobbler selling sandals on the riverbank market
+  - glassblower working in a workshop wiht an ancient furnace
+  - glassblower working in a palace
+  - glassblower working in a house
+  - glassblower working in a hut
+  - glassblower working in a tent
+  - glassblower selling their wares in a village courtyard
+  - glassblower selling their wares in the market
+  - glassblower selling their wares in a temple
+  - glassblower selling their wares on the riverbank market
