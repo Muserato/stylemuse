@@ -46,7 +46,7 @@ ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${motif=!__stylemuse/_
 ${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot __stylemuse/ancient/egyptian/accessory/chest/noble__ __stylemuse/ancient/egyptian/accessory/waist/noble__ __stylemuse/ancient/egyptian/accessory/legs/noble__ __stylemuse/ancient/egyptian/head/noble/*__ ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/noble__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/noble__ ${gem} __stylemuse/ancient/egyptian/accessory/arms/noble__ ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/noble__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/noble__
 
 # ALL Accessories; Barefoot and no headwear
-${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${col=!__stylemuse/_lib/color/*__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot ${col} ${mat} __stylemuse/ancient/egyptian/fullbody/noble/*__ __stylemuse/ancient/egyptian/accessory/chest/noble__ __stylemuse/ancient/egyptian/accessory/waist/noble__ __stylemuse/ancient/egyptian/accessory/legs/noble__ ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/noble__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/noble__ ${gem} __stylemuse/ancient/egyptian/accessory/arms/noble__ ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/noble__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/noble__
+${gem=__stylemuse/_lib/materials/gems/ancient/egyptian__} ${motif=!__stylemuse/_lib/motifs/ancient/egyptian/*__} barefoot __stylemuse/ancient/egyptian/accessory/chest/noble__ __stylemuse/ancient/egyptian/accessory/waist/noble__ __stylemuse/ancient/egyptian/accessory/legs/noble__ ${gem} embellished __stylemuse/ancient/egyptian/accessory/neck/noble__ with ${motif} motif __stylemuse/ancient/egyptian/accessory/back/noble__ ${gem} __stylemuse/ancient/egyptian/accessory/arms/noble__ ${gem} embellished __stylemuse/ancient/egyptian/accessory/wrist/noble__ with ${motif} motif ${gem} studded __stylemuse/ancient/egyptian/accessory/fingers/noble__
 
 ############################################
 #####   ONLY ACCESSORIES - MILITARY    #####
@@ -69,13 +69,13 @@ barefoot __stylemuse/ancient/egyptian/accessory/chest/military__ __stylemuse/anc
 ############################################
 
 # Footwear, Headwear and ALL Accessories
-ancient egyptian, ${col=!__stylemuse/_lib/color/*__}  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/footwear/commoner/*__ __stylemuse/ancient/egyptian/head/commoner/*__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+ancient egyptian,  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ __stylemuse/ancient/egyptian/footwear/commoner/*__ __stylemuse/ancient/egyptian/head/commoner/*__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
 
 # Footwear and ALL accessories; no headwear
-ancient egyptian, ${col=!__stylemuse/_lib/color/*__}  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/footwear/commoner/*__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+ancient egyptian,  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ __stylemuse/ancient/egyptian/footwear/commoner/*__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
 
 # Headwear and ALL accessories; Barefoot
-barefoot ancient egyptian, ${col=!__stylemuse/_lib/color/*__}  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/head/commoner/*__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+barefoot ancient egyptian,  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ __stylemuse/ancient/egyptian/head/commoner/*__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
 
 # ALL Accessories; Barefoot and no headwear
-barefoot ancient egyptian, ${col=!__stylemuse/_lib/color/*__}  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ ${col} __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
+barefoot ancient egyptian,  __stylemuse/ancient/egyptian/accessory/chest/commoner__ __stylemuse/ancient/egyptian/accessory/waist/commoner__ __stylemuse/ancient/egyptian/accessory/arms/commoner__ __stylemuse/ancient/egyptian/accessory/wrist/commoner__
