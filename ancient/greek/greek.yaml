@@ -1,95 +1,50 @@
 accessory:
   arms:
-    commoner:
-      - armlet
-      - leather armbands
+    fabric:
+      - fabric armlet
       - fabric armbands
+      - fabric arm guards
+    leather:
+      - leather armlet
+      - leather armbands
+      - leather arm guards
     military:
       - leather arm guards
       - leather bracers
       - metal arm cuffs
       - metal arm guards
       - metal bracers
-    noble:
+      - aegis shield
+    jeweled:
       - beaded armlet
-      - gemstone armlet
-      - metal armlet
+      - armlet with gemstones
       - ornate armlet
+      - precious metal armlet
+      - pearl studded armlet
     spiritual:
       - sacred amulet armlet
       - symbol engraved armlet
-    royal:
-      - engraved gold armlet
-      - jeweled armlet
-      - ornate gold armlet
-      - pearl studded armlet
+
   back:
-    commoner:
-      - cape
-      - cloak
-      - palla
-      - shawl
-      - wrap
-    military: # military, spiritual, noble, and royals
-      - military cape
-      - military cloak
-      - military palla
-      - military shawl
-      - military sash
-    spiritual:
-      - priestly cape
-      - priestly cloak
-      - priestly palla
-      - priestly shawl
-      - priestly sash
-      - stole
-    noble:
-      - noble cape
-      - noble cloak
-      - noble palla
-      - noble shawl
-      - noble sash
-    royal:
-      - royal cape
-      - royal cloak
-      - royal palla
-      - royal shawl
-      - royal sash
-      - royal mantle
-      - royal regalia
-      - royal stole
+    - cape
+    - cloak
+    - palla
+    - shawl
+    - wrap
+    - mantle
+
   chest: # use in combination with motif and / or jewels
-    commoner:
+    fabric:
       - sash
+      - sheer fabric sash
+      - sheer fabric ribbon
+      - ampechone chest band
+      - chlaina thick overgarnment
     military:
       - linothorax
       - bell cuirass
       - chitoniskos
       - muscle cuirass
-    noble:
-      - breastplate
-      - electrum pectoral
-      - gold pectoral
-      - sash
-      - sheer fabric ribbon
-      - silver pectoral
-      - wesekh collar
-    spiritual:
-      - breastplate
-      - electrum pectoral
-      - gold pectoral
-      - sash
-      - sheer fabric sash
-      - sheer fabric ribbon
-      - silver pectoral
-      - wesekh collar
-    royal:
-      - intricate breastplate
-      - intricate gold pectoral
-      - sash
-      - sheer fabric sash
-      - sheer fabric ribbon
-      - wesekh collar
 
   hands:
     military:
@@ -101,7 +56,7 @@ accessory:
       - javelin
       - bow
       - sling
-    royal:
+    gloves:
       - beaded gloves
       - beaded mittens
       - intricate gold gloves
@@ -110,614 +65,301 @@ accessory:
       - intricate silver mittens
 
   fingers:
-    noble:
-      - electrum ring
       - gold ring
       - silver ring
-    spiritual:
-      - electrum ring
-      - gold ring
-      - silver ring
-    royal:
-      - gold ring
-      - silver ring
-
+ 
   legs:
+    fabric:
+      - fabric leg band
+      - fabric leg wraps
+      - fabric leg guards
+      - fabric leg wrappings
+    leather:
+      - leather leg band
+      - leather leg wraps
+      - leather leg guards
+      - leather leg wrappings
     military:
       - leather greaves
       - metal greaves
       - woven greaves
-    noble:
-      - electrum leg band
+    metallic:
+      - ankle bracelet
       - gold leg band
       - silver leg band
-      - woven leg band
-      - leg wrappings
-    spiritual:
-      - anklet
-      - woven leg band
-      - leg wrappings
-    royal:
-      - anklet
-      - gold leg band
-      - silver leg band
-      - woven leg band
-      - leg wrappings
 
   neck:
-    noble:
-      - electrum choker
-      - electrum collar
-      - electrum medallion
-      - electrum necklace
-      - electrum pendant
-      - electrum torc
-      - gold choker
-      - gold collar
-      - gold medallion
+    military:
+      - bronce torque
+      - metal gorget
+      - necklace with military insignia
+      - necklace with amulet
+    gold:
+      - gold chain
+      - gold chain with amulet
+      - gold chain with pendant
       - gold necklace
-      - gold pendant
-      - gold torc
-      - silver choker
-      - silver collar
-      - silver medallion
+      - gold necklace with amulet
+      - gold necklace with pendant
+      - gold necklace with tassels
+      - gold torque
+      - gold torque with amulet
+      - gold torque with pendant
+      - gold torque with tassels
+    jeweled:
+      - pearl necklace
+      - beaded necklace
+      - ribbon choker with jewels
+    silver:
+      - silver chain
+      - silver chain with amulet
+      - silver chain with pendant
       - silver necklace
-      - silver pendant
-      - silver torc
-    spiritual:
-      - electrum choker
-      - electrum collar
-      - electrum medallion
-      - electrum necklace
-      - electrum pendant
-      - electrum torc
-      - gold choker
-      - gold collar
-      - gold medallion
-      - gold necklace
-      - gold pendant
-      - gold torc
-      - silver choker
-      - silver collar
-      - silver medallion
-      - silver necklace
-      - silver pendant
-      - silver torc
-    royal:
-      - gold choker
-      - gold collar
-      - gold medallion
-      - gold necklace
-      - gold pendant
-      - gold torc
+      - silver necklace with amulet
+      - silver necklace with pendant
+      - silver necklace with tassels
+      - silver torque
+      - silver torque with amulet
+      - silver torque with pendant
+      - silver torque with tassels
+    other:
+      - necklace with leather pouch
+  shoulders:
+    military:
+      - epaulettes
+    fabric:
+      - scarf
+      - stole
 
   waist: # all socio-economic classes
-    commoner:
+    fabric:
       - corded waistband
+      - corded belt
+      - corded sash
+      - woven waistband
+      - woven belt
+      - woven sash
+    leather:
       - leather belt
       - leather girdle
       - leather sash
-      - waist apron
-      - waist ribbon
-      - woven belt
-      - woven girdle
-      - woven sash
-    military:
-      - corded waistband
-      - leather belt
-      - leather girdle
-      - leather sash
-      - waist apron
-      - waist ribbon
-      - woven belt
-      - woven girdle
-      - woven sash
-    noble:
+    jeweled:
       - beaded band
       - beaded belt
       - beaded girdle
+      - jeweled belt
+      - jeweled girdle
+    gold:
       - gold belt
       - gold girdle
       - gold sash
-      - jeweled belt
-      - jeweled girdle
+    silver:
       - silver belt
       - silver girdle
       - silver sash
-      - waist apron with fringes
-      - waist apron with gold fringes
-      - waist apron with silver fringes
-      - waist apron with tassels
-      - waist apron with gold tassels
-      - waist apron with silver tassels
-    spiritual:
-      - beaded band
-      - beaded belt
-      - beaded girdle
-      - gold belt
-      - gold girdle
-      - gold sash
-      - jeweled belt
-      - jeweled girdle
-      - silver belt
-      - silver girdle
-      - silver sash
-      - waist apron with fringes
-      - waist apron with gold fringes
-      - waist apron with silver fringes
-      - waist apron with tassels
-      - waist apron with gold tassels
-      - waist apron with silver tassels
-    royal:
-      - beaded band
-      - beaded belt
-      - beaded girdle
-      - gold belt
-      - gold girdle
-      - gold sash
-      - jeweled belt
-      - jeweled girdle
-      - silver belt
-      - silver girdle
-      - silver sash
-      - waist apron with fringes
-      - waist apron with gold fringes
-      - waist apron with silver fringes
-      - waist apron with tassels
-      - waist apron with gold tassels
-      - waist apron with silver tassels
+
   wrist: # military did not use wrist adornments
-    commoner:
-      - beaded bracelet
-      - beaded wristlet
-      - copper bracelet
-      - copper wristlet
+    fabric:
       - corded bracelet
       - corded wristlet
-      - leather bracelet
-      - leather wristlet
       - woven bracelet
       - woven wristlet
-    noble:
+    leather:
+      - leather bracelet
+      - leather wristlet
+    jeweled:
       - beaded bracelet
       - beaded wristlet
-      - electrum bracelet
-      - electrum wristlet
-      - gold bracelet
-      - gold wristlet
-      - silver bracelet
-      - silver wristlet
-    spiritual:
-      - beaded bracelet
-      - beaded wristlet
-      - electrum bracelet
-      - electrum wristlet
       - jeweled bracelet
       - jeweled wristlet
+    gold:
       - gold bracelet
       - gold wristlet
+    silver:
       - silver bracelet
       - silver wristlet
-    royal:
-      - beaded bracelet
-      - beaded wristlet
-      - electrum bracelet
-      - electrum wristlet
-      - jeweled bracelet
-      - jeweled wristlet
-      - gold bracelet
-      - gold wristlet
 
 bottoms: # by socio-economic class and gender
-  commoner:
+  underwear:
     male:
-      - knee-length wraparound skirt
-      - schenti loincloth # males only
-      - shendyt long wraparound skirt
+      - perizoma loincloth
+      - chitoniskos short wraparound skirt
     female:
-      - knee-length straight skirt # females only
-      - knee-length wraparound skirt
-      - kalasiris long straight skirt # females only
-      - shendyt long wraparound skirt
-  military:
-    male:
-      - fine kilt
-      - fine pleated kilt
-      - shendyt long wraparound skirt
-      - trousers
-    female: #females were not in the military, placeholder only
-      - fine kilt
-      - fine pleated kilt
-      - shendyt long wraparound skirt
-      - trousers
-  noble:
-    male:
-      - culottes
-      - fitted sheath skirt
-      - fine pleated skirt
-      - kalasiris long straight skirt
-      - shendyt long wraparound skirt # male only
-    female:
-      - culottes
-      - fitted sheath skirt
-      - fine pleated skirt
-      - kalasiris long straight skirt
-  spiritual:
-    male:
-      - antelope skin skirt
-      - cheetah skin skirt
-      - gazelle skin skirt
-      - leopard skin skirt
-      - lion skin skirt
-      - kalasiris long straight skirt
-      - shendyt long wraparound skirt
-      - pleated long wraparound skirt
-      - kalasiris sheer fabric long straight skirt
-      - shendyt sheer fabric wraparound skirt
-      - fine kilt # males only
-    female:
-      - antelope skin skirt
-      - cheetah skin skirt
-      - gazelle skin skirt
-      - leopard skin skirt
-      - lion skin skirt
-      - kalasiris long straight skirt
-      - shendyt long wraparound skirt
-      - pleated long wraparound skirt
-      - kalasiris sheer fabric long straight skirt
-      - shendytsheer fabric wraparound skirt
-  royal:
-    male:
-      - culottes
-      - fitted sheath skirt
-      - fine pleated skirt
-      - kalasiris long straight skirt
-      - shendyt long wraparound skirt # male only
-    female:
-      - culottes
-      - fitted sheath skirt
-      - fine pleated skirt
-      - kalasiris long straight skirt
+      - perizoma loincloth
+      - chitoniskos short wraparound skirt
 fullbody:
   commoner:
     male:
-      - knee-lenght tunic
-      - knee-length tunic with shoulder straps
-      - long tunic
-      - loose tunic with fitted leggings
-      - toga # male only
+      - chitoniskos short wraparound tunic
+      - chiridota short tunic with sleeves
+      - allix short tunic
+      - gallix short tunic
+      - exomis shorttunic with bare right shoulder
+      - sisura short one shoulder tunic
     female:
-      - knee-lenght tunic
-      - knee-length tunic with shoulder straps
-      - long tunic
-      - loose tunic with fitted leggings
-      - form fitting sheath dress # female only
-      - tunic dress # female only
-      - sack dress # female only
+      - chiridota tunic with sleeves
+      - draped peplos pinned at shoulders
+      - exomis tunic with bare right shoulder
+      - sisura one shoulder tunic
   noble:
     male:
-      - robe
-      - tunic
+      - allix short tunic
+      - chiridota tunic with sleeves
+      - gallix short tunic
+      - draped chiton tunic
+      - belted chiton tunic
+      - chlamys short cloak
+      - himation long cloak
+      - katonake cloak
     female:
-      - robe
-      - tunic
-      - form fitting sheath dress # female only
+      - draped chiton tunic
+      - chiridota tunic with sleeves
+      - belted chiton tunic
+      - draped peplos pinned at shoulders
+      - himation long cloak
+      - kandys mantle
+      - katonake cloak
   spiritual:
     male:
-      - antelope skin robe
-      - cheetah skin robe
-      - gazelle skin robe
-      - leopard skin robe
-      - lion skin robe
-      - sheer fabric robe
+      - draped chiton tunic
+      - chiridota tunic with sleeves
+      - belted chiton tunic
+      - chlamys short cloak
+      - himation long cloak
+      - allix short tunic
+      - gallix short tunic
+      - katonake cloak
     female:
-      - antelope skin robe
-      - cheetah skin robe
-      - gazelle skin robe
-      - leopard skin robe
-      - lion skin robe
-      - sheer fabric robe
+      - draped chiton tunic
+      - chiridota tunic with sleeves
+      - belted chiton tunic
+      - draped peplos pinned at shoulders
+      - himation long cloak
+      - kandys mantle
+      - katonake cloak
   royal:
     male:
-      - robe
-      - tunic
+      - draped chiton tunic
+      - chiridota tunic with sleeves
+      - belted chiton tunic
+      - chlamys short cloak
+      - himation long cloak
+      - allix short tunic
+      - gallix short tunic
+      - katonake cloak
     female:
-      - robe
-      - tunic
-      - form fitting sheath dress # female only
-
+      - draped chiton tunic
+      - chiridota tunic with sleeves
+      - belted chiton tunic
+      - draped peplos pinned at shoulders
+      - himation long cloak
+      - kandys mantle
+      - katonake cloak
 footwear:
   commoner:
     male:
-      - barefoot
-      - fishskin sandals
-      - jute sandals
-      - leather shoes
-      - leather slippers
-      - linen sandals
-      - linen shoes
-      - palm fiber sandals
-      - papyrus sandals
-      - rawhide sandals
-      - reed sandals
       - sandals
-      - straw sandals
-      - wooden sandals
-      - woven shoes
+      - slippers
     female:
-      - barefoot
-      - fishskin sandals
-      - jute sandals
-      - leather shoes
-      - leather slippers
-      - linen sandals
-      - linen shoes
-      - palm fiber sandals
-      - papyrus sandals
-      - rawhide sandals
-      - reed sandals
       - sandals
-      - straw sandals
-      - wooden sandals
-      - woven shoes
+      - slippers
   military:
     male:
+      - cothurnus boots
+      - posthumus boots
       - leather boots
     female: # females did not serve in the military, placeholder only
+      - cothurnus boots
+      - posthumus boots
       - leather boots
   noble:
     male:
-      - fishskin sandals
-      - jute sandals
-      - leather sandals
-      - leather slippers
-      - linen sandals
-      - linen shoes
-      - palm fiber sandals
-      - papyrus sandals
-      - rawhide sandals
-      - reed sandals
-      - straw sandals
-      - wooden sandals
-      - woven shoes
+      - cothurnus boots
+      - posthumus boots
+      - leather boots
+      - sandals
     female:
-      - fishskin sandals
-      - jute sandals
-      - leather sandals
-      - leather slippers
-      - linen sandals
-      - linen shoes
-      - palm fiber sandals
-      - papyrus sandals
-      - rawhide sandals
-      - reed sandals
-      - straw sandals
-      - wooden sandals
-      - woven shoes
+      - cothurnus boots
+      - posthumus boots
+      - leather boots
+      - sandals
   spiritual:
     male:
-      - barefoot
-      - fishskin sandals
-      - jute sandals
-      - leather sandals
-      - leather slippers
-      - linen sandals
-      - linen shoes
-      - palm fiber sandals
-      - papyrus sandals
-      - rawhide sandals
-      - reed sandals
-      - straw sandals
-      - wooden sandals
-      - woven shoes
+      - sandals
+      - slippers
     female:
-      - barefoot
-      - fishskin sandals
-      - jute sandals
-      - leather sandals
-      - leather slippers
-      - linen sandals
-      - linen shoes
-      - palm fiber sandals
-      - papyrus sandals
-      - rawhide sandals
-      - reed sandals
-      - straw sandals
-      - wooden sandals
-      - woven shoes
+      - sandals
+      - slippers
   royal:
     male:
-      - jute sandals
-      - leather sandals
-      - leather slippers
-      - linen sandals
-      - papyrus sandals
-      - rawhide sandals
-      - straw sandals
-      - woven shoes
+      - cothurnus boots
+      - posthumus boots
+      - leather boots
+      - sandals
     female:
-      - jute sandals
-      - leather sandals
-      - leather slippers
-      - linen sandals
-      - papyrus sandals
-      - rawhide sandals
-      - straw sandals
-      - woven shoes
+      - cothurnus boots
+      - posthumus boots
+      - leather boots
+      - sandals
 
 head:
   commoner:
     male:
-      - Taenia narrow headband
-      - cloth headband
-      - cloth headwrap
-      - striped headband
+      - pilos hat
+      - petasos hat
     female:
-      - Taenia narrow headband
-      - triangular headscarf
-      - floral head wreath
+      - pilos hat
+      - petasos hat
   military:
     male:
-      - corinthian helmet
-      - phrygian helmet
-      - chalcidian helmet
       - boeotian helmet
+      - chalcidian helmet
+      - corinthian helmet
+      - pilos helmet
+      - phrygian helmet
     female: # females were not in the military, placeholder only
-      - corinthian helmet
-      - phrygian helmet
-      - chalcidian helmet
       - boeotian helmet
+      - chalcidian helmet
+      - corinthian helmet
+      - pilos helmet
+      - phrygian helmet
   noble:
     male: # combine with trims and motifs
       - diadem
-      - electrum headband
       - gold headband
       - silver headband
       - woven headband
+      - olive wreath
+      - laurel wreath
     female:
       - diadem
-      - electrum headband
       - gold headband
       - silver headband
       - woven headband
+      - olive wreath
+      - laurel wreath
   spiritual:
     male: # combine with trims and motifs
-      - diadem
-      - electrum headband
-      - gold headband
-      - silver headband
-      - woven headband
+      - olive wreath
+      - laurel wreath
     female:
-      - diadem
-      - electrum headband
-      - gold headband
-      - silver headband
-      - woven headband
+      - olive wreath
+      - laurel wreath
   royal:
     male:
-      - Atef feather headdress
-      - Deshret red headdress # red crown
-      - Khat white headdress # conical white crown
-      - Hedjet red headdress # conical white crown
-      - Uraeus cobra diadem
+      - diadem
+      - gold headband
+      - olive wreath
+      - laurel wreath
     female:
-      - Atef feather headdress
-      - Deshret red headdress # red crown
-      - Khat white headdress # conical white crown
-      - Hedjet red headdress # conical white crown
-      - Uraeus cobra diadem
+      - diadem
+      - gold headband
+      - olive wreath
+      - laurel wreath
 
 tops:
-  commoner: # common
+  underwear:
     male:
-      - collared tunic
-      - fringed tunic
-      - panelled shirt
-      - peasant tunic
-      - shawl collar shirt
-      - short sleeved shirt
-      - sleevelss shirt
-      - sleveless tunic
-      - tunic
-      - vest
-      - wraparound tunic
+      - strophic chest wrap
     female:
-      - collared tunic
-      - embroidered top
-      - fitted bodice
-      - fringed top
-      - fringed tunic
-      - peasant blouse # female only
-      - peasant tunic
-      - pleated blouse # female only
-      - ruffled top
-      - sleveless tunic
-      - tunic
-      - wraparound blouse # female only
-      - wraparound tunic
-  military:
-    male:
-      - linothorax
-      - bell cuirass
-      - chitoniskos
-      - muscle cuirass
-    female: # females were not in the military, placeholder only
-      - linothorax
-      - bell cuirass
-      - chitoniskos
-      - muscle cuirass
-  spiritual:
-    male:
-      - collared tunic
-      - fringed tunic
-      - triangular shawl
-      - collared tunic
-      - fringed tunic
-      - triangular shawl
-      - panelled shirt # male only
-      - sleveless tunic # male only
-      - vest # male only
-    female:
-      - collared tunic
-      - fringed tunic
-      - triangular shawl
-      - embroidered top
-      - fitted bodice
-      - fringed top
-      - linen blouse
-      - ruffled top # female only
-      - strapless bodice # female only
-  noble: # common
-    male:
-      - collared tunic
-      - fringed tunic
-      - panelled shirt
-      - peasant tunic
-      - shawl collar shirt
-      - short sleeved shirt
-      - sleevelss shirt
-      - sleveless tunic
-      - tunic
-      - vest
-      - wraparound tunic
-    female:
-      - collared tunic
-      - embroidered top
-      - fitted bodice
-      - fringed top
-      - fringed tunic
-      - peasant blouse # female only
-      - peasant tunic
-      - pleated blouse # female only
-      - ruffled top
-      - sleveless tunic
-      - tunic
-      - wraparound blouse # female only
-      - wraparound tunic
-  royal:
-    male:
-      - collared tunic
-      - fringed tunic
-      - panelled shirt
-      - peasant tunic
-      - shawl collar shirt
-      - short sleeved shirt
-      - sleevelss shirt
-      - sleveless tunic
-      - tunic
-      - vest
-      - wraparound tunic
-    female:
-      - collared tunic
-      - embroidered top
-      - fitted bodice
-      - fringed top
-      - fringed tunic
-      - peasant blouse # female only
-      - peasant tunic
-      - pleated blouse # female only
-      - ruffled top
-      - sleveless tunic
-      - tunic
-      - wraparound blouse # female only
-      - wraparound tunic=
+      - strophic chest wrap
